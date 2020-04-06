@@ -1,0 +1,65 @@
+Holding(s) in CompanyHomeMailNewsFinanceSportsEntertainmentSearchMobileMore...YAHOO_FINANCESearchSign inMailSign in to view your mailFinance HomeWatchlistsMy PortfolioScreenersPremiumMarketsIndustriesPersonal FinanceVideosNewsTechU.S. Markets closedS&P 5002,978.76-137.63(-4.42%)Dow 3025,766.64-1,190.95(-4.42%)Nasdaq8,566.48-414.29(-4.61%)Holding(s) in CompanyGlobeNewswireJanuary 6, 2020ReblogShareTweetShareTR-1: Standard form for notification of major holdings NOTIFICATION OF MAJOR HOLDINGS (to be sent to the relevant issuer and to the FCA in Microsoft Word format if possible)i
+1a. Identity of the issuer or the underlying issuer of existing shares to which voting rights are attachedii: One Savings Bank Plc.
+1b. Please indicate if the issuer is a non-UK issuer  (please mark with an “X” if appropriate)
+Non-UK issuer
+2. Reason for the notification (please mark the appropriate box or boxes with an “X”)
+An acquisition or disposal of voting rights X
+An acquisition or disposal of financial instruments
+An event changing the breakdown of voting rights
+Other (please specify)iii: Please see section 11, additional information.
+3. Details of person subject to the notification obligationiv
+Name Merian Global Investors (UK) Ltd
+City and country of registered office (if applicable) London, UK
+4. Full name of shareholder(s) (if different from 3.)v
+Name
+City and country of registered office (if applicable)
+5. Date on which the threshold was crossed or reachedvi: 02/01/2020
+6. Date on which issuer notified (DD/MM/YYYY): 03/01/2020
+7. Total positions of person(s) subject to the notification obligation
+% of voting rights attached to shares (total of 8. A) % of voting rights through financial instruments
+(total of 8.B 1 + 8.B 2) Total of both in % (8.A + 8.B) Total number of voting rights of issuervii
+Resulting situation on the date on which threshold was crossed or reached 15.84% 0.02% 15.86% 445,443,454
+Position of previous notification (if applicable) 16.61% 0.03% 16.64% 444,919,559
+8. Notified details of the resulting situation on the date on which the threshold was crossed or reachedviii
+A: Voting rights attached to shares
+Class/type of sharesISIN code (if possible) Number of voting rightsix % of voting rights
+Direct(Art 9 of Directive 2004/109/EC) (DTR5.1) Indirect(Art 10 of Directive 2004/109/EC) (DTR5.2.1) Direct(Art 9 of Directive 2004/109/EC) (DTR5.1) Indirect(Art 10 of Directive 2004/109/EC) (DTR5.2.1)
+GB00BM7S7K96   70,562,458   15.84%
+SUBTOTAL 8. A 70,562,458 15.84%
+B 1: Financial Instruments according to Art. 13(1)(a) of Directive 2004/109/EC (DTR5.3.1.1 (a))
+Type of financial instrument Expiration datex Exercise/
+Conversion Periodxi Number of voting rights that may be acquired if the instrument is exercised/converted. % of voting rights
+SUBTOTAL 8. B 1
+B 2: Financial Instruments with similar economic effect according to Art. 13(1)(b) of Directive 2004/109/EC (DTR5.3.1.1 (b))
+Type of financial instrument Expiration datex Exercise/
+Conversion Period xi Physical or cash settlementxii Number of voting rights
+% of voting rights
+CFD     Cash 71,690 0.02%
+SUBTOTAL 8.B.2 71,690 0.02%
+9. Information in relation to the person subject to the notification obligation (please mark the applicable box with an “X”)
+Person subject to the notification obligation is not controlled by any natural person or legal entity and does not control any other undertaking(s) holding directly or indirectly an interest in the (underlying) issuerxiii x
+Full chain of controlled undertakings through which the voting rights and/or the financial instruments are effectively held starting with the ultimate controlling natural person or legal entityxiv (please add additional rows as necessary)
+Namexv % of voting rights if it equals or is higher than the notifiable threshold % of voting rights through financial instruments if it equals or is higher than the notifiable threshold Total of both if it equals or is higher than the notifiable threshold
+Merian Global Investors (UK) Limited 15.84% 0.02% 15.86%
+10. In case of proxy voting, please identify:
+Name of the proxy holder
+The number and % of voting rights held
+The date until which the voting rights will be held
+11. Additional informationxvi
+Place of completion London, UK
+Date of completion 03/01/2020
+Annex: Notification of major holdings (to be filed with the FCA only)
+A: Identity of the person subject to the notification obligation
+Full name (including legal form for legal entities) Merian Global Investors (UK) Limited
+Contact address (registered office for legal entities) Millennium Bridge House, 2 Lambeth Hill, London EC4P 4WR
+E-Mail ComplianceAdvisory@merian.com
+Phone number / Fax number 02073327500
+Other useful information (at least legal representative for legal persons)
+B: Identity of the notifier, if applicable
+Full name Anthony Goldstone
+Contact address Millennium Bridge House, 2 Lambeth Hill, London EC4P 4WR
+E-Mail ComplianceAdvisory@merian.com
+Phone number / Fax number 02073327500
+Other useful information (e.g. functional relationship with the person or legal entity subject to the notification obligation) Compliance Advisory
+C: Additional information
+Please send the completed form together with this annex to the FCA at the following email address: Majorshareholdings@fca.org.uk. Please send in Microsoft Word format if possible.ReblogShareTweetShareRecently ViewedYour list is empty.What to Read NextIMF, World Bank funds ready to fight virus outbreak: spokesmanAFPBiocontainment expert on coronavirus: There's no need for average people to panic yetYahoo FinanceA drug shortage due to the coronavirus is a 'considerable risk:' Fmr. FDA deputy commissionerYahoo Finance VideoRichard Branson’s Wealth Falls to Earth as Virgin Galactic SputtersBloombergAmid coronavirus, bitcoin has fallen 6% this week to below $8,800Yahoo FinanceEl-Erian: The Fed will cut rates in March, if not beforeYahoo Finance VideoIcahn Proposed Buying HP If It Didn’t Pursue Xerox MergerBloombergStock market live updates: Dow drops 1190 points amid coronavirus fears, S&P 500 sees fastest correction in historyYahoo FinanceMost face masks won’t protect you from the coronavirusYahoo FinanceDon’t buy the stock dip yet, says Goldman as it warns coronavirus will wipe out earnings growth this yearMarketWatchCoronavirus-induced stock selloff means IPO market is 'on holiday': veteran IPO analystYahoo FinanceMarket Watcher: Over six months we will see the markets higher Yahoo Finance VideoViacomCBS Layoffs Underway As Re-Merged Company Continues To Cut CostsDeadline'Stuck in no man’s land': A working mom details dealing with her sick child's student loan billYahoo FinanceStock market live updates: Stock futures climb after historic rout; coronavirus fears persistYahoo FinanceSomething 'dangerous' is happening beneath the surface of the market selloffYahoo Finance

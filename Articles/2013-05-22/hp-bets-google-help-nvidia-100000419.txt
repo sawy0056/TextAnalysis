@@ -1,0 +1,31 @@
+NEW YORK ( TheStreet) -- After years of strategic and executional debacle, HP
+is undergoing a variety of divorces and entering new relationships as part of the surgery it takes to find itself a future in the personal computing business. By personal computing, I mean PCs, tablets, as well as in the future also likely smartphones. Let's start by mentioning HP's relationship with Microsoft . To be sure, HP will continue working closely with Microsoft in all conceivable product categories -- as they should. This includes PCs, tablets and smartphones.
+What is important to realize, however, is that until very recently Microsoft was HP's exclusive partner in these areas. In a few short months, this exclusive relationship has started to change.
+In February, HP launched two new products based on Google
+operating systems:
+The HP Chromebook has just recently started shipping, and I will most likely be reviewing it starting in a matter of days from now. It's basically a laptop for any person seeking security, speed and simplicity. The laptop doesn't require any maintenance, anti-virus updates or complicated set-up. Just open it up and you can start working in a matter of approximately 10 seconds.
+>>Also see: Apple's Brand Is a Hidden Asset >>
+Furthermore, there are no expensive warranties or software you would bother buying. It's $330 and that's it -- forever. Other than that, its main selling point is that it is the only Chromebook in the market with a screen size larger than 13 inches. It's basically the ultimate productivity tool, certainly anywhere close to $330.
+The $169 Android tablet, on the other hand, is a more dubious first entry in the market. The product is too closely matched with Asus' Nexus 7, which costs only $30 more. It really doesn't bring anything new to the market, other than the slightly lower price.
+HP's Next Step With Google
+Tuesday, I got a chance to see a demo of HP's latest Android device, a 10.1-inch screen tablet-laptop combo-convertible running Android. This device will become available in August and cost $480. Aside from Nvidia's
+own Shield gaming device, it is the first specific product to be announced that's based on the Tegra 4 CPU/GPU.
+Here is the demo that I saw that was very impressive: It was a browser load test. Basically, a script that causes the browser to load one Web page after another, a couple of dozen of them.
+In many ways, this mimics the kind of usage that many people have in the real world. For example, on the Asus Nexus 7 from last summer -- a device famously powered by Nvidia's Tegra 3 CPU/GPU -- loading Web pages is relatively slow, in my opinion.
+On the contrary, loading Web pages on this Nvidia Tegra 4-based HP laptop/tablet was extremely fast. I tried the same test on a Samsung Nexus 10 side-by-side. The Samsung Nexus 10 is widely considered to be one of the fastest Android devices in the market.
+In this test, the Nvidia Tegra 4-based HP device completed the test in just under half the time of the Samsung Nexus 10. Watching it load those Web pages, it was blazing fast.
+Now, on the Nexus 10, the browser was Google's Chrome -- widely considered to be the best browser in the world. On the HP, it was the "old" Android browser, which Nvidia has "enhanced" in some nondescript way. I would like to see the same test done with the Chrome browser running on the Tegra 4-based HP device.
+>>Also see: How New Grads Should Manage Their Credit Cards >>
+Will HP be successful in selling this 10.1-inch tablet-laptop convertible for $480, starting in August? It's hard to tell. Computex is coming up, and companies such as Asus, Acer and Lenovo are examples of those that will likely compete fiercely in this field, possibly also by August. Will those companies also run Nvidia's Tegra 4? Who knows? Some may.
+My personal opinion is that this is a somewhat tough product segment for something that's meant to be sold with a keyboard. A 10.1-inch screen doesn't lend itself for productivity, such as authoring this article. The screen needs to be at a minimum 11.6 inches, and preferably somewhere between 12- and 13-something inches. That's when you have a comfortable laptop for proper productivity.
+I think the people at Apple
+over the years -- from Steve Jobs to Tim Cook -- have an excellent point in terms of their view that a product needs to primarily do one thing well -- not try to do everything well. You could combine a fridge with a toaster, but why?
+Microsoft's and Google's hardware partners seem to believe that a tablet and laptop may successfully reside in the same hardware. I am not so sure. I believe a tablet is fundamentally a different product, more closely related to a cellphone than a laptop.
+Tablets can be anywhere from seven or so inches in display size to 10 or so inches. Laptops, however, as I said before, aren't really useful until they hit 11.6 inches -- preferably a little larger than that still.
+This is a hard fact to overcome. Apple has its laptops -- that start at 11.6 inches -- and it's got 10- and 8-inch tablets. They are optimized for very different uses. I would never type this article on an iPad unless I had involuntarily lost my laptop.
+Anyway, what is clear here are three things:
+In this big scheme of things, this is no small deal. Nvidia is now playing in a much higher league than it used to in the past.
+At the time of publication the author was long GOOG, AAPL and NVDA.
+Follow @antonwahlman
+This article was written by an independent contributor, separate from TheStreet's regular news coverage.
+A 14-inch Chrome OS laptop ("Chromebook") based on an Intel CPU, priced at $330. A 7-inch Android tablet based on a RockChip CPU, priced at $169. HP is no longer basing all of its products on Microsoft. HP is making major bets on Google -- both Android and Chrome OS. Nvidia is playing a leading role in making HP's Google-based products as powerful as possible. EXCLUSIVE OFFER: See inside Jim Cramer’s multi-million dollar charitable trust portfolio to see the stocks he thinks could be potentially HUGE winners. Click here to see his holdings for FREE.Why Car Prices Vary From City To City7 Towns That Really Want Your Sports Team10 Greenest Cars of 2013

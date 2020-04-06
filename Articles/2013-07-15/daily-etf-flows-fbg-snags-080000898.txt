@@ -1,0 +1,71 @@
+The UBS AG FI Enhanced Big Cap Growth ETN (FBG) grabbed $767 million on Friday, July 12, as net inflows brought U.S.-listed ETF assets up to $1.510 trillion. Markets gained, with the S'P 500 adding 5.17 points, or 0.31 percent, to close at 1,680.19.Top 10 Creations (All ETFs) Ticker Name Net Flows ($,mm) AUM ($, mm) AUM % Change
+SPY SPDR S'P 500 3,761.63 149,655.86 2.58%
+FBG UBS AG FI Enhanced Big Cap Growth ETN 766.52 866.48 766.79%
+VWO Vanguard FTSE Emerging Markets 589.05 49,714.64 1.20%
+QQQ PowerShares QQQ 546.87 36,300.69 1.53%
+VTI Vanguard Total Stock Market 348.15 32,706.83 1.08%
+XLI Industrial Select SPDR 262.37 5,755.75 4.78%
+IVV iShares Core S'P 500 202.57 44,008.77 0.46%
+XLP Consumer Staples Select SPDR 184.50 6,916.36 2.74%
+MDY SPDR S'P MidCap 400 177.70 13,772.06 1.31%
+JNK SPDR Barclays High Yield Bond 169.58 9,526.92 1.81%
+Top 10 Redemptions (All ETFs) Ticker Name Net Flows ($,mm) AUM ($, mm) AUM % Change
+USMV iShares MSCI USA Minimum Volatility -94.61 3,253.98 -2.83%
+DIA SPDR Dow Jones Industrial Average Trust -92.65 13,277.72 -0.69%
+KRE SPDR S'P Regional Banking -88.93 2,100.41 -4.06%
+IYR iShares U.S. Real Estate -85.58 4,333.52 -1.94%
+SH ProShares Short S'P 500 -78.22 1,836.45 -4.09%
+BIV Vanguard Intermediate-Term Bond -66.64 4,177.50 -1.57%
+SHY iShares 1-3 Year Treasury Bond -59.00 8,360.58 -0.70%
+LQD iShares iBoxx $ Investment Grade Corporate Bond -56.95 19,328.83 -0.29%
+BIL SPDR Barclays 1-3 Month T-Bill -54.96 1,497.66 -3.54%
+GDX Market Vectors Gold Miners -45.07 6,005.96 -0.74%
+ETF Daily Flows By Asset Class
+Net Flows ($, mm) AUM ($, mm) % of AUM
+U.S. Equity 7,127.05 799,100.28 0.89%
+International Equity 661.23 336,902.66 0.20%
+U.S. Fixed Income 117.52 229,218.04 0.05%
+International Fixed Income -67.22 25,975.55 -0.26%
+Commodities 216.88 73,700.39 0.29%
+Currency -11.59 2,288.14 -0.51%
+Leveraged 780.07 16,371.55 4.76%
+Inverse -24.89 19,927.09 -0.12%
+Asset Allocation - 3,629.80 0.00%
+Alternatives 9.13 3,302.64 0.28%
+Total:
+8,808.18
+1,510,416.14
+0.58%
+Top 10 Volume Surprises, Funds '$50 mm AUM Ticker Name Average Volume(30 Day) 1-Day Volume % of Average
+GSG iShares S'P GSCI Commodity 279,030 1,649,437 591.13%
+AXJL WisdomTree Asia-Pacific ex-Japan 12,178 60,704 498.46%
+GML SPDR S'P Emerging Latin America 12,209 60,354 494.36%
+EZM WisdomTree MidCap Earnings 29,844 143,472 480.74%
+EUM ProShares Short MSCI Emerging Markets 586,941 2,716,026 462.74%
+VONE Vanguard Russell 1000 25,345 116,724 460.53%
+IRY SPDR S'P International Health Care 21,321 96,854 454.26%
+CFT iShares Credit Bond 178,082 802,633 450.71%
+TLTD FlexShares Morningstar Developed Markets ex-US Factor Tilt 35,437 159,206 449.27%
+EES WisdomTree SmallCap Earnings 37,996 168,461 443.36%
+Top 10 1-Day Performers, Excluding Leverage/Inverse Funds and '1,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+JJT iPath Dow Jones-UBS Tin Total Return ETN 3.56% 1,920 3.53
+QQQC Global X NASDAQ China Technology 3.49% 1,100 3.27
+TDV db X-trackers 2040 Target Date 3.25% 2,537 30.83
+GGGG Global X PURE Gold Miners 3.23% 1,299 3.17
+XBI SPDR S'P Biotech 3.01% 744,164 956.08
+BBH Market Vectors Biotech 2.73% 198,572 341.18
+UGA United States Gasoline 2.67% 50,121 65.46
+IBB iShares Nasdaq Biotechnology 2.47% 2,229,627 3,679.89
+FBT First Trust NYSE Arca Biotechnology 2.44% 156,420 627.78
+PBE PowerShares Dynamic Biotech ' Genome 2.13% 53,768 188.79
+Bottom 10 1-Day Performers, Excluding Leverage/Inverse Funds and '1,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+TDN db X-trackers 2030 Target Date -4.60% 11,544 30.72
+JO iPath Dow Jones-UBS Coffee Total Return ETN -3.78% 71,481 88.50
+CAFE iPath Pure Beta Coffee ETN -3.66% 8,760 4.16
+EWP iShares MSCI Spain Capped -3.01% 763,081 286.38
+EWI iShares MSCI Italy Capped -2.92% 1,412,583 612.78
+SILJ PureFunds ISE Junior Silver (Small Cap Miners/Explorers) -2.82% 2,000 1.53
+CORN Teucrium Corn -2.80% 54,286 38.58
+FXI iShares China Large-Cap -2.75% 16,136,101 5,109.78
+PSAU PowerShares Global Gold and Precious Metals -2.55% 13,708 18.91
+SOYB Teucrium Soybeans -2.48% 2,112 6.63 Disclaimer:All data as of 6 a.m. Eastern time the date the article is published. Data is believed to be accurate; however, transient market data is often subject to subsequent revision and correction by the exchanges.Permalink | ' Copyright 2013 IndexUniverse LLC. All rights reserved

@@ -1,0 +1,183 @@
+The Euro and the British Pound may rise as inflation and sentiment data chips away at expectations for an expansion of ECB and BOE monetary stimulus efforts.Talking Points British Pound May Rise as CPI Inflation Hits a 14-Month High
+Euro Has Scope to Advance as ZEW, CPI Trim ECB Easing Bets
+Aussie Gains After RBA Minutes Talk Down Rate Cut Threat
+June’s UK CPI figures are expected to put the headline year-on-year inflation rate at 3 percent, the highest in 14 months. A strong print may chip away at expectations of an expansion of Bank of England stimulus efforts, an interpretation that seems likely to boost the British Pound. Indeed, GBPUSD has shown a significant correlation with the UK-US 2-year yield spread, a proxy for relative monetary policy outlook. Follow-through could be limited however as markets look ahead to tomorrow’s publication of minutes from this month’s MPC meeting for guidance on the central bank’s threshold for higher prices.Meanwhile, Germany’s ZEW Survey of investor confidence is due to show the number of polled respondents expecting the economy to improve over the next six months exceeded the count of those calling for deterioration by the largest margin in four months. Separately, the final set of June’s Eurozone CPI numbers is forecast to confirm the year-on-year price growth rate at three-month high of 1.6 percent. The monetary policy outlook seems to be the formative driving force here as well, hinting ZEW and CPI outcomes that limit scope for further ECB easing may boost the Euro. The Australian Dollar outperformed in overnight trade, adding as much as 1.1 percent against its US namesake, after minutes from July’s RBA policy meeting weighed against the case for another interest rate cut at the August sit-down. Report showed policymakers viewed the current setting of monetary policy as “appropriate” and argued that the effects of past easing efforts have “further to run”, suggesting additional accommodation is seen as unnecessary in the near term.Capitalize on Shifts in Market Mood with the DailyFX Speculative Sentiment IndexAsia Session:
+GMT
+CCY
+EVENT
+ACT
+EXP
+PREV
+22:45
+NZD
+Consumer Prices (QoQ) (2Q)
+0.2%
+0.3%
+0.4%
+22:45
+NZD
+Consumer Prices (YoY) (2Q)
+0.7%
+0.8%
+0.9%
+1:30
+AUD
+Minutes from July RBA Policy Meeting
+-
+-
+-
+4:00
+JPY
+Tokyo Condominium Sales (YoY) (JUN)
+22.0%
+49.2%
+Euro Session:
+GMT
+CCY
+EVENT
+EXP/ACT
+PREV
+IMPACT
+6:00
+EUR
+EU 25 New Car Registrations (JUN)
+-5.6% (A)
+-5.9%
+Low
+8:30
+GBP
+CPI (YoY) (JUN)
+3.0%
+2.7%
+High
+8:30
+GBP
+CPI (MoM) (JUN)
+-0.1%
+0.2%
+High
+8:30
+GBP
+Core CPI (YoY) (JUN)
+2.3%
+2.2%
+Medium
+8:30
+GBP
+PPI Input n.s.a. (MoM) (JUN)
+-0.2%
+-0.3%
+Low
+8:30
+GBP
+PPI Input n.s.a. (YoY) (JUN)
+4.2%
+2.2%
+Low
+8:30
+GBP
+PPI Output n.s.a. (MoM) (JUN)
+0.0%
+0.0%
+Medium
+8:30
+GBP
+PPI Output n.s.a. (YoY) (JUN)
+1.9%
+1.2%
+Medium
+8:30
+GBP
+PPI Output Core n.s.a. (MoM) (JUN)
+0.1%
+0.1%
+Low
+8:30
+GBP
+PPI Output Core n.s.a. (YoY) (JUN)
+1.1%
+0.8%
+Low
+8:30
+GBP
+ONS House Prices (YoY) (MAY)
+2.8%
+2.6%
+Low
+8:30
+GBP
+Retail Price Index (MoM) (JUN)
+0.0%
+0.2%
+Low
+8:30
+GBP
+Retail Price Index (YoY) (JUN)
+3.4%
+3.1%
+Low
+8:30
+GBP
+RPI Ex Mort Int. Payments (YoY) (JUN)
+3.4%
+3.1%
+Low
+9:00
+EUR
+Eurozone CPI (MoM) (JUN)
+0.1%
+0.1%
+High
+9:00
+EUR
+Eurozone CPI (YoY) (JUN F)
+1.6%
+1.6%
+High
+9:00
+EUR
+Eurozone CPI - Core (YoY) (JUN F)
+1.2%
+1.2%
+Medium
+9:00
+EUR
+Eurozone Trade Balance (€) (MAY)
+12.0B
+14.9B
+Low
+9:00
+EUR
+Eurozone Trade Balance s.a. (€) (MAY)
+16.2B
+16.1B
+Low
+9:00
+EUR
+Eurozone ZEW Survey (Econ Sentiment) (JUL)
+-
+30.6
+Medium
+9:00
+EUR
+German ZEW Survey (Econ Sentiment) (JUL)
+40.0
+38.5
+High
+9:00
+EUR
+German ZEW Survey (Current Situation) (JUL)
+9.0
+8.6
+High
+Critical Levels:
+CCY
+SUPPORT
+RESISTANCE
+EURUSD
+1.3009
+1.3138
+GBPUSD
+1.5041
+1.5191
+--- Written by Ilya Spivak, Currency Strategist for Dailyfx.comTo contact Ilya, e-mail ispivak@dailyfx.com. Follow Ilya on Twitter at @IlyaSpivakTo be added to Ilya's e-mail distribution list, please CLICK HEREDailyFX provides forex news and technical analysis on the trends that influence the global currency markets.Learn forex trading with a free practice account and trading charts from FXCM.

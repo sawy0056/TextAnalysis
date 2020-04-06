@@ -1,0 +1,21 @@
+The EGShares India Infrastructure fund (INXX) sank 5.17 percent on Friday, Aug. 16, while precious metals funds like the ETFS Physical Silver fund (SIVR), which gained 3.77 percent, outperformed their peers. Markets slid and the S'P 500 lost 5.49 points, or 0.33 percent, closing at 1,655.83. Total U.S.-listed ETF assets also fell, ending the day at $1.521 trillion.Top 10 1-Day Performers, Excluding Leverage/Inverse Funds and '5,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+SIVR ETFS Physical Silver 3.77% 304,874 410.41
+SLV iShares Silver Trust 3.77% 18,918,932 7,725.72
+GLTR ETFS Physical Precious Metal Basket Shares 3.05% 20,069 196.48
+SGOL ETFS Physical Swiss Gold 2.97% 156,892 1,328.08
+IAU iShares Gold Trust 2.97% 5,781,337 7,819.74
+GLD SPDR Gold 2.97% 14,447,036 40,286.40
+WITE ETFS Physical WM Basket 2.69% 5,943 30.42
+PALL ETFS Physical Palladium 2.14% 43,944 592.75
+DBB PowerShares DB Base Metals 1.97% 512,935 273.94
+TAN Guggenheim Solar 1.93% 109,938 167.75 Bottom 10 1-Day Performers, Excluding Leverage/Inverse Funds and '5,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+INXX EGShares India Infrastructure -5.17% 21,407 52.97
+INP iPath MSCI India ETN -4.83% 115,901 324.95
+INDA iShares MSCI India -4.43% 506,001 250.70
+INDY iShares India 50 -4.42% 168,409 385.13
+EPI WisdomTree India Earnings -4.39% 5,283,097 725.11
+SCIN EGShares India Small Cap -4.08% 20,343 16.54
+PIN PowerShares India -3.88% 1,675,645 310.04
+SMIN iShares MSCI India Small-Cap -3.80% 6,800 2.54
+SCIF Market Vectors India Small-Cap -3.54% 177,758 78.63
+EIDO iShares MSCI Indonesia -3.43% 282,148 452.34 Disclaimer:All data as of 6 a.m. Eastern time the date the article is published. Data is believed to be accurate; however, transient market data is often subject to subsequent revision and correction by the exchanges.Permalink | ' Copyright 2013 IndexUniverse LLC. All rights reserved

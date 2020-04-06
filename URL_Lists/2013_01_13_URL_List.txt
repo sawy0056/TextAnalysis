@@ -1,0 +1,1 @@
+['http://finance.yahoo.com/news/ford-ceo-luxury-market-room-lincoln-065355530--finance.html', 'http://finance.yahoo.com/news/europes-markets-climb-slump-203925142--finance.html']

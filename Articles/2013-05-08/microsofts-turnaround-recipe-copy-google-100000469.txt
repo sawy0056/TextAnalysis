@@ -1,0 +1,47 @@
+NEW YORK ( TheStreet) -- The latest "fashion topic" in technology investing is Microsoft's
+return from the stock market backwaters. It's all about how Microsoft's new and improved products will stem the market share declines of the last couple of years. The nature of these "new and improved" products is, however, extremely poorly understood. The hourly explanations on CNBC seem to be centered on the Windows start button returning after a brief hiatus.
+The key to understanding a potential Microsoft turnaround has nothing to do with fixing a small bump in the road in the form of a misguided approach to eliminating the start button. If that were the source of Microsoft's decline, then Microsoft must have been doing extremely well until just before the launch of Windows 8 on Oct. 26, 2012.
+But, of course, Microsoft was in decline long before the start button disappeared last Oct. 26.
+Likewise, a Microsoft renaissance will be based on something entirely different, and that is a total transformation away from localized software to cloud computing.
+Basically, Microsoft's future resides in copying Google's
+Chrome OS and Salesforce.com .
+Let me explain.
+Traditional PCs -- both Windows and the Mac, as well as enterprise software from companies such as Oracle
+-- are based on the idea that you buy and install programs on your PC and server sitting in a closet. These programs need to be maintained and upgraded by your in-house staff, or yourself if you're in charge of the household or small business.
+>>Also see: Google Glass Success Will Rely on Business Users >>
+Maintaining and upgrading software not only costs a lot of money to buy, but it also takes a lot of time -- which is also a huge cost. This is good for IT consultants, Microsoft and Oracle, but not for anyone else.
+This is where companies such as Google and Salesforce.com entered the picture. These companies harnessed the open Web in order to deliver software as a service (SaaS). You don't need any special software to access Google and Salesforce.com -- just open a browser window.
+Guess what? This is the direction in which Microsoft is going as well. Let me offer a few examples of what is being implemented right now:
+1. Outlook vs. Outlook.com:
+If you were working in white-collar office America in the last 20 years, you probably spent most of your computer time in Microsoft Outlook. This remains the most powerful software of its kind, but it may also be overkill for many users. It is also hugely cumbersome.
+How often does your Outlook program warn you that your mailbox is full? What about accessing Outlook from another device -- PC, tablet or smartphone?
+Of course, you can access Outlook from other devices but it may be cumbersome, slow or provide you with incomplete access, feeding you only certain aspects of Outlook. In the meantime, the Outlook program swells in your server farm and on your main PC.
+In other words, Outlook is the old world. It is inelegant and costs too much money. It is also not well-suited to users of multiple devices on all sorts of alternative operating systems.
+Enter Outlook.com. By moving your Outlook to the cloud, it becomes easier to provide a consistent experience across all of your devices. In other words, just like Gmail.
+Have an Android tablet and an Android smartphone? Fine -- the Outlook.com client makes it work just like Gmail. No file swelling on a PC back at the office, no server swelling inside a closet.
+2. Windows 8 Apps:
+One benefit with a traditional PC is you can install programs from anywhere. Sadly, it is also its Achilles heel. Regular PC users are way too gullible in terms of installing software.
+Apple
+and Google solve this problem with tightly controlled app stores. Microsoft had started doing this too -- on the phone, Windows Phone. Of course, Google has taken this concept the furthest in the form of Chrome OS, where there are essentially no apps at all, just a browser.
+>>Also see: Want Higher Education? Get Ready to Pay the Ambition Tax >>
+Microsoft has taken a step in this direction with Windows 8 RT. Only apps coming from Microsoft's tightly controlled online store can be installed. This means the ultimate in security.
+3. Microsoft Office Online:
+How many times in the last 20 years did you buy a new version of Microsoft Office for $150 or $450, and install it on one PC? I used to do it every three years.
+This is changing -- on two fronts:
+In other words, just like Google Docs. Or Salesforce.com.
+If you want to understand where Microsoft is going this year with Windows 8, you have to understand that almost everyone in the industry realizes Google's Chrome OS is the future for most of enterprise and consumer markets alike. Yes, there will be special exceptions for those who have unusual software requirements not yet available online.
+However, as we see with Microsoft Office and Outlook, even these special exceptions are migrating online. Even the world of gaming will migrate increasingly online already in 2013. The cloud is winning -- big! -- and Microsoft had better hurry up and copy Google's Chrome OS and Salesforce.com if it is to survive.
+And it is.
+When Microsoft launches its new software architecture in the next few short months, it will offer much of the same benefits as Chrome OS and Salesforce.com. Not completely, but in many important aspects, with more steps to complete the picture in 2014 and 2015.
+It is this architectural embrace of Google's Chrome OS and Salesforce.com that will save Microsoft -- not reinstating the start button.
+What about the stock?
+On the product side, Microsoft is moving the right direction in 2013. Microsoft will end 2013 in a much better position than it started. The product progress will be greater than any other recent year in Microsoft's history.
+Of course, on the unknown side is how much Google and Apple will move their competitive instruments in the same time period. Google is already way ahead, and Apple has to catch up in terms of cloud services and architecture. This article is too short for me to be able to outline these scenarios, but suffice to say that Microsoft's return to competitive excellence is not without challenges.
+The other dimension is profitability. Microsoft's historical model has been one of very high prices for its software. The cost of Windows, Office and other licenses has been the envy of the industry.
+Now comes Google, which gives much software for free in exchange for an advertising model. Why pay anything -- even a small annual subscription fee -- for Microsoft Office when Google Docs is free?
+As a result, even if Microsoft's products copy the best from Google Chrome OS and Salesforce.com, the economic equation may remain an uphill battle for Microsoft. Revenue and margins may decline, even though the users will cheer for the dramatically improved Microsoft product portfolio.
+In the meantime, as a user I will be enjoying the new Outlook.com and the fact that Windows and Office are moving architecturally in the direction of Chrome OS. I'm just not sure what to make of the stock right now.
+At the time of publication the author was long GOOG, AAPL, CRM and FB.
+Follow @antonwahlman
+This article was written by an independent contributor, separate from TheStreet's regular news coverage.
+Story continuesInstead of paying $150-$450 for a one-PC install, you now pay Microsoft $100 per year to use Office on five devices simultaneously. You get upgrades as soon as they hit -- not once every three years after paying another $150-$450 per PC.You can now access much of Microsoft Office online -- for free. No need to even pay the $100 per year. Just fire it up from inside any browser.EXCLUSIVE OFFER: See inside Jim Cramer’s multi-million dollar charitable trust portfolio to see the stocks he thinks could be potentially HUGE winners. Click here to see his holdings for FREE.10 Greenest Cars of 201310 Biggest Summer Blockbusters Without Superheroes10 Major League Towns Where Baseball Doesn't Cost a Bundle

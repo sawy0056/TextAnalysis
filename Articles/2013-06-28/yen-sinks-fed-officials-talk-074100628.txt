@@ -1,0 +1,243 @@
+The Japanese Yen sank amid a recovery in risk appetite in Asia after Fed officials poured cold water on QE reduction expectations. More of the same is hinted ahead.Talking Points Japanese Yen Sinks as Fed Officials Talk Down QE Reduction Speculation
+German CPI Increase May Boost Euro Amid Fading ECB Stimulus Hopes
+S&P 500 Futures Point to Risk Appetite Well-Supported into Week-End The Japanese Yen underperformed in overnight trade, down as much as 0.8 percent on average against its top counterparts, as swelling risk appetite buoyed demand for carry trades funded in the perennially low-yielding currency. The MSCI Asia Pacific regional benchmark stock index rose 2 percent as investors cheered on comments from New York Fed President Bill Dudley and Fed Governor Jerome Powell that poured cold water on stimulus reduction bets. Dudley said QE may be prolonged as-is if the economy falls short of the central bank’s outlook, adding growth may “diverge significantly” from the FOMC forecast. Powell added that the timing for reducing asset purchases is “in no way” predetermined. Commodity prices likewise tracked higher as traders greeted the possibility that Fed support may not be withdrawn as quickly as previously expected. Cycle-sensitive crude oil prices followed shares higher while gold and silver edged higher as the prospect of longer-lasting QE stabilized anti-fiat demand.S&P 500 futures are pointing firmly higher in early European trade, pointing to more of the same through the end of the trading week. The preliminary set of June’s German CPI figures headlines the economic calendar. Expectations suggest the headline inflation rate rose to 1.7 percent, a five-month high. The result may weigh on the probability for expanded ECB stimulus in the minds of investors and boost the Euro, where prices have been tracking closely in line with the front-end yield spread (a gauge of the markets’ monetary policy outlook). Comments from Fed Governor (and sitting FOMC member) Jeremy Stein headline the day’s speaking schedule.Capitalize on Shifts in Market Mood with the DailyFX Speculative Sentiment IndexAsia Session:
+GMT
+CCY
+EVENT
+ACT
+EXP
+PREV
+22:45
+NZD
+Building Permits (MoM) (MAY)
+1.3%
+-3.9%
+21.0%
+23:05
+GBP
+GfK Consumer Confidence Survey (JUN)
+-21
+-21
+-22
+23:15
+JPY
+Nomura/JMMA Manufacturing PMI (JUN)
+52.3
+-
+51.5
+23:30
+JPY
+National CPI (YoY) (MAY)
+-0.3%
+-0.4%
+-0.7%
+23:30
+JPY
+National CPI Ex-Fresh Food (YoY) (MAY)
+0.0%
+0.0%
+-0.4%
+23:30
+JPY
+National CPI Ex Food, Energy (YoY) (MAY)
+-0.4%
+-0.3%
+-0.6%
+23:30
+JPY
+Household Spending (YoY) (MAY)
+-1.6%
+1.3%
+1.5%
+23:30
+JPY
+Jobless Rate (MAY)
+4.1%
+4.0%
+4.1%
+23:30
+JPY
+Job-To-Applicant Ratio (MAY)
+0.9
+0.9
+0.89
+23:30
+JPY
+Tokyo CPI (YoY) (JUN)
+0.0%
+0.1%
+-0.2%
+23:30
+JPY
+Tokyo CPI Ex-Fresh Food (YoY) (JUN)
+0.2%
+0.2%
+0.1%
+23:30
+JPY
+Tokyo CPI Ex Food, Energy (YoY) (JUN)
+-0.4%
+-0.3%
+-0.3%
+23:50
+JPY
+Industrial Production (MoM) (MAY P)
+2.0%
+0.2%
+0.9%
+23:50
+JPY
+Industrial Production (YoY) (MAY P)
+-1.0%
+-2.4%
+-3.4%
+23:50
+JPY
+Large Retailers' Sales (MAY)
+-0.4%
+0.2%
+-2.3%
+23:50
+JPY
+Retail Trade s.a. (MoM) (MAY)
+1.5%
+0.7%
+0.6%
+23:50
+JPY
+Retail Trade (YoY) (MAY)
+0.8%
+0.0%
+-0.2%
+1:30
+AUD
+Private Sector Credit (MoM) (MAY)
+0.3%
+0.3%
+0.3%
+1:30
+AUD
+Private Sector Credit (YoY) (MAY)
+3.0%
+2.9%
+3.1%
+1:35
+CNY
+MNI Flash Business Sentiment Indicator (JUN)
+53.7
+-
+56.7
+3:00
+NZD
+Money Supply M3 (YoY) (MAY)
+6.2%
+-
+6.5%
+4:00
+JPY
+Vehicle Production (YoY) (MAY)
+-6.2%
+-
+-6.5%
+5:00
+JPY
+Housing Starts (YoY) (MAY)
+14.5%
+6.1%
+5.8%
+5:00
+JPY
+Annualized Housing Starts (MAY)
+1.027M
+0.950M
+0.939M
+5:00
+JPY
+Construction Orders (YoY) (MAY)
+26.0%
+-
+2.0%
+Euro Session:
+GMT
+CCY
+EVENT
+EXP/ACT
+PREV
+IMPACT
+6:00
+EUR
+German Retail Sales (YoY)
+0.4% (A)
+2.7%
+Medium
+6:00
+EUR
+German Retail Sales (MoM)
+0.8% (A)
+-0.1%
+Medium
+6:00
+GBP
+Nationwide House Prices s.a. (MoM)
+0.3% (A)
+0.4%
+Medium
+6:00
+GBP
+Nationwide House Prices n.s.a. (YoY)
+1.9% (A)
+1.1%
+Medium
+7:00
+CHF
+KOF Swiss Leading Indicator
+1.16 (A)
+1.1
+Medium
+8:30
+GBP
+Index of Services (MoM)
+0.1%
+0.2%
+Low
+8:30
+GBP
+Index of Services (3Mo3M)
+1.1%
+0.6%
+Low
+12:00
+EUR
+German CPI (MoM) (JUN P)
+0.0%
+0.4%
+High
+12:00
+EUR
+German CPI (YoY) (JUN P)
+1.7%
+1.5%
+High
+12:00
+EUR
+German CPI - EU Harmonised (MoM) (JUN P)
+0.1%
+0.3%
+Low
+12:00
+EUR
+German CPI - EU Harmonised (YoY) (JUN P)
+1.8%
+1.6%
+Low
+Critical Levels:
+CCY
+SUPPORT
+RESISTANCE
+EURUSD
+1.3006
+1.3089
+GBPUSD
+1.5192
+1.5336
+--- Written by Ilya Spivak, Currency Strategist for Dailyfx.comTo contact Ilya, e-mail ispivak@dailyfx.com. Follow Ilya on Twitter at @IlyaSpivakTo be added to Ilya's e-mail distribution list, please CLICK HEREDailyFX provides forex news and technical analysis on the trends that influence the global currency markets.Learn forex trading with a free practice account and trading charts from FXCM.

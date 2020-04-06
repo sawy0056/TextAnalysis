@@ -1,0 +1,51 @@
+RIVER FALLS, WI--(Marketwired - Aug 12, 2013) - Sajan, Inc. (
+OTCQB :
+SAJA ), a provider of global language services and translation management software, today reported financial results for the quarter ended June 30, 2013.Revenues for the quarter ended June 30, 2013 were $6.1 million, which represented an increase of 11.3 percent over revenues for the quarter ended June 30, 2012 of $5.5 million.  The Company reported net income for the second quarter of 2013 of approximately $147,000, or $0.01 per share, compared to a net loss of approximately $181,000, or $0.01 per share for the same quarter last year.  Financial results included non-cash expense related to stock options of approximately $51,000, in the three months ended June 30, 2013 compared to approximately $50,000, in the three months ended June 30, 2012. Revenues for the six months ended June 30, 2013 were $11.7 million, which represented an increase of 14.6 percent from revenues for the same period in 2012 of $10.2 million.  Net income for the six months ended June 30, 2013 was approximately $163,000, or $0.01 per share, compared to net loss of approximately $970,000 or $0.06 per share for the same period last year.  Financial results for the six months included non-cash expense related to stock options of approximately $100,000 in the six months ended June 30, 2013 compared to approximately $105,000 in the six months ended June 30, 2012. "I am very pleased with the progress made during Q2.  Not only were improvements made in nearly every financial category, we continue to see a positive response from the market to Transplicity.  Additionally, our business development efforts are gaining momentum and Global Operations showed improved performance.  Sajan's innovative solution and progress such as this will serve to better position the company for even greater future success," noted Sajan CEO, Shannon Zimmerman.Conference Call Details
+The company's investors will have the opportunity to listen to management's discussion of its business operations, financial results and growth strategies on a conference call at 10:30 a.m. (Central time) on August 12, 2013. The company invites all those interested to join the call by dialing 1-888-469-1336 and entering access code 7540313.  For those who cannot listen to the live broadcast, a replay will be available shortly after the call and until 11:59 p.m. CT on August 19, 2013 by dialing 1-888-566-0617.About Sajan
+Sajan is a leading provider of global language translation and localization services, helping clients around the world expand seamlessly into any global market.  The foundation of our solution is our industry leading language translation management system technology -- Transplicity -- which provides process automation and innovative multilingual content reuse to provide schedule predictability, higher quality and cost efficiencies to our clients. By working closely with our clients, Sajan's experienced teams of localization professionals develop tailored solutions which provide flexibility to any large or small business that truly desires to "think globally, but act locally." Based in the United States, we also have offices in Ireland, Spain and Singapore. Sajan is publicly traded under the symbol SAJA. Learn more about Sajan at www.sajan.com.Forward-Looking Statements
+The Private Securities Litigation Reform Act of 1995 provides a safe harbor for certain forward-looking statements. The Company's Annual Report on Form 10-K, its Quarterly Report on Form 10-Q and other filings with the Securities and Exchange Commission, the Company's press releases and oral statements made with the approval of an authorized executive officer, contain forward-looking statements that reflect the Company's current views with respect to future events and financial performance. These forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from historical results or those anticipated. The words "aim," "believe," "expect," "anticipate," "intend," "estimate" and other expressions that indicate future events and trends identify forward-looking statements. Actual future results and trends may differ materially from historical results or those anticipated depending on a variety of factors, including, but not limited to those set forth in the Company's Annual Report on Form 10-K for the year ended December 31, 2012 filed with the Securities and Exchange Commission on March 29, 2013, under the heading "Item 1A. Risk Factors".  The Company does not undertake any obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise.
+Sajan, Inc. and Subsidiaries
+CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS (UNAUDITED)
+Three months ended
+June 30,     Six months ended
+June 30,
+2013     2012     2013     2012
+Revenues   $ 6,133,008     $ 5,512,768     $ 11,657,210     $ 10,176,499
+Operating Costs:
+Cost of revenues (exclusive of depreciation and amortization)     3,743,441       3,522,062       7,156,187       6,643,827
+Sales and marketing     833,593       640,210       1,573,674       1,242,772
+Research and development     205,393       319,080       368,784       765,806
+General and administrative     943,775       984,009       1,893,526       1,950,219
+Loss on subsidiary closure     -       -       -       80,113
+Depreciation and amortization     222,761       183,319       428,667       404,235
+Income (loss) from Operations     184,045       (135,912 )     236,372       (910,473 )
+Other income (expense), net     (30,669 )     (44,772 )     (53,976 )     (59,812 )
+Income (loss) before income taxes     153,376       (180,684 )     182,396       (970,285 )
+Income tax (expense) benefit     (5,926 )     -       (19,273 )     -
+Net income (loss)   $ 147,450     $ (180,684 )   $ 163,123     $ (970,285 )
+Income (loss) per common share - basic & diluted   $ 0.01     $ (0.01 )   $ 0.01     $ (0.06 )
+Weighted average shares outstanding - basic     16,268,393       16,185,804       16,268,393       16,182,426
+Weighted average shares outstanding - diluted     16,308,220       16,185,804       16,308,220       16,182,426
+Sajan, Inc. and Subsidiaries
+CONDENSED CONSOLIDATED BALANCE SHEETS
+June 30, 2013 (Unaudited)   December 31, 2012
+Assets
+Current assets
+Cash and cash equivalents   $ 945,052   $ 892,939
+Accounts receivable, net of allowance of $15,000     4,001,815     3,192,337
+Unbilled services     1,137,283     1,015,429
+Other current assets     685,812     492,854
+Total current assets     6,769,962     5,593,559
+Property and equipment, net     1,022,938     805,284
+Other assets, net     981,730     897,534
+Total assets   $ 8,774,630   $ 7,296,377
+Liabilities and Stockholders' Equity
+Current liabilities
+Accounts payables   $ 2,547,709   $ 2,501,772
+Line of credit     400,000     400,000
+Other current liabilities     2,523,679     1,434,229
+Total current liabilities     5,471,388     4,336,001
+Long-term liabilities     872,540     757,549
+Total liabilities     6,343,928     5,093,550
+Stockholders' equity     2,430,702     2,202,827
+Total liabilities and stockholders' equity   $ 8,374,630   $ 7,296,377

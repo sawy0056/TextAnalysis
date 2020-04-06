@@ -1,0 +1,20 @@
+Altera Corporation (ALTR) reported earnings of 37 cents per share in the first quarter of 2013, which surpassed the Zacks Consensus Estimate by 4 cents.
+Revenues
+Altera reported total revenue of $410.5 million in the first quarter, up 7.0% year over. The quarter’s revenues came below the Zacks Consensus Estimate of $427.0 million and were within management’s sequential decline guidance range of 4.0%–8.0%. The year-over-year improvement was mainly due to solid contribution from the Americas, Europe, the Middle East & Africa (:EMEA) region as well as higher sales of new products.
+Sales of new products grew 64.0% from the year-ago quarter, while revenues from mainstream and mature products declined 3.0% and 20.0%, respectively.
+Geographically, revenues from EMEA and Americas grew 22.0% and 21.0%, respectively on a year-over-year basis. Revenues from Asia-Pacific and Japan fell 3.0% each. On an end-market basis; networking, computer & storage recorded high double-digits growth, followed by high-single digit growth in telecom and wireless and low single-digit growth in automotive, broadcast, military and others.
+Sequentially, Altera witnessed lackluster performance from all the geographical regions, product category and end markets.
+Operating Results
+Gross margin came in at 69.3%, down from 70.1% in the year-ago quarter and within management’s guided range. Operating margin came in at 28.7%, down from 30.4% in the year-ago quarter. Total operating expenses grew 9.5% year over year, reflecting higher sales and marketing expenses.
+Reported net income was $120.2 million or 37 cents per share compared with $115.8 million or 35 cents per share in the first quarter of 2012.
+Balance Sheet & Cash Flow
+Altera exited the quarter with cash and short-term investment balance of $3.12 billion and operating cash of $149.5 million. Capital expenditure was $14.6 million.
+Altera did not make any share repurchases during the quarter. The company declared a quarterly dividend of 10 cents per share, which will be paid on Jun 3 to stockholders of record as of May 10.
+Guidance
+Altera expects sales to be flat to up 4.0% sequentially in the second quarter of 2013. The revenue improvement could be due to an expected turnaround in telecom & wireless as well as auto, industrial, and military end markets. Networking and storage end markets are expected to lag. The Others category is expected to remain flat sequentially.
+Management projects gross margin of 69% (+/- 0.5%) in the second quarter, roughly in line with the first quarter. Research and development expenses are expected in the range of $97.0 million to $99 million, while SG&A will range between $77 million and $79 million. Tax rate is expected in the range of 12.0%–13.0%.
+Conclusion
+Altera has delivered mixed first-quarter 2013 results with earnings beating the Zacks Consensus Estimate and revenues missing the same. However, revenues grew year over year with support from geographical contributions, decent end-market performance and higher sales of new products. Guidance was encouraging citing some turnaround in the end markets barring networking & storage end markets.
+Altera’s archrival Xilinx Inc. (XLNX) also reported modest results for the fourth quarter of fiscal 2013 and provided a better guidance for the first quarter citing higher revenues from all geographic regions, better demand situation for its 28nm node products and expected traction in its 20nm products, which are ready to be shipped.
+Though Altera’s association with chip maker Intel Corp. (INTC) will keep it ahead of its peers, synergies from the partnership is not likely to boost fundamentals in the near term.
+Currently, Altera holds a Zacks Rank #4 (Sell). Not all semiconductor stocks are performing as poorly as Altera. We recommend Atmel Corp. (ATML) with a Zacks Rank #2 (Buy).  Read the Full Research Report on INTCRead the Full Research Report on ALTR Read the Full Research Report on XLNX Read the Full Research Report on ATML Zacks Investment Research More From Zacks.com Read the analyst report on INTC,ALTR,XLNX,ATML

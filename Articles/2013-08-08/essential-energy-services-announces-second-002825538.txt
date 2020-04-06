@@ -1,0 +1,649 @@
+CALGARY, ALBERTA--(Marketwired - Aug 7, 2013) - Essential Energy Services Ltd. (ESN.TO) ("Essential" or the "Company") announces second quarter results and an increase in the quarterly dividend.INCREASED QUARTERLY DIVIDENDEssential is pleased to announce an increase in the quarterly dividend from $0.025 per share to $0.03 per share. This is a 20% increase that reflects Essential's strong financial position and positive view of the future.The cash dividend for the period July 1, 2013 to September 30, 2013 has been set at $0.03 per share. The dividend will be paid on October 15, 2013 to shareholders of record on September 30, 2013. The ex-dividend date is September 26, 2013.SECOND QUARTER RESULTSAfter reporting record EBITDA(1) in the first quarter of 2013, Essential reports EBITDA of $(5.2) million in the second quarter of 2013 and $28.3 million year-to-date. "It has been well publicized that weather in western Canada during the second quarter was very unfavorable for oilfield services," said Garnet Amundson, President and CEO. "Essential's deep coil tubing fleet was particularly affected by adverse moisture conditions restricting our ability to work. We expect all of our operations to be back on track for the remainder of the year."
+SELECTED INFORMATION
+Three months ended
+Six months ended
+June 30,
+June 30,
+(Thousands, except per share amounts)
+2013
+2012*
+2013
+2012*
+Revenue $ 38,417 $ 50,870 $ 158,936 $ 169,052
+Gross margin $ (1,310) $ 3,904 $ 36,521 $ 40,643
+Gross margin %
+(3)%
+8%
+23%
+24%
+EBITDA(1) from continuing operations $ (5,171) $ (42) $ 28,254 $ 32,713
+EBITDA % (1)
+(13)%
+0%
+18%
+19%
+Net income (loss) continuing operations $ (8,958) $ (5,453) $ 10,247 $ 14,369
+Per share - basic and diluted $ (0.07) $ (0.04) $ 0.08 $ 0.11
+Total assets $ 380,728 $ 393,377 $ 380,728 $ 393,377
+Total long-term debt $ 14,592 $ 41,198 $ 14,592 $ 41,198
+Utilization
+Deep coil tubing rigs
+18%
+32%
+64%
+67%
+Service rigs
+28%
+34%
+48%
+51%
+Equipment fleet **
+Deep coil tubing rigs
+25
+25
+25
+25
+Service rigs
+56
+53
+56
+53
+* Certain comparative amounts have been reclassified to conform to the current period's presentation.
+** Fleet data represents the number of units at the end of a period.
+1 Refer to "Non-IFRS Measures" section for further information.HIGHLIGHTS - SECOND QUARTER 2013Revenue for the second quarter of 2013 was $38.4 million, a decrease of $12.5 million compared to the second quarter of 2012.Coil Well Service - Essential's coil well service business experienced a decline in revenue relative to prior year due to abnormally wet conditions which extended spring break-up preventing equipment from returning to work. Deep coil tubing utilization was limited to 18% given the restrictions on moving heavy equipment due to road bans. In the comparative period of 2012, Essential also had two customer projects that did not recur in 2013. Service Rigs - Service rig revenue was relatively unchanged compared to prior year despite the wet conditions and the net addition of three service rigs to the fleet. Service rig utilization at 28% decreased from prior year. Demand continued for Essential's service rigs operating on steam-assisted gravity drainage ("SAGD") wells contributing to incremental revenue in 2013. Downhole Tools & Rentals - Revenue for downhole tools & rentals remained relatively flat during the second quarter of 2013 compared to prior year, performing well in a challenging industry environment in which drilling rig utilization decreased 18% quarter-over-quarter. EBITDA for the second quarter of 2013 was a loss of $5.2 million, a decrease of $5.1 million from 2012. The decrease was mainly attributable to lower utilization in the coil well service business and the greater impact on margins of operating costs incurred relative to revenue. Certain expenses associated with labour, maintaining equipment and service locations, infrastructure and administration have a fixed cost component, negatively impacting operating margins during periods of low activity. A portion of these operating costs normally incurred near the end of the first quarter were pushed into the second quarter of 2013 due to the extended winter season.Essential's capital program remains on target. During the second quarter, Essential commissioned one mobile free standing, all period double service rig which is SAGD capable. Essential also took delivery of two nitrogen pumpers in the second quarter.INDUSTRY OVERVIEWThe seasonal decline in activity associated with spring break-up was more pronounced in the second quarter of 2013 as activity in the Western Canadian Sedimentary Basin ("WCSB") was significantly below prior year levels. The second quarter of 2013 experienced particularly wet conditions due to melting of elevated snowpacks at the completion of the winter season and heavy rainfall throughout most of the second quarter. These factors impacted ground moisture, limiting access to well sites and delaying activity in June, when oilfield equipment typically returns to work.Drilling rig utilization, number of wells drilled and well completion count, all indicators of overall activity in the WCSB, were down quarter-over-quarter compared to prior year as persistent wet conditions limited access to well sites. Compared to the second quarter 2012, drilling rig utilization decreased 18%, the number of wells drilled decreased by 13% and well completion count decreased 20%.
+SEGMENT RESULTS - WELL SERVICING
+Three months ended
+Six months ended
+June 30,
+June 30,
+(Thousands, except percentages)
+2013
+2012
+2013
+2012
+Revenue
+Coil Well Service (i) $ 9,433 $ 18,697 $ 59,054 $ 61,111
+Service Rigs (ii)
+14,732
+15,564
+48,288
+48,875
+Other (iii)
+-
+1,069
+-
+8,275
+Total revenue
+24,165
+35,330
+107,342
+118,261
+Operating expenses
+28,298
+36,117
+84,340
+92,554
+Gross margin $ (4,133) $ (787) $ 23,002 $ 25,707
+Gross margin %
+(17)%
+(2)%
+21%
+22%
+Utilization (iv)
+Deep Coil Tubing Rigs
+Utilization
+18%
+32%
+64%
+67%
+Operating hours
+4,125
+7,262
+28,890
+30,498
+Service Rigs
+Utilization
+28%
+34%
+48%
+51%
+Operating hours
+14,234
+16,183
+48,598
+51,371
+Equipment fleet (v)
+Coil tubing rigs - deep
+25
+25
+25
+25
+Coil tubing rigs - other
+19
+20
+19
+20
+Service rigs
+56
+53
+56
+53
+Nitrogen pumpers
+15
+10
+15
+10
+Fluid pumpers
+18
+16
+18
+16
+Rod rigs
+14
+14
+14
+14
+(i) Includes revenue from coil tubing rigs, nitrogen and fluid pumpers and other ancillary equipment.
+(ii) Includes revenue from service rigs and rod rigs. Comparative amounts have been reclassified to conform to current period's presentation.
+(iii) Other revenue included revenue from Essential's hybrid drilling operation until it was disposed of in November 2012.
+(iv) Utilization is calculated using a 10 hour day.
+(v) Fleet data represents the number of units at the end of the period.
+Coil well service revenue decreased during the second quarter of 2013 compared to the same period in the prior year due to persistent wet conditions in Alberta throughout most of the second quarter and the melting of heavy snowpacks at the end of the winter season. Deep coil tubing utilization, below prior year levels, shows a similar trend to the decline in industry drilling rig utilization and well completion count quarter-over-quarter. In the comparative period of 2012, Essential's coil well service revenue and deep coil tubing utilization also included two customer projects which accounted for more than half of the quarter-over-quarter revenue reduction. Revenue per hour for coil well service decreased from prior year due to a change in the mix of services provided.Service rig operations performed well during the second quarter of 2013 compared to the prior year despite unfavourable industry conditions which saw a 20% decrease in industry well completion activity. Production work opportunities were also adversely impacted by the wet conditions. Although wet conditions and lower activity negatively impacted many areas of the WCSB, revenue per hour in the second quarter of 2013 increased from prior year due to the mix of services provided, including an increase in SAGD revenue.Story continuesWell servicing revenue decreased on a year-to-date basis in 2013 compared to 2012 primarily due to the disposal of the drilling rig operations in November 2012.Operating expenses were lower in the second quarter of 2013 compared to the same period in the prior year mainly as a result of lower variable operating costs which fluctuate based on activity. During the second quarter of 2013, Essential continued to incur fixed operating costs associated with retaining key personnel and maintaining equipment and service locations. These costs tend to negatively impact operating margins during periods of low activity. In comparison to the second quarter of 2012, Essential absorbed higher repairs and maintenance costs as a result of the extended winter operating season in the first quarter of 2013 which delayed the start of its spring maintenance program until April 2013.Operating expenses for the six months ended June 30, 2013 were lower compared to the prior year as a result of lower variable operating costs which fluctuate based on activity.
+SEGMENT RESULTS - DOWNHOLE TOOLS & RENTALS
+Three months ended
+Six months ended
+June 30,
+June 30,
+(Thousands, except percentages)
+2013
+2012
+2013
+2012
+Revenue
+Downhole Tools & Rentals $ 14,252 $ 15,540 $ 51,594 $ 49,110
+Other*
+-
+-
+-
+1,681
+Total revenue
+14,252
+15,540
+51,594
+50,791
+Operating expenses
+10,641
+10,277
+35,015
+34,015
+Gross margin $ 3,611 $ 5,263 $ 16,579 $ 16,776
+Gross margin %
+25%
+34%
+32%
+33%
+Downhole Tools & Rentals Revenue - % of total
+Tryton MSFS
+40%
+40%
+54%
+45%
+Conventional Tools & Rentals
+60%
+60%
+46%
+55%
+* Other revenue consists of Essential's wireline business which was disposed of in February 2012.
+From a revenue perspective, the downhole tools & rentals segment performed well during the second quarter of 2013 compared to the same period in the prior year despite wet conditions which resulted in an 18% decrease in drilling rig utilization quarter-over-quarter. Revenue for the higher margin conventional tubular rentals business decreased quarter-over-quarter due to the decline in industry drilling rig activity.Downhole tools & rentals revenue increased on a year-to-date basis in 2013 compared to 2012 as a result of first quarter Tryton Multi Stage Fracturing System ("Tryton MSFS") activity which was much stronger during the busy winter drilling season.Operating expenses increased on a quarter-over-quarter basis due in part to start-up costs related to the expansion of the downhole tools operations into the United States without any corresponding increase in revenue as the business is in the pre-operating phase.
+GENERAL AND ADMINISTRATIVE
+Three months ended Six months ended
+June 30, June 30,
+(Thousands of dollars, except percentages)
+2013
+2012
+2013
+2012
+General and administrative expenses $ 3,861 $ 3,946 $ 8,267 $ 7,930
+As a % of revenue
+10%
+8%
+5%
+5%
+General and administrative expenses are comprised of wages, professional fees, office space and other administrative costs incurred at the corporate and operation levels. General and administrative expenses in the second quarter of 2013 were comparable to 2012, although as a percentage of revenue, expenses increased due to lower activity in the second quarter of 2013. Year-over-year general and administrative expenses were higher due to increased staffing, professional fees and infrastructure costs.DISCONTINUED OPERATIONSEssential ceased operating activities in Colombia in early July 2013, with the conclusion of its final contractual obligations. During the second quarter of 2013, Essential re-assessed the estimated net realizable value of oilfield service equipment in Colombia, and a further $2.4 million loss on revaluation was taken. This loss reflects the deterioration in the Colombian oilfield services market. As of August 7, 2013, Essential has received $1.1 million in cash proceeds from the sales of Colombian assets to date.FINANCIAL RESOURCES AND LIQUIDITY
+WORKING CAPITAL(1)
+As at
+As at
+June 30, December 31,
+(Thousands of dollars, except ratios)
+2013
+2012
+Current assets
+$ 68,063 $ 95,840
+Current liabilities, excluding current portion of long-term debt
+(30,116)
+(37,594)
+Working capital
+$ 37,947 $ 58,246
+Working capital ratio
+2.3:1
+2.5:1
+EQUIPMENT EXPENDITURES AND FLEET ADDITIONS
+Three months ended
+Six months ended
+June 30,
+June 30,
+(Thousands of dollars)
+2013
+2012
+2013
+2012
+Well Servicing $ 10,365 $ 11,731 $ 16,508 $ 20,634
+Downhole Tools & Rentals
+1,297
+400
+1,741
+1,222
+Corporate
+218
+245
+455
+710
+Total equipment expenditures
+11,880
+12,376
+18,704
+22,566
+Less proceeds on disposal of property and equipment
+(186)
+(797)
+(726)
+(8,115)
+Net equipment expenditures(1) $ 11,694 $ 11,579 $ 17,978 $ 14,451
+During the three and six months ended June 30, 2013, Essential's equipment expenditures of $11.9 million and $18.7 million, respectively, were primarily progress payments for the 2013 capital builds and maintenance capital expenditures.During the six months ended June 30, 2013, Essential commissioned the following assets to its fleet:Two mobile free standing, all period double service rigs which are SAGD capable, one in each of the first and second quarters, respectively, and; Two nitrogen pumpers in the second quarter. Essential classifies its equipment expenditures as growth capital(1) and maintenance capital(1):
+Three months ended Six months ended
+June 30, June 30,
+(Thousands of dollars)
+2013
+2012
+2013
+2012
+Growth capital(1) $ 8,576 $ 9,545 $ 13,352 $ 15,633
+Maintenance capital(1)
+3,304
+2,831
+5,352
+6,933
+Total equipment expenditures $ 11,880 $ 12,376 $ 18,704 $ 22,566
+Essential's 2013 capital spending budget of $45 million is comprised of $32 million of growth (1) capital and $13 million of maintenance (1) capital. Capital spending remains on track for 2013.As previously disclosed, Essential has commitments to build three deep Generation III coil tubing rigs with a fabrication company that has been having significant issues meeting delivery deadlines. When Essential announced its 2013 capital budget, one of those deep coil tubing rigs was included in the delivery expectations for 2013 and two were not. The first rig is currently in the final stages of commissioning and is expected to be ready for work in September 2013. Unfortunately, the fabricator is still unable to provide firm delivery timing for the other two rigs. Deposits on these remaining two rigs are approximately $3.6 million. Essential continues to work with the fabricator to determine the outcome of these two rigs.The following table shows the expected in-service dates of the major equipment being built over the remainder of 2013:
+Expected In-Service Date
+Quantity 2013
+Deep masted coil tubing rigs 4 Q3(1),Q4(3)
+Deep coil tubing rig converted from intermediate 1 Q3
+Double rod rig 1 Q3
+Double service rigs - mobile free standing, all-period 2 Q3(2)
+(one is SAGD capable)
+OUTLOOKAfter a very slow second quarter, Canadian oilfield services demand has returned to levels normal for this time of year and similar to last year. With horizontal well development continuing to lead drilling activity, Essential expects to benefit from demand for its growing fleet of deep coil tubing rigs and its downhole tool business. There continues to be longer-term optimism with investment focused on the Montney, Horn River and the Duvernay natural gas basins to develop the reserves to provide gas to the proposed liquefied natural gas ("LNG") export facilities in British Columbia. Such development would increase the demand for Essential's oilfield services to complete these wells.The expansion of Essential's deep masted coil tubing fleet is on track with one deep masted coil tubing rig expected in service in the third quarter and three in the fourth quarter. These state-of-the-art deep rigs are well-suited for work in the Montney, Horn River and the Duvernay basins, which again are the primary gas basins to provide feedstock for the anticipated LNG export facilities.Essential is in the process of organically expanding its downhole tool operations into the United States. Pre-operating activities remain on track and operations are expected to commence in the third quarter.Essential has a very strong balance sheet with $29.1 million of debt outstanding on August 7, 2013 and debt to EBITDA of 0.4x. Early in 2012, Essential implemented a quarterly dividend of $0.025 per quarter. Reflecting the Company's financial strength and positive view of the future, the dividend has been increased by 20% to $0.03 per quarter, effective with the third quarter dividend, payable in October.The second quarter Management's Discussion and Analysis and Financial Statements are available on Essential's website at www.essentialenergy.ca and on SEDAR at www.sedar.com.SUMMARY OF QUARTERLY DATA
+Jun 30, Mar 31, Dec 31, Sep 30, Jun 30, Mar 31, Dec 31, Sep 30,
+(Thousands, except per share amounts) 2013 2013 2012 2012 2012 2012 2011 2011
+Well Servicing:
+Coil Well Service 9,433 49,621 41,228 33,857 18,697 42,414 43,945 36,349
+Service Rigs 14,732 33,556 26,012 20,552 15,564 33,311 28,118 23,939
+Other* - - 786 2,762 1,069 7,206 4,677 4,178
+Total well servicing 24,165 83,177 68,026 57,171 35,330 82,931 76,740 64,466
+Downhole Tools & Rentals** 14,252 37,342 27,989 26,342 15,540 35,251 32,115 33,316
+Total revenue 38,417 120,519 96,015 83,513 50,870 118,182 108,855 97,782
+Gross margin (1,310) 37,832 27,039 23,012 3,904 36,740 35,498 31,203
+Gross margin % (3)% 31% 28% 28% 8% 31% 33% 32%
+EBITDA(1) (5,171) 33,426 22,368 19,261 (42) 32,755 31,733 27,570
+EBITDA %(1) (13)% 28% 23% 23% 0% 28% 29% 28%
+Continuing operations
+Net income (loss) (8,958) 19,205 8,050 8,343 (5,453) 19,823 17,082 14,020
+Per share - basic and diluted $(0.07) $0.15 $0.06 $0.07 $(0.04) $0.16 $0.14 $0.11
+Net income (loss) attributable
+to shareholders of Essential (11,501) 18,627 678 8,660 (5,923) 18,893 17,559 13,678
+Per share - basic and diluted $(0.09) $0.15 $0.01 $0.07 $(0.05) $0.15 $0.14 $0.11
+Total assets 380,728 436,301 406,853 415,653 393,377 430,674 421,500 411,204
+Total long-term debt 14,592 35,603 35,563 50,474 41,198 57,238 63,486 79,230
+Utilization ***
+Coil tubing rigs - deep 18% 110% 95% 79% 32% 102% 111% 104%
+Coil tubing rigs - other 7% 15% 16% 15% 7% 25% 30% 25%
+Pumpers 14% 73% 57% 50% 33% 69% 71% 50%
+Service rigs 28% 69% 54% 45% 34% 68% 59% 54%
+Operating Hours
+Coil tubing rigs - deep 4,125 24,765 22,777 18,301 7,262 23,236 23,524 21,938
+Coil tubing rigs - other 1,185 2,511 2,757 2,819 1,596 5,494 6,778 5,813
+Pumpers 4,241 20,481 15,328 11,919 7,504 13,865 13,008 9,594
+Service rigs 14,234 34,364 27,310 22,632 16,183 35,188 31,005 28,201
+Downhole Tools & Rentals - revenue % of total
+Tryton MSFS 40% 60% 51% 52% 40% 47% 47% 54%
+Conventional Tools & Rentals 60% 40% 49% 48% 60% 53% 53% 46%
+Equipment fleet ****
+Canada
+Coil tubing rigs - deep 25 25 27 26 25 25 25 23
+Coil tubing rigs - other 19 19 19 19 20 24 24 25
+Service rigs 56 56 55 55 53 58 57 57
+Nitrogen pumpers 15 13 13 10 10 10 10 9
+Fluid pumpers 18 18 18 16 16 15 15 12
+Rod rigs 14 14 14 14 14 14 14 14
+* Other revenue included revenue from Essential's hybrid drilling operation until it was disposed of in November 2012.
+** Revenue for Downhole Tools & Rentals included revenue from Essential's wireline business which was disposed of in February 2012.
+*** Utilization is calculated using a 10 hour day.
+**** Fleet data represents the number of units at the end of the period.
+ESSENTIAL ENERGY SERVICES LTD.
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(unaudited)
+As at
+As at
+June 30 December 31
+(Thousands)
+2013
+2012
+Assets
+Current
+Trade and other receivables $ 40,386 $ 71,835
+Inventories
+24,917
+20,699
+Prepayments
+2,760
+3,306
+68,063
+95,840
+Non-current
+Property and equipment
+219,107
+211,304
+Intangible assets
+33,553
+36,555
+Goodwill
+55,014
+55,014
+307,674
+302,873
+Assets held for sale
+4,991
+8,140
+Total assets $ 380,728 $ 406,853
+Liabilities
+Current
+Bank indebtedness $ 1,338 $ 1,835
+Trade and other payables
+25,652
+32,354
+Dividends payable
+3,126
+3,100
+Income taxes payable
+-
+305
+30,116
+37,594
+Non-current
+Long-term debt
+14,592
+35,563
+Deferred tax liabilities
+29,618
+29,560
+44,210
+65,123
+Liabilities held for sale
+1,071
+1,731
+Total liabilities
+75,397
+104,448
+Equity
+Share capital
+261,180
+258,772
+Retained earnings
+39,175
+38,276
+Other reserves
+5,154
+5,363
+Equity attributable to shareholders of Essential
+305,509
+302,411
+Non-controlling interest
+(178)
+(6)
+Total equity
+305,331
+302,405
+Total liabilities and equity $ 380,728 $ 406,853
+ESSENTIAL ENERGY SERVICES LTD.
+CONSOLIDATED STATEMENT OF NET INCOME AND COMPREHENSIVE INCOME
+(unaudited)
+For the three months ended For the six months ended
+June 30 June 30
+(Thousands, except per share amounts)
+2013
+2012
+2013
+2012
+Revenue
+$ 38,417 $ 50,870 $ 158,936 $ 169,052
+Operating expenses
+39,727
+46,966
+122,415
+128,409
+Gross margin
+(1,310)
+3,904
+36,521
+40,643
+General and administrative expenses
+3,861
+3,946
+8,267
+7,930
+(5,171)
+(42)
+28,254
+32,713
+Depreciation and amortization
+6,006
+6,120
+13,050
+13,199
+Share-based compensation
+269
+444
+612
+935
+Other (income) expense
+187
+23
+53
+(1,219)
+Operating profit (loss) from continuing operations
+(11,633)
+6,629
+14,539
+19,798
+Finance costs
+402
+558
+778
+1,191
+Earnings (loss) before income taxes from continuing operations
+(12,035)
+(7,187)
+13,761
+18,607
+Income taxes
+Current expense (recovery)
+(969)
+(1,248)
+3,456
+2,468
+Deferred expense (recovery)
+(2,108)
+(486)
+58
+1,770
+Total income tax expense (recovery)
+(3,077)
+(1,734)
+3,514
+4,238
+Net income (loss) from continuing operations
+$ (8,958) $ (5,453) $ 10,247 $ 14,369
+Net loss from discontinued operations, net of tax
+(2,678)
+(554)
+(3,285)
+(1,645)
+Net Income (loss)
+$ (11,636) $ (6,007) $ 6,962 $ 12,724
+Unrealized foreign exchange gain (loss)
+on discontinued operations
+(156)
+(2)
+(187)
+1,007
+Other comprehensive income (loss)
+from discontinued operations
+(156)
+(2)
+(187)
+1,007
+Comprehensive income (loss)
+$ (11,792) $ (6,009) $ 6,775 $ 13,731
+Net income (loss) attributable to:
+Shareholders of Essential
+$ (11,501) $ (5,923) $ 7,126 $ 12,971
+Non-controlling interest
+(135)
+(84)
+(164)
+(247)
+$ (11,636) $ (6,007) $ 6,962 $ 12,724
+Comprehensive income (loss) attributable to:
+Shareholders of Essential
+$ (11,650) $ (5,913) $ 6,947 $ 13,846
+Non-controlling interest
+(142)
+(96)
+(172)
+(115)
+$ (11,792) $ (6,009) $ 6,775 $ 13,731
+Net income (loss) per share from continuing operations
+Basic and diluted, attributable to shareholders of Essential
+$ (0.07) $ (0.04) $ 0.08 $ 0.11
+Net income (loss) per share
+Basic and diluted, attributable to shareholders of Essential
+$ (0.09) $ (0.05) $ 0.06 $ 0.10
+Comprehensive income (loss) per share
+Basic and diluted, attributable to shareholders of Essential
+$ (0.09) $ (0.05) $ 0.06 $ 0.11
+ESSENTIAL ENERGY SERVICES LTD.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(unaudited)
+For the six months ended
+June 30
+(Thousands)
+2013
+2012
+Operating activities:
+Net income from continuing operations $ 10,247 $ 14,369
+Non-cash adjustments to reconcile
+net income to net cash flow:
+Depreciation and amortization
+13,050
+13,199
+Deferred income tax expense
+58
+1,770
+Share-based compensation
+612
+935
+Provision (recovery) for impairment of trade receivables
+280
+(312)
+Finance costs
+778
+1,191
+(Gain) loss on disposal of assets
+64
+(490)
+Operating cash flow before changes in working capital
+25,089
+30,662
+Changes in working capital:
+Decrease in trade and other receivables before provision
+31,326
+35,924
+Increase in inventories
+(4,218)
+(3,494)
+(Increase) decrease in prepayments
+547
+(1,038)
+Decrease in income taxes payable
+(1,374)
+(5,927)
+Decrease in trade and other accounts payables
+(9,476)
+(18,227)
+Net cash flows from operating activities
+41,894
+37,900
+Investing activities:
+Purchase of property and equipment & intangibles
+(18,704)
+(22,566)
+Non-cash investing working capital in trade and other accounts payable
+2,774
+186
+Proceeds on disposal of equipment
+726
+8,115
+Net cash flows used in investing activities
+(15,204)
+(14,265)
+Financing activities:
+Repayment of long-term debt
+(20,971)
+(21,615)
+Dividends paid
+(6,227)
+(3,094)
+Issuance of share capital, net of costs
+2,187
+520
+Repurchase of shares
+(421)
+-
+Finance costs
+(778)
+(1,191)
+Net cash flows used in financing activities
+(26,210)
+(25,380)
+Foreign exchange gain (loss) on cash held in a foreign currency
+17
+(20)
+Net increase (decrease) in cash
+497
+(1,765)
+Net decrease in cash, discontinued operations
+-
+(1,114)
+Cash, beginning balance, discontinued operations
+-
+1,269
+Bank indebtedness, beginning of period
+(1,835)
+(1,105)
+Bank indebtedness, end of period $ (1,338) $ (2,715)
+Supplemental cash flow information
+Cash taxes paid $ 4,830 $ 8,516
+Cash interest and standby fees paid
+645
+1,020
+(1)Non-IFRS MeasuresThroughout this press release, certain terms that are not specifically defined in IFRS are used to analyze Essential's operations. In addition to the primary measures of net earnings and net earnings per share in accordance with IFRS, Essential believes that certain measures not recognized under IFRS assist both Essential and the reader in assessing performance and understanding Essential's results. Each of these measures provides the reader with additional insight into Essential's ability to fund principal debt repayments and capital programs. As a result, the method of calculation may not be comparable with other companies. These measures should not be considered alternatives to net earnings and net earnings per share as calculated in accordance with IFRS.EBITDA (Earnings before finance costs, income taxes, depreciation, amortization, transaction costs, non- controlling interest earnings, losses or gains on disposal of equipment, results of discontinued operations and share-based compensation) - This measure is considered an indicator of Essential's ability to generate funds flow in order to fund required working capital, service debt and fund capital programs.EBITDA % - This measure is considered an indicator of Essential's ability to generate funds flow as calculated by EBITDA divided by revenue.Funds flow or funds flow from operations - This measure is an indicator of Essential's ability to generate funds flow in order to fund working capital, principal debt repayments and capital programs. Funds flow or funds flow from operations is defined as cash flow from operations before changes in non-cash operating working capital. This measure is useful in assessing Essential's operational cash flow as it provides cash generated in the period excluding the timing of non-cash operating working capital. This reflects the ability of the operations of Essential to meet the above noted funding requirements.Working capital - Working capital is calculated as current assets less current liabilities.Growth capital - Growth capital is capital spending which is intended to result in incremental increases in revenue. Growth capital is considered to be a key measure as it represents the total expenditures on equipment expected to add incremental revenues and funds flow to Essential.Maintenance capital - Equipment additions that are incurred in order to refurbish or replace previously acquired equipment less proceeds on the disposal of retired equipment. Such additions do not provide incremental increases in revenue. Maintenance capital is a key component in understanding the sustainability of Essential's business as cash resources retained within Essential must be sufficient to meet maintenance capital needs to replenish the assets for future cash generation.Net equipment expenditures - This measure is equipment expenditures less proceeds on the disposal of equipment. Essential uses net equipment expenditures to assess net cash flows related to the financing of Essential's oilfield services equipment.ABOUT ESSENTIALEssential is a growth-oriented, dividend paying corporation that provides oilfield services to producers in western Canada for producing wells and new drilling activity. Essential operates the largest coil tubing well service fleet in Canada with 44 coil tubing rigs and a fleet of 56 service rigs. Essential also sells, rents and services downhole tools and equipment including the Tryton Multi-Stage Fracturing System. Further information can be found at www.essentialenergy.ca.FORWARD-LOOKING STATEMENTS AND INFORMATIONThis press release contains forward-looking statements and forward-looking information within the meaning of applicable securities laws. The use of any of the words "expect", "anticipate", "continue", "estimate", "objective", "ongoing", "may", "will", "project", "should", "believe", "plans", "intends" and similar expressions are intended to identify forward-looking information or statements. In particular, this press release contains forward-looking statements including expectations regarding capital spending, in-service timing of new equipment, demand for new equipment, expectations for operating activity for the remainder of the year, expectations of future cash flow and earnings, expectations with respect to the demand for and price of oil and liquids-rich natural gas, expectations regarding the future areas of development in the WCSB, the level and type of drilling activity, completion activity, work-over activity, production activity and required oilfield services in the WCSB, expectations regarding the business, operations and revenues of the Company in addition to general economic conditions, expectations regarding Essential's ability to meet the changing needs of the WCSB market, expectations regarding the capital spending programs of E&P companies, expectations for Essential's positioning for the future, expectations related to infrastructure uncertainties, expectations that development of possible LNG projects on the west coast will increase the demand for oilfield services, anticipated proceeds from asset sales in Colombia, anticipated shut-down and disposal costs of Colombian operations, expectations of the net realizable value of the Colombian assets, expectations of the opportunity for growth through expansion into the United States and the timing to commence operations.Although the Company believes that the expectations and assumptions on which such forward-looking statements and information are reasonable, undue reliance should not be placed on the forward-looking statements and information because the Company can give no assurance that such statements and information will prove to be correct. Since forward-looking statements and information address future events and conditions, by their very nature they involve inherent risks and uncertainties.Actual results could differ materially from those currently anticipated due to a number of factors and risks. These include, but are not limited to: the risks associated with the oilfield services sector (e.g. demand, pricing and terms for oilfield services; current and expected oil and natural gas prices; exploration and development costs and delays; reserves discovery and decline rates; pipeline and transportation capacity; weather, health, safety and environmental risks); integration of acquisitions, competition, and uncertainties resulting from potential delays or changes in plans with respect to acquisitions, development projects or capital expenditures and changes in legislation, including but not limited to tax laws, royalties, incentive programs and environmental regulations; stock market volatility and the inability to access sufficient capital from external and internal sources; the ability of the Company's subsidiaries to enforce legal rights in foreign jurisdictions; general economic, market or business conditions; global economic events; changes to Essential's financial position and cash flow; the availability of qualified personnel, management or other key inputs; currency exchange fluctuations; changes in political and security stability; risks and other unforeseen conditions associated with the sale of the Colombian business; risks and uncertainty related to distribution and pipeline constraints; and other unforeseen conditions which could impact the use of services supplied by the Company. Accordingly, readers should not place undue reliance on the forward-looking statements. Readers are cautioned that the foregoing list of factors is not exhaustive.Additional information on these and other factors that could affect the Company's financial results are included in reports on file with applicable securities regulatory authorities and may be accessed through the SEDAR website (www.sedar.com) for the Company. The forward-looking statements and information contained in this press release are made as of the date hereof and the Company undertakes no obligation to update publicly or revise any forward-looking statements or information, whether as a result of new information, future events or otherwise, unless so required by applicable securities laws.SECOND QUARTER 2013 EARNINGS CONFERENCE CALL AND WEBCASTEssential has scheduled a conference call and webcast to begin at 10:00 am MT (12:00 pm ET) on Thursday, August 8, 2013.The conference call dial in numbers are 416-695-7806 or 888-789-9572, passcode 7312337.An archived recording of the conference call will be available approximately one hour after the completion of the call until August 22, 2013 by dialing 905-694-9451 or 800-408-3053, passcode 3011022.A live webcast of the conference call will be accessible on Essential's website at www.essentialenergy.ca by selecting "Investors" and "Events and Presentations". Shortly after the live webcast, an archived version will be available for approximately 30 days.The TSX has neither approved nor disapproved the contents of this news release.

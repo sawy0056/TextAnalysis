@@ -1,0 +1,93 @@
+VANCOUVER, BRITISH COLUMBIA--(Marketwired - Mar 10, 2014) -
+Fortress Paper Ltd. ("Fortress Paper" or the "Company") (FTP.TO) reported 2013 fourth quarter EBITDA loss of $9.4 million. The Dissolving Pulp Segment generated EBITDA loss of $10.8 million and the Security Paper Products Segment generated EBITDA of $2.7 million. Corporate costs contributed $1.3 million to EBITDA loss.Chadwick Wasilenkoff, Chief Executive Officer of Fortress Paper, commented: "The 2013 year proved to be very challenging for Fortress Paper. Positive developments throughout the year were overshadowed by the disappointing financial results from the Dissolving Pulp Segment. As we enter 2014, we believe that we are making progress on numerous initiatives and are confident that we are on the right track to overcome remaining obstacles. I would like to thank the entire team at Fortress Paper for their perseverance and commitment throughout a difficult year."Early in the fourth quarter of 2013, the Fortress Specialty Cellulose mill reached a significant milestone for the reduction of the overall cost structure at the mill when the cogeneration facility project was successfully completed and delivering power to the Hydro Québec grid at the contracted commercial rate. Also, the Fortress Specialty Cellulose mill realized its swing mill capabilities producing 12,889 air dried metric tonnes (ADMT) of northern bleached hardwood kraft (NBHK) pulp early in the quarter. The mill sold 6,758 ADMT of NBHK pulp inventory in the fourth quarter of 2013 and 6,950 ADMT of NBHK pulp inventory subsequent to December 31, 2013. Despite these developments, the results for the Dissolving Pulp Segment reflect a combination of the following:A seven day planned maintenance shut-down in October. A 13% interim duty imposed by China's Ministry of Commerce ("MOFCOM") on the import of dissolving pulp into China from the Fortress Specialty Cellulose mill (Thurso) and possibly a 50.9% interim duty on the import of dissolving pulp into China from future output from the Fortress Global Cellulose mill (Lebel-sur-Quevillon) if it were to be converted to be able to produce dissolving pulp. As a result of the 50.9% MOFCOM interim duty imposed on the import of future dissolving pulp into China, a $32.9 million impairment was taken against the Fortress Global Cellulose mill assets. The duty imposed also resulted in a build-up of dissolving pulp inventories and consequent $3.7 million write-down to fair market value. A decision to take market downtime in mid-December for approximately 10 weeks as a result of market pricing for NBHK being insufficient for sustained production. A five day shut-down in early December as a result of a digester issue, which has since been resolved. The Security Paper Products Segment experienced a second consecutive EBITDA positive quarter. Sales, volumes and revenues were significantly higher relative to any quarter in 2012 and 2011. The Landqart mill continues to implement new initiatives to improve efficiencies and profitability.Selected Financial Information The selected financial information presented herein is qualified in its entirety by, and should be read in conjunction with, the Company's audited consolidated financial statements as at and for the three and twelve month periods ended December 31, 2013 and the related notes thereto and Management's Discussion and Analysis (the "MD&A"), which are available on SEDAR.Reference is made in this news release to EBITDA (defined as net income before interest, income taxes, depreciation, amortization, non-operating income and expenses and stock-based compensation), which the Company considers to be an indicative measure of operating performance and a metric to evaluate profitability. EBITDA is not a generally accepted earnings measure and should not be considered as an alternative to net income (loss) or cash flows as determined in accordance with IFRS. As there is no standardized method of calculating this measure, the Company's EBITDA may not be directly comparable with similarly titled measures used by other companies. Reconciliations of EBITDA to net loss reported in accordance with IFRS are included below.
+Three Months Ended
+(thousands of dollars, except shipments, unaudited)
+December 31, 2013
+September 30, 2013
+December 31, 2012
+Sales from continuing operations 37,183
+53,160
+58,747
+EBITDA from continuing operations(1) (9,367 ) (7,290 ) (9,109 )
+EBITDA(2)(3) (9,367 ) (7,290 ) 241
+Net loss from continuing operations (54,731 ) (13,427 ) (9,914 )
+Net loss (3) (54,731 ) (12,436 ) (4,226 )
+Paper shipments (tonnes) (4) 2,097
+1,856
+1,688
+Pulp shipments (ADMT) 6,758
+31,258
+46,909
+(1) See Net Loss to EBITDA Reconciliation for Continuing Operations.
+(2) See Net Loss to EBITDA Reconciliation including Discontinued Operations.
+(3) Including discontinued operations.
+(4) From continuing operations.
+Net Loss to EBITDA Reconciliation for Continuing Operations:
+Three Months Ended
+(thousands of dollars, unaudited)
+December 31, 2013
+September 30, 2013
+December 31, 2012
+Net loss (54,731 ) (13,427 ) (9,914 )
+Income tax expense (recovery) 620
+(611 ) (5,780 )
+Foreign exchange (gain) loss (123 ) 739
+(1,310 )
+Net finance expense 4,698
+4,021
+3,049
+Amortization 6,821
+4,296
+4,216
+Gain on sale of property, plant and equipment -
+(4,135 ) -
+Impairment of property, plant and equipment 32,907
+-
+-
+Legal provision 700
+1,250
+-
+Stock based compensation (259 ) 577
+630
+EBITDA (9,367 ) (7,290 ) (9,109 )
+Net Loss to EBITDA Reconciliation Including Discontinued Operations:
+Three Months Ended
+(thousands of dollars, unaudited)
+December 31, 2013
+September 30, 2013
+December 31, 2012
+Net loss (54,731 ) (12,436 ) (4,226 )
+Income tax expense (recovery) 620
+(611 ) (3,376 )
+Foreign exchange (gain) loss (123 ) 739
+(1,294 )
+Net finance expense 4,698
+4,021
+3,391
+Amortization 6,821
+4,296
+5,116
+Gain on disposal of business -
+(991 ) -
+Gain on sale of property, plant and equipment -
+(4,135 ) -
+Impairment of property, plant and equipment 32,907
+-
+-
+Legal provision 700
+1,250
+-
+Stock based compensation (259 ) 577
+630
+EBITDA (9,367 ) (7,290 ) 241
+The CompanyDuring the year ended December 31, 2013, the Company operated internationally in three distinct business segments: the Dissolving Pulp Segment, the Security Paper Products Segment, and the Specialty Papers Segment. The Specialty Papers Segment was sold on April 30, 2013 leaving two remaining business segments. Accordingly, references in this news release to "discontinued operations" refer to the Specialty Papers Segment.The Company operates its dissolving pulp business through the Fortress Specialty Cellulose mill located in Thurso, Québec, Canada, which has expanded into the renewable energy generation sector with the construction of a cogeneration facility and the production of NBHK pulp. The Company is also evaluating expanding its dissolving pulp capacity by converting the Fortress Global Cellulose mill located at Lebel-sur-Quévillon, Québec into a dissolving pulp mill and re-starting the cogeneration facility. The Company operates its security paper products business at the Landqart mill located in Switzerland, where it produces banknote, passport, visa and other brand protection and security papers, and at its high security production and research facility located in Canada, where it manufactures optically variable thin film material. The segmentation of the Company's manufacturing operations is based on a number of factors, including production, production processes, and economic characteristics. Fortress Paper's business segments were re-classified in 2012 given changes in the nature of products being produced.Story continuesConference CallA conference call to discuss the financial results for the fourth quarter 2013 will be held on March 11, 2014 at 9:00 a.m. (PDT). To participate in the conference call, please dial one of the following numbers:
+North America: 1-855-353-9183
+Vancouver: 604-681-8564
+Calgary and international: 403-532-5601
+Edmonton: 780-429-5820
+Toronto: 416-623-0333
+Ottawa: 613-212-0171
+Montreal: 514-687-4017
+Participant pass code: 15086#
+Conference Reference Number: 1150521#
+A replay of the conference call will be available for 30 days. To access the replay, listeners may dial 1-855-201-2300 from North America or 403-255-0697 International. The conference reference number is 1150521# and the participant pass code to access the replay is 15086 #.Forward-Looking StatementsThis news release contains certain forward-looking statements that reflect the current views and/or expectations of the Company with respect to its expectations, beliefs, assumptions, estimates and forecasts about its business and the industry and markets in which it operates. The reader is cautioned that forward-looking statements are not guarantees of future performance and involve known and unknown risks, uncertainties, assumptions and other factors which are difficult to predict and that may cause actual results or events to differ materially from those anticipated in such forward-looking statements. Accordingly, readers should not place undue reliance on forward-looking statements. Examples of such forward-looking statements contained in this news release include statements relating to the growth and future prospects of the Company's business. Assumptions underlying the Company's expectations regarding forward-looking statements or information contained in this news release include, among others: that the Company will be able to effectively market its products; the ability of the Company to realize significant cost-savings from production improvements, cost reduction initiatives and the cogeneration facility at the Fortress Specialty Cellulose mill; that current depressed dissolving pulp prices are indicative of unusual market conditions and are not sustainable in the long term; that the supply of dissolving pulp will decrease significantly and lead to a price increase in the short to medium term; that the swing mill strategy at the Fortress Specialty Cellulose mill will maximize margins in response to changing market conditions; that the duty imposed by MOFCOM, if unchanged, may result in the supply of dissolving pulp decreasing significantly with a corresponding price increase in the short to medium term; that the adverse impact of any dumping tariff will be limited to the short-term; that the Landqart mill will continue operating on a consistent and regular basis in order to produce and deliver on its banknote orders; that the Landqart mill will secure new orders; the general stability of the economic, political and regulatory environments within the countries where the Company conducts operations; and that equipment will operate at expected levels. Persons reading this news release are cautioned that forward-looking statements or information are only predictions, and that the Company's actual future results or performance are subject to certain risks and uncertainties including, without limitation those risk factors detailed in the MD&A and other filings with Canadian securities regulatory authorities. These risks, as well as others, could cause actual results and events to vary significantly. The Company does not undertake any obligation to release publicly any revisions for updating any voluntary forward-looking statements, except as required by applicable securities law.

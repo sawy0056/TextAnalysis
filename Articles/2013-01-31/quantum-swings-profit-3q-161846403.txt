@@ -1,0 +1,17 @@
+Quantum Corp. (QTM) reported third quarter fiscal 2013 adjusted earnings per share (EPS) of 1 cent, which is slightly better than the Zacks Consensus Estimate of a break even. The adjusted or non-GAAP earnings per share exclude amortization of acquisition-related intangible assets, but include stock-based compensation expense.
+Revenues
+Total revenue for the third quarter was $159.4 million, down 8.1% on a year-over-year basis. The year-on-year decline in revenues was due to weaker-than-expected original equipment manufacturer (:OEM) sales, lower sales of branded tapes and lower automation revenues. But higher sales of disk system and software provided some support.
+Year over year, Product revenue decreased 9.3% to $112.5 million, Service revenue slipped 0.1% to $35.3 million, and Royalty revenue decreased 17.9% to $11.5 million.
+Operating Results
+Reported gross margin in the quarter was 42.7%, marginally up from 42.5% in the year-ago quarter due to better cost management.
+Operating loss margin was (3.5%) versus operating profit margin of 4.0% in the year-ago quarter. The company’s total operating expenses increased 10.4% on a year-over-year basis. Higher operating expenses were mainly due to a 5.6% year-over-year increase in research and development expenses.
+Net loss on a GAAP basis was $8.1 million or 4 cents per share compared with net earnings of $3.9 million or 2 cents in the year-ago quarter. Excluding the amortization of acquisition-related intangible assets but including stock-based compensation expense, adjusted net loss for the third quarter was 1 cent per share compared with net income of 3 cents in the year-ago quarter.
+Balance Sheet & Cash Flow
+Quantum generated $6.0 million in operating cash. Cash, cash equivalents and restricted cash were $54.9 million versus $32.9 million in the previous quarter. There was no long-term debt.
+Outlook
+Management affirmed that it will continue to introduce new products and focus more on increasing brand value.
+For the fourth quarter 2013, management expects revenues to be in the range of $145.0–$150.0 million. The sequentially weak revenue guidance was due to typical seasonality, but the company expects better revenues from disk systems and software. This apart, the company expects GAAP gross margin of 41.0% and non-GAAP gross margin of 42.0%. The company expects GAAP operating expenses to range between $66.0 million and $68.0 million. Non-GAAP operating expenses are likely to be in a range of $61.0 million to $63.0 million.
+Our Take
+Quantum’s third quarter was decent after three straight quarters of loss and better than the Zacks Consensus Estimate. However, Quantum provided a weak fourth quarter revenue guidance citing seasonality. But solid momentum showed by disk systems and software revenues could turn the tables. Also, we are encouraged by the new product launches during the quarter.
+The company is facing intense competition from EMC Corporation (EMC), IBM Corporation (IBM), and NetApp Inc. (NTAP) as they are slowly tightening their grip on the market. Though the company’s commentary on its product strategy is encouraging, persisting Euro concerns and high debt burden make us a little apprehensive about the stock.
+Currently, Quantum has a Zacks Rank #3 (Hold).Read the Full Research Report on IBMRead the Full Research Report on EMC Read the Full Research Report on NTAP Read the Full Research Report on QTM Zacks Investment Research More From Zacks.com Read the analyst report on IBM,EMC,NTAP,QTM

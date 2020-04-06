@@ -1,0 +1,571 @@
+PMI® at 47.2%; GDP Growing at 1.3%; December Manufacturing ISM® Report On Business®HomeMailNewsFinanceSportsEntertainmentSearchMobileMoreYahooSearchNo matching results for ''Tip: Try a valid symbol or a specific company name for relevant resultsSign inMailFinance HomeWatchlistsMy PortfolioScreenersPremiumMarketsIndustriesPersonal FinanceVideosNewsTechU.S. Markets closedS&P 5002,978.76-137.63(-4.42%)Dow 3025,766.64-1,190.95(-4.42%)Nasdaq8,566.48-414.29(-4.61%)PMI® at 47.2%; GDP Growing at 1.3%; December Manufacturing ISM® Report On Business®PR NewswireJanuary 3, 2020ReblogShareTweetShareNew Orders, Production, and Employment Contracting; Supplier Deliveries Slowing at Faster Rate; Backlog Contracting; Raw Materials Inventories Contracting; Customers' Inventories Too Low; Prices Increasing; Exports and Imports ContractingTEMPE, Ariz., Jan. 3, 2020 /PRNewswire/ -- Economic activity in the manufacturing sector contracted in December, and the overall economy grew for the 128th consecutive month, say the nation's supply executives in the latest Manufacturing ISM® Report On Business®.The report was issued today by Timothy R. Fiore, CPSM, C.P.M., Chair of the Institute for Supply Management® (ISM®) Manufacturing Business Survey Committee: "The December PMI® registered 47.2 percent, a decrease of 0.9 percentage point from the November reading of 48.1 percent. This is the PMI®'s lowest reading since June 2009, when it registered 46.3 percent. The New Orders Index registered 46.8 percent, a decrease of 0.4 percentage point from the November reading of 47.2 percent. The Production Index registered 43.2 percent, down 5.9 percentage points compared to the November reading of 49.1 percent. The Backlog of Orders Index registered 43.3 percent, up 0.3 percentage point compared to the November reading of 43 percent. The Employment Index registered 45.1 percent, a 1.5-percentage point decrease from the November reading of 46.6 percent. The Supplier Deliveries Index registered 54.6 percent, a 2.6-percentage point increase from the November reading of 52 percent. The Inventories Index registered 46.5 percent, an increase of 1 percentage point from the November reading of 45.5 percent. The Prices Index registered 51.7 percent, a 5-percentage point increase from the November reading of 46.7 percent. The New Export Orders Index registered 47.3 percent, a 0.6-percentage point decrease from the November reading of 47.9 percent. The Imports Index registered 48.8 percent, a 0.5-percentage point increase from the November reading of 48.3 percent."Comments from the panel were consistent with November, with sentiment improving compared to the third quarter. December was the fifth consecutive month of PMI® contraction, at a faster rate compared to the prior month. Demand contracted, with the New Orders Index contracting faster, the Customers' Inventories Index remaining at 'too low' status and the Backlog of Orders Index contracting for the eighth straight month (and at similar rates to November). The New Export Orders Index contracted for the second month in a row, recording 10 months of poor performance and likely contributing to the faster contraction of the New Orders Index. Consumption (measured by the Production and Employment indexes) contracted, due primarily to lack of demand, contributing negatively (a combined 7.4-percentage point decrease) to the PMI® calculation. Inputs — expressed as supplier deliveries, inventories and imports — improved in December, due primarily to slowing contraction in inventories and supplier deliveries remaining in expansion territory. Imports contraction eased slightly. Overall, inputs indicate (1) supply chains began to stress in December and (2) companies remained cautious that materials received would be consumed by the end of the fourth quarter. Prices increased for the first time since May 2019, a positive for 2020."Global trade remains the most significant cross-industry issue, but there are signs that several industry sectors will improve as a result of the phase-one trade agreement between the U.S. and China. Among the six big industry sectors, Food, Beverage & Tobacco Products remains the strongest, while Transportation Equipment is the weakest. Overall, sentiment this month is marginally positive regarding near-term growth," says Fiore.Of the 18 manufacturing industries, three reported growth in December: Food, Beverage & Tobacco Products; Miscellaneous Manufacturing; and Computer & Electronic Products. The 15 industries reporting contraction in December — listed in order — are: Apparel, Leather & Allied Products; Wood Products; Printing & Related Support Activities; Furniture & Related Products; Transportation Equipment; Nonmetallic Mineral Products; Paper Products; Fabricated Metal Products; Petroleum & Coal Products; Electrical Equipment, Appliances & Components; Textile Mills; Primary Metals; Chemical Products; Plastics & Rubber Products; and Machinery.Story continuesWHAT RESPONDENTS ARE SAYING"Backlog of orders is shrinking due to new order pace continuing to fall." (Computer & Electronic Products) "Due to sluggish sales, we have introduced promotions to generate increased sales." (Chemical Products) "Cautiously optimistic is the rule these days. Sales are decent, but we're wondering what 2020 will bring. Still hedging that it will be successful — but maybe not as much as this year." (Transportation Equipment) "Starting to see suppliers try to pass on costs associated with tariffs. Uncertainty on the trade front continues to keep agricultural markets on the defensive." (Food, Beverage & Tobacco Products) "Down month-to-month, but up over last year." (Miscellaneous Manufacturing) "Anticipated large export orders did not materialize. As a result, expected U.S. production has decreased." (Fabricated Metal Products) "Dealer inventories have rebounded, and overall customer market has softened, resulting in corrections to near-term production schedules and a tentative forecast outlook." (Machinery) "Export markets continue to weaken for plastic resins — Mexican producers are actually trying to sell product back into the U.S. due to weak in-country demand." (Plastics & Rubber Products) "Our outlook for the first quarter of 2020 is positive. We have secured contracts from a number of former customers and expect sales growth of about 5 percent over Q4 of 2019." (Textile Mills) "The construction market seems to have slowed for end of year. Overall, it's marginally up." (Nonmetallic Mineral Products)  MANUFACTURING AT A GLANCE December 2019
+Index
+SeriesIndexDec
+SeriesIndexNov
+PercentagePointChange
+Direction
+Rate ofChange
+Trend*(Months)
+PMI®
+47.2
+48.1
+-0.9
+Contracting
+Faster
+5
+New Orders
+46.8
+47.2
+-0.4
+Contracting
+Faster
+5
+Production
+43.2
+49.1
+-5.9
+Contracting
+Faster
+5
+Employment
+45.1
+46.6
+-1.5
+Contracting
+Faster
+5
+SupplierDeliveries
+54.6
+52.0
++2.6
+Slowing
+Faster
+2
+Inventories
+46.5
+45.5
++1.0
+Contracting
+Slower
+7
+Customers'Inventories
+41.1
+45.0
+-3.9
+Too Low
+Faster
+39
+Prices
+51.7
+46.7
++5.0
+Increasing
+From Decreasing
+1
+Backlog ofOrders
+43.3
+43.0
++0.3
+Contracting
+Slower
+8
+New ExportOrders
+47.3
+47.9
+-0.6
+Contracting
+Faster
+2
+Imports
+48.8
+48.3
++0.5
+Contracting
+Slower
+6
+OVERALL ECONOMY
+Growing
+Slower
+128
+Manufacturing Sector
+Contracting
+Faster
+5
+Manufacturing ISM® Report On Business® data is seasonally adjusted for the New Orders, Production, Employment and Supplier Deliveries Indexes.*Number of months moving in current direction.COMMODITIES REPORTED UP/DOWN IN PRICE AND IN SHORT SUPPLYCommodities Up in PriceAluminum Products; Copper Products; Scrap Metals; Steel — Hot Rolled (2); Steel — Stainless (3); Steel Products; and Valves.Commodities Down in PriceCaustic Soda (3); Corrugate; High-Density Polyethylene; Freight (3); Natural Gas; Nickel; Polypropylene (2); and Steel (6).Commodities in Short SupplyAluminum Products; Machined Parts; and Titanium.Note: The number of consecutive months the commodity is listed is indicated after each item. DECEMBER 2019 MANUFACTURING INDEX SUMMARIESPMI®Manufacturing contracted in December, as the PMI® registered 47.2 percent, a decrease of 0.9 percentage point from the November reading of 48.1 percent. "The PMI® contracted for the fifth straight month, at faster levels compared to November. This marks nine straight months of softening or contraction in manufacturing. The sector's rate of contraction is the fastest since June 2009, when the PMI® registered 46.3 percent. All but two (Supplier Deliveries and Prices) of the manufacturing subindexes registered at levels associated with contraction. For the fourth straight month, two of the six big industries expanded, and four contracted," says Fiore. A reading above 50 percent indicates that the manufacturing economy is generally expanding; below 50 percent indicates that it is generally contracting.A PMI® above 42.9 percent, over a period of time, generally indicates an expansion of the overall economy. Therefore, the December PMI® indicates growth for the 128th consecutive month in the overall economy, and the fifth month of contraction in the manufacturing sector following 35 straight months of growth. "The past relationship between the PMI® and the overall economy indicates that the PMI® for December (47.2 percent) corresponds to a 1.3-percent increase in real gross domestic product (GDP) on an annualized basis," says Fiore.THE LAST 12 MONTHS Month
+PMI®
+Month
+PMI®
+Dec 2019
+47.2
+Jun 2019
+51.7
+Nov 2019
+48.1
+May 2019
+52.1
+Oct 2019
+48.3
+Apr 2019
+52.8
+Sep 2019
+47.8
+Mar 2019
+55.3
+Aug 2019
+49.1
+Feb 2019
+54.2
+Jul 2019
+51.2
+Jan 2019
+56.6
+Average for 12 months – 51.2 High – 56.6 Low – 47.2
+New OrdersISM®'s New Orders Index registered 46.8 percent in December, a decrease of 0.4 percentage point when compared to the 47.2 percent reported for November. This indicates that new orders contracted for the fifth straight month, and at a faster rate. "Of the top six industry sectors, Transportation Equipment again had the fastest new orders contraction in December. For the second month, only one of the top six industry sectors expanded. The index had its lowest reading since April 2009, when it registered 46 percent," says Fiore. A New Orders Index above 52.5 percent, over time, is generally consistent with an increase in the Census Bureau's series on manufacturing orders (in constant 2000 dollars).Of the 18 manufacturing industries, three reported growth in new orders in December: Textile Mills; Food, Beverage & Tobacco Products; and Miscellaneous Manufacturing. The 12 industries reporting a decline in new orders in December, in the following order, are: Wood Products; Furniture & Related Products; Nonmetallic Mineral Products; Printing & Related Support Activities; Transportation Equipment; Fabricated Metal Products; Electrical Equipment, Appliances & Components; Paper Products; Primary Metals; Computer & Electronic Products; Chemical Products; and Machinery. New Orders
+%Higher
+%Same
+%Lower
+Net
+Index
+Dec 2019
+18.6
+51.2
+30.2
+-11.6
+46.8
+Nov 2019
+20.5
+48.3
+31.2
+-10.7
+47.2
+Oct 2019
+20.5
+51.0
+28.5
+-8.0
+49.1
+Sep 2019
+18.8
+55.2
+26.0
+-7.2
+47.3
+ProductionISM®'s Production Index registered 43.2 percent in December, which is 5.9 percentage points lower than the 49.1 percent reported for November, indicating a fifth consecutive month of contraction. "The index had its lowest reading since April 2009, when it registered 36.7 percent. One of the six big industry sectors expanded, and five contracted," says Fiore. An index above 51.7 percent, over time, is generally consistent with an increase in the Federal Reserve Board's Industrial Production figures.The three industries reporting growth in production during the month of December are: Miscellaneous Manufacturing; Food, Beverage & Tobacco Products; and Machinery. The 14 industries reporting a decrease in production in December — listed in order — are: Apparel, Leather & Allied Products; Wood Products; Nonmetallic Mineral Products; Printing & Related Support Activities; Transportation Equipment; Textile Mills; Paper Products; Fabricated Metal Products; Petroleum & Coal Products; Chemical Products; Furniture & Related Products; Electrical Equipment, Appliances & Components; Primary Metals; and Computer & Electronic Products. Production
+%Higher
+%Same
+%Lower
+Net
+Index
+Dec 2019
+15.8
+49.8
+34.4
+-18.6
+43.2
+Nov 2019
+20.3
+56.3
+23.4
+-3.1
+49.1
+Oct 2019
+20.8
+49.5
+29.7
+-8.9
+46.2
+Sep 2019
+20.3
+52.5
+27.2
+-6.9
+47.3
+EmploymentISM®'s Employment Index registered 45.1 percent in December, a decrease of 1.5 percentage points compared to the November reading of 46.6 percent. "This is the fifth month of employment contraction, at a faster rate in December. One of the six big industry sectors expanded, and four contracted. The index had its lowest reading since January 2016, when it registered 44.6 percent," says Fiore. An Employment Index above 50.8 percent, over time, is generally consistent with an increase in the Bureau of Labor Statistics (BLS) data on manufacturing employment.Of the 18 manufacturing industries, two reported employment growth in December: Plastics & Rubber Products; and Computer & Electronic Products. The 11 industries reporting a decrease in employment in December, in the following order, are: Apparel, Leather & Allied Products; Wood Products; Printing & Related Support Activities; Petroleum & Coal Products; Fabricated Metal Products; Textile Mills; Transportation Equipment; Electrical Equipment, Appliances & Components; Nonmetallic Mineral Products; Chemical Products; and Machinery. Employment
+%Higher
+%Same
+%Lower
+Net
+Index
+Dec 2019
+11.5
+63.7
+24.8
+-13.3
+45.1
+Nov 2019
+13.9
+64.9
+21.2
+-7.3
+46.6
+Oct 2019
+16.3
+62.3
+21.4
+-5.1
+47.7
+Sep 2019
+14.6
+62.3
+23.0
+-8.4
+46.3
+Supplier DeliveriesThe delivery performance of suppliers to manufacturing organizations was slower in December, as the Supplier Deliveries Index registered 54.6 percent. This is 2.6 percentage points higher than the 52 percent reported for November. "Supplier deliveries continue to become more difficult, recording their strongest levels since February 2019, when the index registered 54.9 percent. The index expansion, coupled with price growth, is a positive indicator for Q1. However, supplier capacity remains at satisfactory levels to support current production output," says Fiore. A reading below 50 percent indicates faster deliveries, while a reading above 50 percent indicates slower deliveries.The six industries reporting slower supplier deliveries in December — listed in order — are: Fabricated Metal Products; Textile Mills; Computer & Electronic Products; Machinery; Miscellaneous Manufacturing; and Chemical Products. The five industries reporting faster supplier deliveries in December are: Wood Products; Primary Metals; Electrical Equipment, Appliances & Components; Plastics & Rubber Products; and Transportation Equipment. Seven industries reported no change in supplier deliveries performance in December. Supplier Deliveries
+%Slower
+%Same
+%Faster
+Net
+Index
+Dec 2019
+11.5
+81.4
+7.0
++4.5
+54.6
+Nov 2019
+11.3
+80.8
+8.0
++3.3
+52.0
+Oct 2019
+10.0
+80.1
+9.9
++0.1
+49.5
+Sep 2019
+10.8
+81.0
+8.2
++2.6
+51.1
+Inventories*The Inventories Index registered 46.5 percent in December, an increase of 1 percentage point from the 45.5 percent reported for November. "The index contracted for the seventh straight month at a slower rate, as companies continued making an effort to match raw-material inputs with new-order receipts and backlog status," says Fiore. An Inventories Index greater than 44.3 percent, over time, is generally consistent with expansion in the Bureau of Economic Analysis (BEA) figures on overall manufacturing inventories (in chained 2000 dollars).The four industries reporting higher inventories in December are: Nonmetallic Mineral Products; Food, Beverage & Tobacco Products; Electrical Equipment, Appliances & Components; and Computer & Electronic Products. The 11 industries reporting a decrease in inventories in December — listed in order — are: Apparel, Leather & Allied Products; Furniture & Related Products; Textile Mills; Printing & Related Support Activities; Paper Products; Plastics & Rubber Products; Fabricated Metal Products; Miscellaneous Manufacturing; Machinery; Transportation Equipment; and Chemical Products. Inventories
+%Higher
+%Same
+%Lower
+Net
+Index
+Dec 2019
+17.5
+58.1
+24.4
+-6.9
+46.5
+Nov 2019
+15.4
+60.2
+24.4
+-9.0
+45.5
+Oct 2019
+19.8
+58.1
+22.1
+-2.3
+48.9
+Sep 2019
+16.3
+61.3
+22.5
+-6.2
+46.9
+Customers' Inventories*ISM®'s Customers' Inventories Index registered 41.1 percent in December, which is 3.9 percentage points lower than the 45 percent reported for November, indicating that customers' inventory levels were considered too low. "Customers' inventories are too low for the 39th consecutive month, declining deeper into 'too low' territory for the second straight month, which is positive for Q1 factory output. The index had its lowest reading since February 2019, when it registered 39 percent," says Fiore.The only industry that reported customers' inventories as too high during the month of December was Apparel, Leather & Allied Products. The 11 industries reporting customers' inventories as too low during December — listed in order — are: Wood Products; Fabricated Metal Products; Plastics & Rubber Products; Chemical Products; Electrical Equipment, Appliances & Components; Primary Metals; Food, Beverage & Tobacco Products; Computer & Electronic Products; Transportation Equipment; Machinery; and Miscellaneous Manufacturing. Six industries reported no change in customer inventories in December. Customers' Inventories
+% Reporting
+%Too High
+%About Right
+%Too Low
+Net
+Index
+Dec 2019
+79
+8.8
+64.7
+26.5
+-17.7
+41.1
+Nov 2019
+76
+9.7
+70.6
+19.7
+-10.0
+45.0
+Oct 2019
+79
+15.4
+64.7
+19.9
+-4.5
+47.8
+Sep 2019
+77
+12.8
+65.4
+21.9
+-9.1
+45.5
+Prices*The ISM® Prices Index registered 51.7 percent in December, an increase of 5 percentage points from the November reading of 46.7 percent, indicating raw materials prices increased after six consecutive months of decreases. "Prices increased in December, supported by steel, copper and aluminum price growth, as manufacturers placed orders for 2020 demand. Prices registered their highest level since May 2019, when the index recorded 53.2 percent," says Fiore. A Prices Index above 52.5 percent, over time, is generally consistent with an increase in the Bureau of Labor Statistics (BLS) Producer Price Index for Intermediate Materials.The four industries reporting paying increased prices for raw materials in December are: Fabricated Metal Products; Food, Beverage & Tobacco Products; Primary Metals; and Computer & Electronic Products. The eight industries reporting a decrease in prices for raw materials in December — listed in order — are: Apparel, Leather & Allied Products; Plastics & Rubber Products; Textile Mills; Machinery; Nonmetallic Mineral Products; Paper Products; Electrical Equipment, Appliances & Components; and Chemical Products. Six industries reported no change in prices in December. Prices
+%Higher
+%Same
+%Lower
+Net
+Index
+Dec 2019
+16.5
+70.5
+13.0
++3.5
+51.7
+Nov 2019
+14.6
+64.2
+21.3
+-6.7
+46.7
+Oct 2019
+15.7
+59.6
+24.7
+-9.0
+45.5
+Sep 2019
+16.4
+66.5
+17.1
+-0.7
+49.7
+Backlog of Orders*ISM®'s Backlog of Orders Index registered 43.3 percent in December, which is 0.3 percentage point higher than the 43 percent reported in November, indicating order backlogs contracted for the eighth consecutive month, at a slower rate in December. "Backlog contraction continues at a similar level as the prior month. The index remains in moderate contraction territory as a result of weak new-order performance. Three of the six big industry sectors' backlogs contracted during the period, up from four in November," says Fiore.Three of the 18 industries reported growth in order backlogs in December: Apparel, Leather & Allied Products; Food, Beverage & Tobacco Products; and Computer & Electronic Products. Eleven industries reported lower order backlogs in December, in the following order: Wood Products; Textile Mills; Paper Products; Transportation Equipment; Furniture & Related Products; Fabricated Metal Products; Electrical Equipment, Appliances & Components; Miscellaneous Manufacturing; Chemical Products; Plastics & Rubber Products; and Machinery. Backlog of Orders
+% Reporting
+%Higher
+%Same
+%Lower
+Net
+Index
+Dec 2019
+89
+12.6
+61.4
+26.0
+-13.4
+43.3
+Nov 2019
+90
+16.2
+53.7
+30.1
+-13.9
+43.0
+Oct 2019
+88
+16.4
+55.3
+28.2
+-11.8
+44.1
+Sep 2019
+89
+15.0
+60.2
+24.8
+-9.8
+45.1
+New Export Orders*ISM®'s New Export Orders Index registered 47.3 percent in December, a decrease of 0.6 percentage point compared to the November reading of 47.9 percent. This indicates that new export orders contracted for the fifth time in six months; October was the exception. "The index remains in contraction territory, which contributed negatively to the New Orders Index. One of the six big industry sectors expanded, and four contracted during the period. Transportation Equipment remains the weakest among the six big industries," says Fiore.The two industries reporting growth in new export orders in December are: Food, Beverage & Tobacco Products; and Miscellaneous Manufacturing. The nine industries reporting a decrease in new export orders in December — listed in order — are: Wood Products; Furniture & Related Products; Plastics & Rubber Products; Nonmetallic Mineral Products; Transportation Equipment; Machinery; Fabricated Metal Products; Chemical Products; and Computer & Electronic Products. Six industries reported no change in new export orders in December. New Export Orders
+% Reporting
+%Higher
+%Same
+%Lower
+Net
+Index
+Dec 2019
+79
+11.3
+72.2
+16.6
+-5.3
+47.3
+Nov 2019
+77
+11.0
+73.9
+15.1
+-4.1
+47.9
+Oct 2019
+76
+18.1
+64.7
+17.2
++0.9
+50.4
+Sep 2019
+77
+6.3
+69.6
+24.2
+-17.9
+41.0
+Imports*ISM®'s Imports Index registered 48.8 percent in December, 0.5 percentage point higher when compared to the 48.3 percent reported for November, indicating that imports contracted for the sixth consecutive month. "Three of the six big industry sectors contracted, and two expanded. Respondents continued to note the need to receive material in advance of the Lunar New Year season in Asia. This dynamic is offset by the impacts associated with matching inventory and new-order inputs, as well as the overall effects of reshoring activity that began in 2019," says Fiore.The six industries reporting growth in imports in December — listed in order — are: Wood Products; Printing & Related Support Activities; Computer & Electronic Products; Miscellaneous Manufacturing; Food, Beverage & Tobacco Products; and Machinery. The six industries reporting a decrease in imports in December — listed in order — are: Apparel, Leather & Allied Products; Transportation Equipment; Electrical Equipment, Appliances & Components; Primary Metals; Fabricated Metal Products; and Chemical Products. Six industries reported no change in imports in December. Imports
+% Reporting
+%Higher
+%Same
+%Lower
+Net
+Index
+Dec 2019
+85
+13.3
+71.0
+15.7
+-2.4
+48.8
+Nov 2019
+82
+10.3
+76.1
+13.6
+-3.3
+48.3
+Oct 2019
+80
+6.6
+77.3
+16.1
+-9.5
+45.3
+Sep 2019
+81
+14.0
+68.3
+17.8
+-3.8
+48.1
+*The Inventories, Customers' Inventories, Prices, Backlog of Orders, New Export Orders and Imports Indexes do not meet the accepted criteria for seasonal adjustments.Buying PolicyAverage commitment lead time for Capital Expenditures increased by three days in December to 147 days. Average lead time for Production Materials increased by two days in December to 63 days. Average lead time for Maintenance, Repair and Operating (MRO) Supplies increased by six days in December to 37 days. Percent Reporting
+CapitalExpenditures
+Hand-to-Mouth
+30 Days
+60 Days
+90 Days
+6 Months
+1 Year+
+AverageDays
+Dec 2019
+20
+5
+9
+19
+26
+21
+147
+Nov 2019
+20
+6
+11
+16
+27
+20
+144
+Oct 2019
+22
+5
+11
+14
+27
+21
+146
+Sep 2019
+22
+5
+9
+16
+26
+22
+148
+ProductionMaterials
+Hand-to-Mouth
+30 Days
+60 Days
+90 Days
+6 Months
+1 Year+
+AverageDays
+Dec 2019
+11
+33
+28
+20
+6
+2
+63
+Nov 2019
+12
+36
+28
+16
+6
+2
+61
+Oct 2019
+12
+35
+24
+20
+7
+2
+63
+Sep 2019
+11
+33
+30
+18
+6
+2
+63
+MRO Supplies
+Hand-to-Mouth
+30 Days
+60 Days
+90 Days
+6 Months
+1 Year+
+AverageDays
+Dec 2019
+40
+35
+15
+5
+4
+1
+37
+Nov 2019
+41
+36
+16
+4
+3
+0
+31
+Oct 2019
+41
+38
+15
+4
+2
+0
+30
+Sep 2019
+40
+35
+17
+6
+2
+0
+32
+About This ReportDO NOT CONFUSE THIS NATIONAL REPORT with the various regional purchasing reports released across the country. The national report's information reflects the entire U.S., while the regional reports contain primarily regional data from their local vicinities. Also, the information in the regional reports is not used in calculating the results of the national report. The information compiled in this report is for the month of December 2019.The data presented herein is obtained from a survey of manufacturing supply executives based on information they have collected within their respective organizations. ISM® makes no representation, other than that stated within this release, regarding the individual company data collection procedures. The data should be compared to all other economic data sources when used in decision-making.Data and Method of PresentationThe Manufacturing ISM® Report On Business® is based on data compiled from purchasing and supply executives nationwide. The composition of the Manufacturing Business Survey Committee is stratified according to the North American Industry Classification System (NAICS) and each of the following NAICS-based industry's contribution to gross domestic product (GDP): Food, Beverage & Tobacco Products; Textile Mills; Apparel, Leather & Allied Products; Wood Products; Paper Products; Printing & Related Support Activities; Petroleum & Coal Products; Chemical Products; Plastics & Rubber Products; Nonmetallic Mineral Products; Primary Metals; Fabricated Metal Products; Machinery; Computer & Electronic Products; Electrical Equipment, Appliances & Components; Transportation Equipment; Furniture & Related Products; and Miscellaneous Manufacturing (products such as medical equipment and supplies, jewelry, sporting goods, toys and office supplies). The data are weighted based on each industry's contribution to GDP. According the BEA estimates for 2017 GDP (released December 1, 2018), the six largest manufacturing sub-sectors are: Computer & Electronic Products; Chemical Products; Transportation Equipment Manufacturing; Food, Beverage & Tobacco Products; Petroleum & Coal Products; and Fabricated Metal Products. Beginning in February 2018 with January 2018 data, computation of the indexes is accomplished utilizing unrounded numbers.Survey responses reflect the change, if any, in the current month compared to the previous month. For each of the indicators measured (New Orders, Backlog of Orders, New Export Orders, Imports, Production, Supplier Deliveries, Inventories, Customers' Inventories, Employment and Prices), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction (higher, better and slower for Supplier Deliveries) and the negative economic direction (lower, worse and faster for Supplier Deliveries), and the diffusion index. Responses are raw data and are never changed. The diffusion index includes the percent of positive responses plus one-half of those responding the same (considered positive).The resulting single index number for those meeting the criteria for seasonal adjustments (PMI®, New Orders, Production, Employment and Supplier Deliveries) is then seasonally adjusted to allow for the effects of repetitive intra-year variations resulting primarily from normal differences in weather conditions, various institutional arrangements, and differences attributable to non-moveable holidays. All seasonal adjustment factors are subject annually to relatively minor changes when conditions warrant them. The PMI® is a composite index based on the diffusion indexes of five of the indexes with equal weights: New Orders (seasonally adjusted), Production (seasonally adjusted), Employment (seasonally adjusted), Supplier Deliveries (seasonally adjusted), and Inventories.Diffusion indexes have the properties of leading indicators and are convenient summary measures showing the prevailing direction of change and the scope of change. A PMI® reading above 50 percent indicates that the manufacturing economy is generally expanding; below 50 percent indicates that it is generally declining. A PMI® above 42.9 percent, over a period of time, indicates that the overall economy, or gross domestic product (GDP), is generally expanding; below 42.9 percent, it is generally declining. The distance from 50 percent or 42.9 percent is indicative of the extent of the expansion or decline. With some of the indicators within this report, ISM® has indicated the departure point between expansion and decline of comparable government series, as determined by regression analysis. The Manufacturing ISM® Report On Business® survey is sent out to Manufacturing Business Survey Committee respondents the first part of each month. Respondents are asked to report on information for the current month for U.S. operations only. ISM® receives survey responses throughout most of any given month, with the majority of respondents generally waiting until late in the month to submit responses in order to give the most accurate picture of current business activity. ISM® then compiles the report for release on the first business day of the following month.The industries reporting growth, as indicated in the Manufacturing ISM® Report On Business® monthly report, are listed in the order of most growth to least growth. For the industries reporting contraction or decreases, those are listed in the order of the highest level of contraction/decrease to the least level of contraction/decrease.Responses to Buying Policy reflect the percent reporting the current month's lead time, the approximate weighted number of days ahead for which commitments are made for Capital Expenditures; Production Materials; and Maintenance, Repair and Operating (MRO) Supplies, expressed as hand-to-mouth (five days), 30 days, 60 days, 90 days, six months (180 days), a year or more (360 days), and the weighted average number of days. These responses are raw data, never revised, and not seasonally adjusted since there is no significant seasonal pattern.ISM ROB ContentThe Institute for Supply Management® ("ISM") Report On Business® (both Manufacturing and Non-Manufacturing) ("ISM ROB") contains information, text, files, images, video, sounds, musical works, works of authorship, applications, and any other materials or content (collectively, "Content") of ISM ("ISM ROB Content"). ISM ROB Content is protected by copyright, trademark, trade secret, and other laws, and as between you and ISM, ISM owns and retains all rights in the ISM ROB Content. ISM hereby grants you a limited, revocable, nonsublicensable license to access and display on your individual device the ISM ROB Content (excluding any software code) solely for your personal, non-commercial use. The ISM ROB Content shall also contain Content of users and other ISM licensors. Except as provided herein or as explicitly allowed in writing by ISM, you shall not copy, download, stream, capture, reproduce, duplicate, archive, upload, modify, translate, publish, broadcast, transmit, retransmit, distribute, perform, display, sell, or otherwise use any ISM ROB Content.Except as explicitly and expressly permitted by ISM, you are strictly prohibited from creating works or materials (including but not limited to tables, charts, data streams, time-series variables, fonts, icons, link buttons, wallpaper, desktop themes, online postcards, montages, mashups and similar videos, greeting cards, and unlicensed merchandise) that derive from or are based on the ISM ROB Content. This prohibition applies regardless of whether the derivative works or materials are sold, bartered, or given away. You shall not either directly or through the use of any device, software, internet site, web-based service, or other means remove, alter, bypass, avoid, interfere with, or circumvent any copyright, trademark, or other proprietary notices marked on the Content or any digital rights management mechanism, device, or other content protection or access control measure associated with the Content including geo-filtering mechanisms. Without prior written authorization from ISM, you shall not build a business utilizing the Content, whether or not for profit.You shall not create, recreate, distribute, incorporate in other work, or advertise an index of any portion of the Content unless you receive prior written authorization from ISM. Requests for permission to reproduce or distribute ISM ROB Content can be made by contacting in writing at: ISM Research, Institute for Supply Management, 309 West Elliot Road, Suite 113, Tempe, Arizona 85284-1556, or by emailing kcahill@instituteforsupplymanagement.org. Subject: Content Request.ISM shall not have any liability, duty, or obligation for or relating to the ISM ROB Content or other information contained herein, any errors, inaccuracies, omissions or delays in providing any ISM ROB Content, or for any actions taken in reliance thereon. In no event shall ISM be liable for any special, incidental, or consequential damages, arising out of the use of the ISM ROB. Report On Business®, PMI®, and NMI® are registered trademarks of Institute for Supply Management®. Institute for Supply Management® and ISM® are registered trademarks of Institute for Supply Management, Inc.About Institute for Supply Management®Institute for Supply Management® (ISM®) serves supply management professionals in more than 90 countries. Its 50,000 members around the world manage about US$1 trillion in corporate and government supply chain procurement annually. Founded in 1915 as the first supply management institute in the world, ISM is committed to advancing the practice of supply management to drive value and competitive advantage for its members, contributing to a prosperous and sustainable world. ISM leads the profession through the ISM Report On Business®, its highly regarded certification programs and the ISM Mastery Model®. This report has been issued by the association since 1931, except for a four-year interruption during World War II.The full text version of the Manufacturing ISM® Report On Business® is posted on ISM®'s website at www.ismrob.org on the first business day* of every month after 10:00 a.m. ET.The next Manufacturing ISM® Report On Business® featuring January 2020 data will be released at 10:00 a.m. ET on Monday, February 3, 2020.*Unless the New York Stock Exchange is closed. Contact:
+Kristina Cahill
+Report On Business® Analyst
+ISM®, ROB/Research Manager
+Tempe, Arizona
++1 480.455.5910
+Email: kcahill@instituteforsupplymanagement.org
+Institute for Supply Management logo. (PRNewsFoto/Institute for Supply Management)More CisionMoreView original content to download multimedia:http://www.prnewswire.com/news-releases/pmi-at-47-2-gdp-growing-at-1-3-december-manufacturing-ism-report-on-business-300979292.htmlSOURCE Institute for Supply ManagementReblogShareTweetShareRecently ViewedYour list is empty.What to Read NextThe Dow logged its largest reversal in two years on Wednesday — here are 5 reasons the stock market is tanking, and only one of them is the coronavirusMarketWatchBernie Sanders Could Be Unstoppable if He Wins South CarolinaThe National InterestRichard Branson’s Wealth Falls to Earth as Virgin Galactic SputtersBloombergA drug shortage due to the coronavirus is a 'considerable risk:' Fmr. FDA deputy commissionerYahoo Finance VideoBiocontainment expert on coronavirus: There's no need for average people to panic yetYahoo FinanceAmid coronavirus, bitcoin has fallen 6% this week to below $8,800Yahoo FinanceEl-Erian: The Fed will cut rates in March, if not beforeYahoo Finance VideoOil’s Worst Week Since 2014 Puts Pressure on OPEC+ to RespondBloombergMost face masks won’t protect you from the coronavirusYahoo FinanceStock market live updates: Dow drops 1190 points amid coronavirus fears, S&P 500 sees fastest correction in historyYahoo FinanceDon’t buy the stock dip yet, says Goldman as it warns coronavirus will wipe out earnings growth this yearMarketWatchCoronavirus-induced stock selloff means IPO market is 'on holiday': veteran IPO analystYahoo FinanceMarket Watcher: Over six months we will see the markets higher Yahoo Finance VideoOil prices fall again, on track for biggest weekly drop in over 4 yearsReutersStock market live updates: Stock futures climb after historic rout; coronavirus fears persistYahoo FinanceSomething 'dangerous' is happening beneath the surface of the market selloffYahoo Finance

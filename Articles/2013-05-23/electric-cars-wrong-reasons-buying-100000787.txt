@@ -1,0 +1,42 @@
+NEW YORK ( TheStreet) -- The purpose of this article is to sort out some of the main arguments for and against electric cars. For reference and clarification, by "electric" I hereby mean both pure electric cars and those accompanied by an on-board generator, such as the Chevrolet Volt or the upcoming BMW i3. Basically, any car that plugs into a wall in order to store energy in a battery that will (help) drive the car.
+1. "Electric cars save money on gasoline."
+Duh! Sure they do. But how much? Anything worth writing home about? Let's take a simple mathematical example. Consider the alternative if you are pondering buying an electric car. This alternative purchase could reasonably be a regular Toyota Prius, which can be had for $25,000.
+The average American drives 12,000 miles per year. The Prius yields 50 miles per gallon. That's 240 gallons per year. Multiply by $4 per gallon and you have $960 per year.
+>>Also see: Why JPMorgan Will Always Be a Better Villain Than Apple >>
+Let's stop there for a minute. Ponder that number -- $960 per year. That's the maximum you can save, assuming your cost of electricity is zero.
+How much are you willing to spend upfront in order to save $960 per year? $5,000? $10,000? What's your payback calculation?
+$960 per year is not nothing, but how large a percentage of your annual spending budget is it? I buy two lattes a day at my favorite coffee shop. They're $3.75 apiece, or $7.50 a day. Multiply by 360 days, and you get $2,700 per year. Whoops! There went your best-case, electric-car gasoline savings, multiplied by three.
+2. "Electric cars save money overall."
+Now you're talking. Electric cars may save you money outside of spending on gasoline. Specifically, you can save money on service and maintenance.
+The calculations here are complex and depend heavily on assumptions. For starters, many new gasoline cars have free service for two or three years.
+That said, in many electric cars you don't have any oil changes, transmission issues, timing belts or spark plugs to worry about. Even in range-extenders such as the Volt, here are fewer of them. Clearly this will save the electric car owners serious money over a car's lifetime.
+After the initial "free service" period, whether one year or three years or longer, how much should one assume for service for a used car, per year, that's being driven 12,000 miles per year? I would say the minimum is $600 per year, but at least over time it is likely to average a lot more. Some pay thousands per year in car service, for a 5- to 30-year-old car.
+The issue doesn't stop there, however. There are other things for which we need to account.
+Let's start with the depreciation of the battery. Different electric cars have batteries that cost anywhere between $2,000 and $32,000 upfront. So gee whiz -- the cost of depreciating this battery will vary widely.
+Over how many years is an electric car's battery warrantied? Mostly eight years, sometimes 10. That doesn't mean that the useful life is eight or 10 years. That's just the minimum. Is the average 15 years? 20? More? This is obviously in dispute.
+Let's take a simple example of an electric car battery having an useful life of 15 years and cost of $15,000. That's $1,000 per year in amortization/depreciation. That $960 per year in gasoline savings? Poof!
+The point here is the cost argument overall is in dispute. It all depends on the assumptions. Clearly, over time these numbers are moving in the electric car's favor at this point, mostly as a result of falling battery prices.
+>>Also see: IRS Issues New Home-Office Deduction >>
+You will hear that batteries are falling in cost from 5% to 8% per year on average. I believe they are falling in cost a lot faster right now for car applications. It's not just about the basic battery chemistry but also cooling, heating and packaging these batteries inside a car. We are probably in the middle of a period in which car battery costs are falling much, much faster than 8% per year right now.
+Overall savings will also depend on your personal circumstances and how much you are driving. One big variable: How much are you paying for electricity? It makes a world of difference if you are paying 5 cents per kWh or if you're paying 20 cents.
+What about cost of gasoline over the lifetime of the car? This is obviously the other side of the coin. Again, it makes a world of difference if you are assuming $3 per gallon, $6 per gallon or even worse.
+If you don't drive very much, you may be better off with a gasoline car. On the other hand, if you're driving 35 miles to work every day, another 35 miles coming home, have access to inexpensive electricity, and you are guarding yourself against sharply increasing gasoline prices, then an electric car may be for you -- strictly based on cost.
+3. "Electric cars are good for the environment."
+This is a hot-button issue I am not going to fully address, let alone from a public policy perspective. From a personal perspective, however, it's a different story.
+No matter what you assume for the environment, your ability as a single consumer of an electric car to affect it is essentially zero. Yet, others -- such as me -- don't agree with the premise that there is anything wrong with the environment. So environmental arguments don't bite on me and many others.
+But wait -- there is actually one area where electric cars are indisputably better for the environment: Noise. Whatever other demerits electric cars may or may not have, one thing is for certain: They do cure noise pollution. Imagine walking down Madison Avenue in New York City and not hearing any meaningful noise from all of these cars. Imagine living on the third floor in midtown Manhattan and sleeping with the window open.
+4. "Electric cars drive better."
+This is the one that matters, folks. In the end, until the other cost-related arguments become more clear or are otherwise settled, it's all about the actual driving experience.
+Ask your fellow Americans who are actually driving electric cars every day. What do they tell you? Let me suggest that almost all of them -- 99%? -- will tell you their electric car simply drives better than a gasoline or diesel car.
+Why is that? It's similar to having an SSD in your PC as opposed to having an HDD. It's about fewer moving parts, nothing spinning thousands of times per minute.
+An electric car has fewer parts overall, and fewer moving parts. It gives you 100% of the torque right away. It doesn't require a transmission, and it doesn't make any meaningful noise. Pressing the accelerator simply has a very different feeling. If you haven't driven one, you wouldn't know.
+Then there's the braking. Electric cars have different degrees of regenerative braking. Some cars, such as the Volt, offers multiple settings for this. What this means is that when you let up on the accelerator, the car brakes as the car recaptures the energy into the battery. This means that unless you need to brake very sharply you don't need to touch the brake pedal.
+We refer to this as "one-pedal driving." Once you get used to it, it is vastly preferable to having to press the brake pedal all the time. Again, this is difficult to explain to people who have not driven an electric car.
+Bottom line: Get one, but not for the wrong reasons.
+There are some reasons people give for buying an electric car: Saving on gasoline, saving money overall, saving the environment. As I have shown, these arguments are either dubious, invalid or at least in severe doubt. They can also be at least somewhat accurate, depending on a person's situation and assumptions.
+That said, the rational reason to buy an electric car is that it simply drives better. Unlike the other arguments, it's also the one that is almost impossible to discuss without first-hand knowledge gained from the experience of driving one.
+For this reason, I recommend you test-drive an electric car before you make up your mind. I suggest the probability you will like it is very high.
+At the time of publication the author had no position in any of the stocks mentioned.
+Follow @antonwahlman
+This article was written by an independent contributor, separate from TheStreet's regular news coverage.
+EXCLUSIVE OFFER: See inside Jim Cramer’s multi-million dollar charitable trust portfolio to see the stocks he thinks could be potentially HUGE winners. Click here to see his holdings for FREE.Why Car Prices Vary From City To City7 Towns That Really Want Your Sports Team10 Greenest Cars of 2013

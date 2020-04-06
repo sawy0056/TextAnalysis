@@ -1,0 +1,26 @@
+Intersil Corp. (ISIL) has reported fourth-quarter 2012 earnings per share of 2 cents beating the Zacks Consensus Estimate of a loss of 7 cents per share.
+Revenue
+The company reported revenues of $137.5 million, down 17.1% year over year and 9.2% sequentially and within management’s guidance of $138 million, +/- $3 million. The sequential decrease was due to weak demand across each end market.
+Revenue by End Market
+Industrial & infrastructure comprised 57% of Intersil’s sales in the last quarter, down 8.2% sequentially and 13.1% from the year-ago quarter. The fourth quarter marked a continuation of the softening trends noticed in the third, as a result of broad-based weakness and seasonal trends.
+Intersil’s Consumer generated 22% of its sales, down 6.8% sequentially and 14.2% from the year-ago quarter due to weakness in the gaming and display markets, partially offset by moderate strength in handheld due to new design wins.
+Intersil’s Personal computing generated the remaining 21% of its sales, down 14.1% sequentially and 28.7% from the year-ago quarter due to declines in notebook computer units.
+Margins
+Reported gross margin for the quarter was 54.0%, down 270 basis points (bps) year over year and 10 bps sequentially. Lower volumes impacted gross margins in the quarter.
+Operating expenses (SG&A and R&D) of $71.1 million were down 7.5% from $76.9 million in the year-ago quarter. The reported operating margin was (3.0%), down 820 bps from the year-ago quarter5.2%. Both Selling, general and administrative (SG&A) and Research and development (R&D) expenses increased as a percentage of sales.
+The quarter’s GAAP net loss was $21.8 million or loss per share of 17 cents, compared with a net income of $24.1 million or earnings of 19 cents in the comparable quarter last year. Excluding special items, but including stock-based compensation expenses, adjusted net income was $2.0 million or earnings per share of 2 cents compared with $12.9 million or 10 cents a share in the year-ago quarter.
+Balance Sheet
+The company ended the fourth quarter with cash and short-term investments balance of $163.6 million, down from $410.2 million in the year-ago quarter. Trade receivables were $54.7 million, down from $64.9 million in the prior quarter.
+Cash flow from operations was $23.2 million, up from $22.6 million in the year-ago quarter. Capex was $6.7 million versus $0.9 million in the year-ago quarter.
+The company repurchased 1.2 million shares at a cost of $8.9 million during the fourth quarter.
+Guidance
+For the first quarter of 2013, Intersil expects total revenue in the range of $131–$138 million, representing a sequential decrease of 2.5% at the mid-point. Gross margins are expected to be approximately at 54%, research and development expense of $41 million, sales, general and administrative expenses of $30 million, equity-based compensation expense of $5.3 million, and amortization of intangibles of $6.5 million.
+GAAP (loss)/earnings per share are expected in the range of $(0.02) to $0.01, while non-GAAP earnings per share is likely to be $0.02 to $0.05.
+Conclusion
+Intersil Corp designs and manufactures high-performance analog, mixed-signal and power components, focused on power management applications. Though the earnings exceeded the Zacks Consensus Estimate, the company reported an overall disappointing quarter.
+In the quarter, the company performed poorly with both revenue and gross margins decreasing from the prior as well as the year-ago quarter. Management gave a weak first-quarter guidance, which reflects low demand visibility, macro weakness and pronounced weakness in analog.
+However, we believe that the company’s new products and design wins in the quarter will likely drive demand for light sensor products going forward. We also remain optimistic about Intersil’s long-term prospects and contend that its restructuring activities will reduce fixed cost base and hence reduce operating expenses.
+Currently, Intersil has a Zacks Rank #5 (Strong Sell). Investors should look out for some other stocks with a Zacks Rank of #1, 2 or 3 and positive ESP (Read: Zacks Earnings ESP: A Better Method).
+Broadcom Corp. (BRCM) has a Zacks Rank #2 (Buy) with an ESP of +10.26%.
+Interdigital Inc. (IDCC) has a Zacks Rank #2 (Buy) with an ESP of +350.0%.
+SanDisk Corp. (SNDK) has a Zacks Rank #2 (Buy) with an ESP of +1.61%.  Read the Full Research Report on SNDKRead the Full Research Report on BRCM Read the Full Research Report on ISIL Read the Full Research Report on IDCC Zacks Investment Research More From Zacks.com Read the analyst report on SNDK,BRCM,ISIL,IDCC

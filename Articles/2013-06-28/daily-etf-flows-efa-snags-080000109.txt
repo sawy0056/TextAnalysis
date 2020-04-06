@@ -1,0 +1,71 @@
+The iShares MSCI EAFE fund (EFA) piled on $685 million on Thursday, June 27, while overall assets in U.S.-listed ETFs increased to $1.437 trillion at the close. Markets were up, with the S'P 500 gaining 9.94 points, or 0.62 percent, to close at 1,613.20.Top 10 Creations (All ETFs) Ticker Name Net Flows ($,mm) AUM ($, mm) AUM % Change
+EFA iShares MSCI EAFE 685.32 40,159.75 1.74%
+EEM iShares MSCI Emerging Markets 425.81 33,843.58 1.27%
+XLF Financial Select SPDR 308.07 14,476.36 2.17%
+IVV iShares Core S'P 500 170.05 42,965.34 0.40%
+XLP Consumer Staples Select SPDR 165.63 6,799.47 2.50%
+HYG iShares iBoxx $ High Yield Corporate Bond 163.24 13,893.71 1.19%
+XLV Health Care Select SPDR 139.11 7,064.54 2.01%
+TLT iShares Barclays 20+ Year Treasury Bond 131.32 4,300.60 3.15%
+XLY Consumer Discretionary Select SPDR 115.25 5,863.75 2.00%
+EWZ iShares MSCI Brazil Capped 110.88 6,113.65 1.85%
+Top 10 Redemptions (All ETFs) Ticker Name Net Flows ($,mm) AUM ($, mm) AUM % Change
+SPY SPDR S'P 500 -1,039.22 134,258.07 -0.77%
+VNQ Vanguard REIT -504.80 17,830.33 -2.75%
+IWM iShares Russell 2000 -297.77 21,576.23 -1.36%
+BND Vanguard Total Bond Market -291.06 16,850.76 -1.70%
+XLK Technology Select SPDR -276.39 10,174.53 -2.64%
+QQQ PowerShares QQQ -170.83 33,600.52 -0.51%
+FXE CurrencyShares Euro -161.01 225.42 -41.67%
+XRT SPDR S'P Retail -91.92 1,026.44 -8.22%
+DIA SPDR Dow Jones Industrial Average Trust -59.96 12,500.16 -0.48%
+FRI First Trust S'P REIT -49.66 331.70 -13.02%
+ETF Daily Flows By Asset Class
+Net Flows ($, mm) AUM ($, mm) % of AUM
+U.S. Equity -805.64 744,558.34 -0.11%
+International Equity 1,645.91 322,813.12 0.51%
+U.S. Fixed Income 341.94 226,503.76 0.15%
+International Fixed Income 32.64 25,720.67 0.13%
+Commodities -74.52 71,946.26 -0.10%
+Currency -210.12 2,289.33 -9.18%
+Leveraged 116.19 15,714.50 0.74%
+Inverse -57.75 20,705.76 -0.28%
+Asset Allocation 2.83 3,530.45 0.08%
+Alternatives -2.20 2,966.17 -0.07%
+Total:
+989.28
+1,436,748.36
+0.07%
+Top 10 Volume Surprises, Funds '$50 mm AUM Ticker Name Average Volume(30 Day) 1-Day Volume % of Average
+VMBS Vanguard Mortgage-Backed Securities 99,502 800,228 804.23%
+SBB ProShares Short SmallCap600 325,647 2,605,007 799.95%
+FBT First Trust NYSE Arca Biotechnology 190,165 1,413,106 743.10%
+GLTR ETFS Physical Precious Metal Basket Shares 22,538 136,939 607.60%
+IWX iShares Russell Top 200 Value 110,131 621,832 564.63%
+DGZ PowerShares DB Gold Short ETN 399,173 2,109,699 528.52%
+DFE WisdomTree Europe SmallCap Dividend 19,997 104,034 520.26%
+RYJ Guggenheim Raymond James SB-1 Equity 21,839 108,489 496.76%
+FRI First Trust S'P REIT 687,576 2,969,696 431.91%
+NFO Guggenheim Insider Sentiment 15,040 64,041 425.81%
+Top 10 1-Day Performers, Excluding Leverage/Inverse Funds and '1,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+TCHI RBS China Trendpilot ETN 8.65% 46,940 9.79
+TDD db X-trackers 2010 Target Date 5.85% 1,946 9.78
+MLPW ETRACS Wells Fargo MLP ETN 4.62% 1,117 13.21
+AXHE iShares MSCI ACWI ex-US Health Care 4.07% 1,300 14.33
+EWW iShares MSCI Mexico Capped Investable Market 3.83% 5,490,327 2,207.77
+EWY iShares MSCI South Korea Capped 3.53% 3,023,107 3,079.68
+JO iPath Dow Jones-UBS Coffee Total Return ETN 3.44% 87,910 88.96
+ALTL RBS US Large Cap Alternator 3.42% 1,174 4.54
+IFAS iShares FTSE EPRA/NAREIT Developed Asia 3.32% 36,802 34.76
+GMFS SPDR S'P Small Cap Emerging Asia Pacific 3.28% 2,013 2.07
+Bottom 10 1-Day Performers, Excluding Leverage/Inverse Funds and '1,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+CVOL C-Tracks Citi Volatility ETN -4.91% 3,950 2.85
+VXX iPath S'P 500 VIX Short-Term Futures ETN -4.01% 45,425,258 975.55
+UNG United States Natural Gas -3.91% 11,938,722 838.35
+VIIX VelocityShares VIX Short Term ETN -3.85% 1,276,398 16.19
+DCNG iPath Pure Beta Seasonal Natural Gas ETN -3.79% 3,786 10.42
+VIXY ProShares VIX Short-Term -3.75% 581,857 185.02
+NAGS Teucrium Natural Gas -3.71% 5,657 3.37
+UNL United States 12 Month Natural Gas -3.67% 22,159 25.95
+UBG ETRACS CMCI Gold Total Return ETN -3.29% 16,920 12.26
+GAZ iPath Dow Jones-UBS Natural Gas Total Return ETN -3.16% 102,671 34.69 Disclaimer:All data as of 6 a.m. Eastern time the date the article is published. Data is believed to be accurate; however, transient market data is often subject to subsequent revision and correction by the exchanges.Permalink | ' Copyright 2013 IndexUniverse LLC. All rights reserved

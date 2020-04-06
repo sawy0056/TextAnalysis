@@ -1,0 +1,79 @@
+FOLSOM, CA--(Marketwired - Aug 7, 2013) - Sierra Vista Bank (
+OTCQB :
+SVBA ) today reported earnings of $170,000 for the 2nd Quarter of 2013, a 62% increase compared to earnings of $105,000 for the 2nd Quarter 2012. Sierra Vista Bank has now been profitable for five consecutive quarters. The Bank reported year to date earnings of $223,000 as of June 30, 2013, compared to a loss of ($592,000) through the first six months of 2012.Total assets grew $2.5 million or 2.9% in the 2nd Quarter 2013 to $88.0 million, an increase of $9.4 million or 12.0% from June 30, 2012. Loans increased $4.8 million or 7.5% during the 2nd Quarter to a total of $68.9 million, an increase of $13.1 million or 23.5% from the 2nd Quarter 2012. Total deposits increased $2.4 million or 3.2% to $76.6 million in the quarter, an increase of $6.0 million or 8.5% from the prior year. The Bank's ratio of non-interest bearing deposits to total deposits remained strong at 31.0% as of June 30, 2013. The 2013 financial results are preliminary and unaudited.The Bank continued to show a strong net interest margin of 5.25% for the 2nd Quarter 2013, with a yield on earning assets of 5.48% and a total cost of funds of 0.25%.The provision for loan losses for the 2nd Quarter 2013 totaled $110,000, compared to an $80,000 provision in the 2nd Quarter of 2012. The allowance for loan losses was 2.14% of total loans at June 30, 2013.The Bank received an additional $1.3 million in new capital from an institutional investor in the 2nd Quarter 2013, substantially strengthening the Bank's balance sheet and capital levels. "We are experiencing excellent growth this year, and now have the capital base needed to continue this growth in our market place," stated Lesa Fynes, EVP/CFO.Capital levels at June 30, 2013 increased and remain well above the regulatory "well-capitalized" minimum levels:The Tier 1 Leverage Capital ratio improved to 12.88% compared to 9.25% as of June 30, 2012 The Tier 1 Risk Based Capital ratio improved to 16.34% compared to 12.99% as of June 30, 2012 The Total Risk Based Capital ratio improved to 17.60% compared to 14.25% as of June 30, 2012 Non-performing assets totaled $3.5 million at the end of June 2013 compared to $3.9 million at the end of June 2012. Non-performing assets at June 30, 2013 include loans classified as non-accrual of $2.0 million, and real estate owned of $1.5 million. The real estate owned balance of $1.5 million includes the real estate housing the Bank's headquarters building in Folsom totaling $1.5 million. Non-performing loans to total loans as a ratio decreased from 4.22% on June 30, 2012 to 2.89% on June 30, 2013. All non-accruing loans with the exception of one loan totaling $117,000 are paid current under their original terms or are paying as agreed under forbearance agreements.About Sierra Vista Bank Sierra Vista Bank is a locally owned community bank headquartered at 1710 Prairie City Road in Folsom, California since March 2007 and has a branch located in the Sam's Town Center in Cameron Park. The Bank prides itself on serving the financial needs of small businesses and professionals in Folsom and throughout the Highway 50 Corridor while remaining committed to community philanthropy. Additional information about Sierra Vista Bank can be found at www.sierravistabank.com or by calling (916) 850-1500.Forward Looking Statement: In addition to historical information, this press release includes forward-looking statements, such as statements regarding increases in non-interest income, future profitability, the bank's ability to address challenges impacting economy in which it operates and future loan losses, which reflect management's current expectations for the bank's future financial results and business prospects. Forward-looking statements are inherently subject to risks and uncertainties, and actual results could differ materially from those currently anticipated due to a number of factors, which include, but are not limited to: (a) changes in competitive pressures among depository and other financial institutions or in the bank's ability to compete effectively against larger financial institutions in its banking market; (b) actions of government regulators or changes in laws, regulations or accounting standards, that adversely affect the bank's business; (c) changes in interest rates and/or inflation; (d) changes in general economic or business conditions and the real estate market in the bank's market; and (e) other unexpected developments or changes in the bank's business or its customers' businesses. Such risks and uncertainties could cause results for subsequent interim periods or for the entire year to differ materially from those indicated. You should not place undue reliance on the forward-looking statements, which reflect management's view only as of the date hereof. The Bank undertakes no obligation to publicly revise these forward-looking statements to reflect subsequent events or circumstances.
+SIERRA VISTA BANK
+CONSOLIDATED BALANCE SHEETS
+(unaudited)
+($000s)   6/30/13     3/31/13     6/30/12
+ASSETS
+Cash and due from banks   $ 2,474     $ 2,982     $ 3,480
+Federal funds sold     1,410       2,020       4,445
+Investment securities, available-for-sale     13,887       14,960       12,921
+Gross loans     68,941       64,135       55,844
+Net deferred (fees)     (34 )     (34 )     (23 )
+Allowance for loan losses     (1,478 )     (1,487 )     (1,381 )
+Net loans     67,429       62,614       54,440
+Premises and equipment, net     726       733       786
+Accrued interest receivable     334       296       295
+Other real estate     1,468       1,571       1,581
+Other assets     226       308       579
+TOTAL ASSETS   $ 87,954     $ 85,484     $ 78,527
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Noninterest-bearing demand deposits   $ 23,702     $ 22,998     $ 24,059
+Interest-bearing demand deposits     3,909       2,908       2,110
+Savings and money market deposits     16,450       15,948       13,659
+Time deposits     32,507       32,305       30,758
+TOTAL DEPOSITS     76,568       74,159       70,586
+FHLB borrowings     0       1000       0
+Accrued interest payable     20       19       25
+Accounts payable and other liabilities     303       353       332
+TOTAL LIABILITIES     76,891       75,531       70,943
+Common stock     21,131       19,961       17,726
+Additional paid-in capital     377       377       377
+Accumulated deficit     (10,245 )     (10,420 )     (10,587 )
+Accumulated other comprehensive income     (200 )     35       68
+TOTAL STOCKHOLDERS' EQUITY     11,063       9,953       7,584
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY   $ 87,954     $ 85,484     $ 78,527
+SIERRA VISTA BANK
+CONSOLIDATED INCOME STATEMENTS
+(unaudited)
+For the Three Months Ended:     For the Six Months Ended:
+($000s, except per share data)   6/30/13     3/31/13     6/30/12     6/30/13     6/30/12
+Interest income
+Loans   $ 1,056     $ 948     $ 896     $ 2,005     $ 1,826
+Investment securities     84       62       83       146       157
+Federal Funds sold     2       2       3       3       7
+Total interest income     1,142       1,012       982       2,154       1,990
+Interest expense
+Deposits     47       45       55       92       123
+FHLB borrowings     1       2       -       3       1
+Total interest expense     48       47       55       95       124
+Net interest income     1,094       965       927       2,059       1,866
+Provision for loan and lease losses     110       70       80       180       890
+Net interest income after provision for loan losses     984       895       847       1,879       976
+Noninterest income
+Customer service and other fees     114       98       124       212       210
+Gain (loss) on sale of loans     22       -       -       22       -
+Gain (loss) on sale of other real estate     (1 )     -       -       (1 )     56
+Gain (loss) on available-for-sale securities     -       -       108       -       133
+Total noninterest income     135       98       232       233       399
+Noninterest expense
+Salaries and employee benefits     480       477       539       956       1,062
+Occupancy and equipment     174       158       151       332       306
+Other general and administrative     295       306       284       601       599
+Total noninterest expense     949       941       974       1,889       1,967
+Net income (loss)   $ 170     $ 52     $ 105     $ 223     $ (592 )
+Earnings (loss) per share   $ 0.05     $ 0.02     $ 0.05     $ 0.06     $ (0.29 )
+Tangible book value per share   $ 2.83     $ 2.98     $ 3.73     $ 2.83     $ 3.73
+Net interest margin     5.25 %     4.97 %     4.88 %     5.11 %     4.84 %
+Asset Quality:
+Non-performing loans to total loans     2.89 %     3.49 %     4.21 %     2.89 %     4.21 %
+Non-performing assets to total loans and ORE     4.91 %     5.80 %     6.85 %     4.91 %     6.85 %
+Non-performing assets to total assets     3.93 %     4.46 %     5.01 %     3.93 %     5.01 %
+Allowance for loan losses to total loans     2.14 %     2.32 %     2.47 %     2.14 %     2.47 %
+Allowance for loan losses to non-performing loans     74.31 %     66.38 %     58.69 %     74.31 %     58.69 %
+Other real estate   $ 1,468     $ 1,571     $ 1,581     $ 1,468     $ 1,581
+Selected Financial Ratios:
+Tier 1 leverage capital ratio     12.88 %     11.95 %     9.25 %     12.88 %     9.25 %
+Tier 1 risk-based capital ratio     16.34 %     15.24 %     12.99 %     16.34 %     12.99 %
+Total risk-based capital ratio     17.60 %     16.50 %     14.25 %     17.60 %     14.25 %

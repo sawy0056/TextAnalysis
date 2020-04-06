@@ -1,0 +1,20 @@
+NEW YORK (TheStreet) -- It doesn't happen that often, but sometimes the stock market views certain companies with such disdain that investors are theoretically paid to buy them.
+Essentially, that's what may be happening when a company's enterprise value (market cap + debt + minority interests + preferred stock - cash and cash equivalents) is negative. In those situations, cash and cash equivalents exceed the sum of the other components of the EV formula, which is sometimes used as a basis for the takeover price of a company.
+While it may not necessarily be what the company is actually worth, it can represent what an acquiring firm would be paying at a given point in time, since an acquirer would have to assume the debt, but would become the owner of any cash.
+Of course, companies that find themselves trading at a negative EV often trade at such depressed prices for very good reasons. They may simply be in decline, and relatively large cash balances may be temporary, as poor operating performance forces these companies to continually burn through that cash.
+You sometimes see small biotech or pharmaceutical names trading at negative EVs, but these are often burning through their cash as they attempt to bring products to market. Sometimes the companies are simply disliked due to negative sentiment about their industry.
+Also see: Career Education's Fourth-Quarter Results >>
+The latter appears to be the case with Career Education , which is in the for-profit education business.
+This is a sector that has suffered mightily over the past few years, due to reports of questionable business practices, including misleading students into assuming large amounts of debt that they might not be able to pay back.
+Since many of these loans were government-backed, tighter regulations have followed. In turn, many names in the sector have fallen sharply in recent years, as enrollments and profits have dwindled, and an industry that once had cult-like status, is now viewed with skepticism.
+CECO shares have dropped 50% in the past year, as the company's total student population fell 21% for the first quarter vs. the same quarter last year.
+Also see: Owning Real Estate Is Part of Restaurants' Value >>
+Revenue also fell 21% for the quarter, and the company lost $15.2 million. Interestingly, though, CECO ended the quarter with $288 million in cash and short-term investments (excluding restricted cash) and no debt, putting the company's current EV at -$85.2 million. Theoretically, at its current price of about $3, investors are purchasing $4.29 in cash, and getting all of the company's other assets for free.
+"Theoretical" is the key word, however. CECO has burned through about $102 million in cash over the past year, and consensus estimates have the company losing money at least through 2014.
+Also see: Most of Us Still Don't Have a Rainy Day Fund >>
+If, somehow, the company was able to stem the bleeding, and exceed the rather negative expectations, this would be an interesting situation. CECO currently trades at just 0.5 times tangible book value per share, and expectations appear to be very low. It's also the only negative EV nonbiotech company (at this writing) with a market cap in excess of $100 million.
+CECO data by YCharts
+At the time of publication, Heller had no positions in stocks mentioned.
+Follow @JonMHellerCFA
+This article is commentary by an independent contributor, separate from TheStreet's regular news coverage.
+CECO ChartMoreEXCLUSIVE OFFER: See inside Jim Cramer’s multi-million dollar charitable trust portfolio to see the stocks he thinks could be potentially HUGE winners. Click here to see his holdings for FREE.Why Car Prices Vary From City To City7 Towns That Really Want Your Sports Team10 Greenest Cars of 2013

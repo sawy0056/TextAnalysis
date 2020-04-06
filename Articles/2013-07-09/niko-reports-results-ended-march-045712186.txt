@@ -1,0 +1,1763 @@
+CALGARY, ALBERTA--(Marketwired - Jul 9, 2013) -
+Niko Resources Ltd. ( NKO.TO ) ("Niko" or the "Company") is pleased to report its financial and operating results, including consolidated financial statements and notes thereto, as well as its managements' discussion and analysis, for the three months and year ended March 31, 2013. The operating results are effective July 8, 2013. All amounts are in U.S. dollars unless otherwise indicated and all amounts are reported using International Financial Reporting Standards unless otherwise indicated.PRESIDENT'S MESSAGE TO THE SHAREHOLDERSDuring fiscal 2013, the Company achieved significant growth in value. Substantial additions to reserves were booked related to development projects in India and in Trinidad and Tobago, contributing to a 166% increase in the Company's total proved reserves to 564 Bcfe and a 118% increase in the Company's total proved plus probable reserves to 821 Bcfe. Reflecting these significant additions, the estimated aggregate after-tax net present value of future net revenue attributable to the Company's estimated proved plus probable reserves (discounted at 10 percent and estimated using forecast prices and costs) increased by 93% to $1.3 Billion. On top of the reserve value, the Company's extensive exploration portfolio and discovered resources, including the significant MJ gas and condensate discovery in the D6 Block in India, provide substantial additional potential value for shareholders.With a significant reserve write-down at the end of fiscal 2012 and associated production declines in the Company's main producing asset, fiscal 2013 was a very challenging year for Niko. This was coupled with the maturity of Cdn$310 million of convertible debt and a significant reduction in the availability under the Company's credit facility, all occurring in a very challenging illiquid capital market. Through it all, Niko's people launched the largest exploration program in the Company's history, achieving and exceeding many performance metrics and resulting in three potential discoveries in Indonesia. The ingenuity, planning and execution of Niko's drilling team in Indonesia consistently resulted in reduced drilling time and associated well costs, setting records for speed, cost and efficiency of deepwater drilling in Indonesia in recent times. Niko has also achieved a safety performance record second to none with no recordable injuries over the year, achieving a milestone of 8 million man-hours without a recordable incident in our operated properties in India! Development activities commenced in the producing fields in the D6 Block in India to bring on additional production, address the decline in reservoir pressure and increase water handling capacity. The Company addressed its maturing convertible debenture by issuing common shares and new unsecured convertible notes for combined gross proceeds of Cdn$273 million, and raised $113 million from the Company's program of asset sales, farm-outs and other arrangements ($70 million in fiscal 2013 and $43 million thus far in fiscal 2014), with substantial additional proceeds targeted for the remainder of fiscal 2014.Looking forward, the long-awaited approval by the Government of India of a new pricing formula for domestic natural gas sales will double the price for gas sales from the D6 Block from its current level of $4.20/MMbtu to around $8.40/MMbtu, effective April 1, 2014. Prices are to be revised quarterly thereafter using the approved formula, with further increases expected in the future, and the impact of the increased prices will be reflected in the borrowing base of the Company's credit facility by the end of July, 2013.The exploration program has been restarted in the D6 Block in India with the drilling of the exciting MJ-1 gas and condensate discovery, where initial evaluations of drilling results indicate significant resource potential. An initial appraisal program of up to three wells is expected to commence in the current fiscal year.I would like to thank Niko's people and our shareholders who have supported Niko through this very difficult past year. With the continued high impact deepwater exploration program, recent discoveries and increased gas prices in India on the horizon, Niko looks forward to fiscal 2014 as a major turnaround year for the company. In the past year, the Company re-established itself as capable of achieving significant growth in value. The highlights included:Story continuesEdward S. Sampson - President and Chief Executive Officer, Niko Resources Ltd.REVIEW OF OPERATIONS AND GUIDANCESales Volumes
+Three months ended Mar 31,
+Year ended Mar 31,
+(MMcfe/d)
+2013
+2012
+2013
+2012
+D6 Block, India
+71
+135
+96
+159
+Block 9, Bangladesh
+51
+42
+56
+55
+Other (1)
+4
+7
+6
+9
+Total (2)
+126
+184
+158
+223
+(1)
+Other includes Hazira and Surat in India, and Canada.
+(2)
+Figures may not add up due to rounding.
+Total sales volumes for the fourth quarter averaged 126 MMcfe/d compared to 145 MMcfe/d for the third quarter of fiscal 2013, primarily due to anticipated natural declines and reservoir management activities in the D6 Block in India.For fiscal 2014, an additional well in the MA field and workovers for the Dhirubhai 1 and 3 and MA fields in the D6 Block in India and the Bangora field in Block 9 in Bangladesh, respectively, will provide additional volumes starting in the second quarter of the year, contributing to an annual average sales volumes forecast between 112 and 116 MMcfe/d for the year. For fiscal 2015, the Company is targeting 133 MMcfe/d, benefiting from development activities in fiscal 2014 and 2015.Funds from Operations
+Three months ended Mar 31,
+Year ended Mar 31,
+(millions of U.S. dollars)
+2013
+2012
+2013
+2012
+Funds from operations
+30
+53
+132
+234
+Funds from operations for the fourth quarter were $30 million compared to $27 million for the third quarter of fiscal 2013.For fiscal 2014, funds from operations are forecast to be approximately $70 to $75 million. For fiscal 2015, funds from operations are forecast to increase by $100 million or more, reflecting higher sales volume and the Company's estimate of the projected benefit of improved pricing for natural gas sales in India.Capital Expenditures, net of Proceeds of Farm-outs and Other Arrangements
+(millions of U.S. dollars)
+Three months ended
+Mar 31, 2013
+Year ended
+Mar 31, 2013
+Capital expenditures, net of proceeds of farm-outs and other arrangements
+32
+206
+Capital expenditures, net of proceeds of farm-outs and other arrangements, totaled $32 million for the fourth quarter. Spending in the quarter related primarily to exploration activities in Indonesia, Trinidad and Tobago, India and Brazil. The Company also received $25 million from a former partner in exchange for assuming the partner's obligation for future drilling commitments.Exploration results for the year included potential discoveries of hydrocarbons at Lebah-1, Ajek-1 and Cikar-1 in Indonesia, and the Company is currently evaluating future plans for these three fields. Subsequent to year-end, the Company and its joint venture partners announced the significant MJ-1 gas condensate discovery in the D6 Block in India. These discoveries have the potential to increase the Company's resource base by 50% or more over the currently booked proved plus probable reserves.For fiscal 2014, the Company's minimum level of capital expenditures, net of negotiated farm-outs and other arrangements, and workover expenditures, is forecast to total approximately $130 million. Decisions about additional capital spending during the year will be made as the year progresses, depending on the results of the Company's program of asset sales, farm-outs and other arrangements, and the Company's financing activities.Estimated Reserves
+As at Mar 31,
+(Bcfe)
+2013
+2012
+Proved
+564
+212
+Proved plus Probable
+821
+377
+The Company increased its proved reserves by 166%, a proved reserve replacement ratio of over 700%, and increased its proved plus probable reserves by 118%, a proved plus probable reserve replacement ratio of nearly 900%.IndiaFor the D1 D3 and MA producing fields in the D6 Block, virtually no revisions were reflected for combined proved reserves on a gas equivalent basis, with small positive revisions reflected for combined proved plus probable reserves. A combined total of 165 Bcf of proved and 270 Bcf of proved plus probable reserves additions were booked for the R-Series and Satellite Area development projects in the D6 Block and the J-Series development project in the NEC-25 Block.BangladeshPositive revisions to proved reserves of 46 Bcfe were reflected for Block 9, increasing proved reserves to 101 Bcfe even after production of 20 Bcfe.Trinidad and TobagoAdditions to proved reserves for the Endeavour/Bounty development project in Block 5(c) were 197 Bcf (235 Bcf on a proved plus probable basis).Estimated After-tax Net Present Value of Future Net Revenue
+As at Mar 31,
+(millions of U.S. dollars)
+2013
+2012
+Proved
+761
+468
+Proved plus Probable
+1,299
+674
+The estimated aggregate after-tax net present value of future net revenue attributable to the Company's estimated proved plus probable reserves (discounted at 10 percent and estimated using forecast prices and costs) increased by 93% to $1.3 Billion, reflecting the significant increases in reserves, described above.Complete details of the Company's reserves and future net revenues attributable thereto are contained in its Annual Information Form for the year ended March 31, 2013 which is available on SEDAR at www.sedar.com.MANAGEMENT'S DISCUSSION AND ANALYSISThis Management's Discussion and Analysis (MD&A) of the financial condition, results of operations and cash flows of Niko Resources Ltd. ("Niko" or the "Company") for the year ended March 31, 2013 should be read in conjunction with the audited consolidated financial statements for the year ended March 31, 2013. This MD&A is effective July 08, 2013. Additional information relating to the Company, including the Company's Annual Information Form (AIF), is available on SEDAR at www.sedar.com .All financial information is presented in thousands of U.S. dollars unless otherwise indicated.The term "the quarter" is used throughout the MD&A and in all cases refers to the period from January 1, 2013 through March 31, 2013. The term "prior year's quarter" is used throughout the MD&A for comparative purposes and refers to the period from January 1, 2012 through March 31, 2012.The fiscal year for the Company is the 12-month period ended March 31. The terms "Fiscal 2012" and "prior year" is used throughout this MD&A and in all cases refers to the period from April 1, 2011 through March 31, 2012. The terms "Fiscal 2013", "current year" and "the year" are used throughout the MD&A and in all cases refer to the period from April 1, 2012 through March 31, 2013.Mcfe (thousand cubic feet equivalent) is a measure used throughout the MD&A. Mcfe is derived by converting oil and condensate to natural gas in the ratio of 1 bbl:6 Mcf. Mcfe may be misleading, particularly if used in isolation. A Mcfe conversion ratio of 1 bbl: 6 Mcf is based on an energy equivalency conversion method primarily applicable at the burner tip and does not represent a value equivalency at the wellhead. MMBtu (million British thermal units) is a measure used in the MD&A. It refers to the energy content of natural gas (as well as other fuels) and is used for pricing purposes. One MMBtu is equivalent to 1 Mcfe plus or minus up to 20 percent, depending on the composition and heating value of the natural gas in question.Cautionary Statement Regarding Forward-Looking Statements and InformationCertain statements in this MD&A are "forward-looking statements" or "forward-looking information" within the meaning of applicable securities laws, herein "forward looking statements" or "forward looking information". Forward-looking information is frequently characterized by words such as "plan," "expect," "project," "intend," "believe," "anticipate," "estimate," "scheduled," "potential" or other similar words, or statements that certain events or conditions "may," "should" or "could" occur. Forward-looking information is based on the Company's expectations regarding its future growth, results of operations, production, future capital and other expenditures (including the amount, nature and sources of funding thereof), competitive advantages, plans for and results of drilling activity, environmental matters, business prospects and opportunities. Such forward-looking information reflects the Company's current beliefs and assumptions and is based on information currently available to it. Forward-looking information involves significant known and unknown risks and uncertainties. A number of factors could cause actual results to differ materially from the results discussed in the forward-looking information including risks associated with the impact of general economic conditions, industry conditions, governmental regulation, volatility of commodity prices, currency fluctuations, imprecision of reserve estimates, environmental risks, competition from other industry participants, the lack of availability of qualified personnel or management, stock market volatility and the Company's ability to access sufficient capital from internal and external sources, the risks discussed under "Risk Factors" and elsewhere in this report and in the Company's public disclosure documents, and other factors, many of which are beyond its control. Although the forward-looking information contained in this report is based upon assumptions which the Company believes to be reasonable, it cannot assure investors that actual results will be consistent with such forward-looking information. Such forward-looking information is presented as of the date of this MD&A, and the Company assumes no obligation to update or revise such information to reflect new events or circumstances, except as required by law. Because of the risks, uncertainties and assumptions inherent in forward-looking information, you should not place undue reliance on this forward-looking information. See also "Risk Factors."Specific forward-looking information contained in this MD&A may include, among others, statements regarding:the performance characteristics of the Company's oil, NGL and natural gas properties;natural gas, crude oil, and condensate production levels, sales volumes and revenue;the size of the Company's oil, NGL and natural gas reserves;projections of market prices and costs;supply and demand for oil, NGL and natural gas;the Company's ability to raise capital and to continually add to reserves through acquisitions and development;future funds from operations;debt and liquidity levels;future royalty rates;treatment under governmental regulatory regimes and tax laws;work commitments and capital expenditure programs;the Company's future development and exploration activities and the timing of these activities;the Company's future ability to satisfy certain contractual obligations;future economic conditions, including future interest rates;the impact of governmental controls, regulations and applicable royalty rates on the Company's operations;the Company's expectations regarding the development and production potential of its properties;the Company's expectations regarding the costs for development activities;the resolution of various legal claims raised against the Company;the potential for asset impairment and recoverable amounts of such assets; andchanges to accounting estimates and accounting policies.The forward-looking statements contained in this MD&A are based on certain key expectations and assumptions made by us, including expectations and assumptions relating to prevailing commodity prices and exchange rates, applicable royalty rates and tax laws, future well production rates, the performance of existing wells, the success of drilling new wells, the availability of capital to undertake planned activities and the availability and cost of labor and services. Although the Company believes that the expectations reflected in the forward-looking statements in this MD&A are reasonable, it can give no assurance that such expectations will prove to be correct . Since forward-looking statements address future events and conditions, by their very nature they involve inherent risks and uncertainties . Actual results may differ materially from those currently anticipated due to a number of factors and risks . These include, but are not limited to, the risks associated with the oil and natural gas industry in general, such as operational risks in development, exploration and production, delays or changes in plans with respect to exploration or development projects or capital expenditures, the uncertainty of estimates and projections relating to production rates, costs and expenses, commodity price and exchange rate fluctuations, marketing and transportation, environmental risks, competition, the ability to access sufficient capital from internal and external sources and changes in tax, royalty and environmental legislation, as well as the other risk factors identified under "Risk Factors" herein . Statements relating to "reserves" are deemed to be forward-looking statements, as they involve the implied assessment, based on certain estimates and assumptions, that the reserves described exist in the quantities predicted or estimated, and can be profitably produced in the future. You are cautioned that the foregoing list of factors and risks is not exhaustive.The Company prepares production forecasts taking into account historical and current production, and actual and planned events that are expected to increase or decrease production and production levels indicated in its reserve reports.The Company prepares capital spending forecasts based on internal budgets for operated properties, budgets prepared by the Company's joint venture partners, when available, for non-operated properties, field development plans and actual and planned events that are expected to affect the timing or amount of capital spending.The Company prepares operating expense forecasts based on historical and current levels of expenses and actual and planned events that are expected to increase or decrease production and/or the associated expenses.The Company discloses the nature and timing of expected future events based on budgets, plans, intentions and expected future events for operated properties. The nature and timing of expected future events for non-operated properties are based on budgets and other communications received from joint venture partners.The Company updates forward-looking information related to operations, production and capital spending on a quarterly basis when the change is material and update reserve estimates on an annual basis. See "Risk Factors" for discussion of uncertainties and risks that may cause actual events to differ from forward-looking information provided in this report. The information contained in this report, including the information provided under the heading "Risk Factors," identifies additional factors that could affect the Company's operating results and performance. The Company urges you to carefully consider those factors and the other information contained in this report.The forward-looking statements contained in this report are made as of the date hereof and, unless so required by applicable law. The Company undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. The forward-looking statements contained in this report are expressly qualified by this cautionary statement.Non-IFRS MeasuresThe selected financial information presented throughout this MD&A is prepared in accordance with IFRS, except for "funds from operations", "operating netback", "funds from operations netback", "earnings netback", "segment profit" and "working capital". These non-IFRS financial measures, which have been derived from financial statements and applied on a consistent basis, are used by management as measures of performance of the Company. These non-IFRS measures should not be viewed as substitutes for measures of financial performance presented in accordance with IFRS or as a measure of a company's profitability or liquidity. These non-IFRS measures do not have any standardized meaning prescribed by IFRS and are therefore unlikely to be comparable to similar measures presented by other companies.The Company utilizes funds from operations to assess past performance and to help determine its ability to fund future capital projects and investments. Funds from operations is calculated as cash flows from operating activities prior to the change in operating non-cash working capital, the change in long-term accounts receivable and exploration and evaluation costs expensed to the statement of comprehensive income.The Company utilizes operating netback, funds from operations netback, earnings netback and segment profit to evaluate past performance by segment and overall.Operating netback is calculated as oil and natural gas revenues less royalties, the government share of profit petroleum and operating expenses for a given reporting period, per thousand cubic feet equivalent (Mcfe) of production for the same period, and represents the before-tax cash margin for every Mcfe sold.Funds from operations netback is calculated as the funds from operations per Mcfe and represents the cash margin for every Mcfe sold. Earnings netback is calculated as net income per Mcfe and represents net income for every Mcfe sold.Segment profit is defined as oil and natural gas revenues less royalties, the government share of profit petroleum, production and operating expenses, depletion expense, exploration and evaluation expense and current and deferred income taxes related to each business segment.The Company defines working capital as current assets less current liabilities and uses working capital as a measure of the Company's ability to fulfill obligations with current assets.These non-IFRS measures do not have any standardized meaning prescribed by IFRS and are therefore unlikely to be comparable to similar measures presented by other companies.OVERALL PERFORMANCEFunds from Operations
+Year ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Oil and natural gas revenue
+199,364
+321,311
+Production and operating expenses
+(35,523
+)
+(38,641
+)
+Other income
+311
+6,436
+General and administrative expenses
+(6,931
+)
+(8,774
+)
+Finance income
+1,999
+4,302
+Bank charges and other finance costs
+(3,285
+)
+(5,464
+)
+Realized foreign exchange loss
+(3,125
+)
+(8,271
+)
+EBITDAX
+152,810
+270,899
+Interest expense
+(21,806
+)
+(21,674
+)
+Current income tax recovery / (expense)
+289
+(5,920
+)
+Minimum alternate tax expense
+-
+(9,105
+)
+Funds from operations (1)
+131,293
+234,200
+(1) EBITDAX and Funds from operations are non-IFRS measures as defined under "Non-IFRS measures" in this MD&A.Oil and natural gas revenue decreased in the year, primarily due to lower sales of natural gas, crude oil and condensate from the D6 Block in India along with an adjustment to the government share of profit petroleum for the Hazira Field recorded in the current year.Production and operating expenses have reduced in D6 mainly because of reduction in logistics cost from last year due to reduced operations. However some of this reduction is offset by increase in operating expenses of Block 9 due to the well repair and workovers during the period.Other income in the prior year includes proceeds from farm-outs in excess of the recorded cost of the Company's interests in certain properties in Indonesia.General and administrative expenses decreased primarily due to reduced use of outside legal services.Bank charges and other finance costs decreased primarily due to lower costs related to financing efforts.There were realized foreign exchange losses in the current and prior years as a result of the weakening of the Indian-Rupee against the U.S. dollar.Interest expense increased slightly primarily due to interest on credit facility borrowing and the convertible notes in the current year, offset by lower interest on the convertible debentures.Current income tax decreased compared to the prior year due to reductions in income for Hazira (including the adjustment to the government share of profit petroleum recorded in the current year) and Surat. In the prior year, there was an adjustment related to previous year tax provisions for Hazira.The Company currently pays minimum alternate tax based on Indian-GAAP accounting income for the D6 block. For the current year, the D6 Block did not generate positive accounting income under Indian GAAP, resulting in no minimum alternative tax expense.Net Income (Loss)
+Year ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Funds from operations (non-IFRS measure)
+131,293
+234,200
+Production and operating expenses
+(1,255
+)
+(1,555
+)
+Depletion and depreciation expenses
+(145,250
+)
+(144,595
+)
+Exploration and evaluation expenses
+(172,811
+)
+(232,963
+)
+Asset impairments
+(67,831
+)
+(133,415
+)
+Reversal of asset impairment
+101,544
+-
+Impairment of long-term receivable
+-
+(22,996
+)
+Share-based compensation expense
+(10,894
+)
+(21,603
+)
+Finance expense
+(8,677
+)
+(7,612
+)
+Unrealized foreign exchange loss
+(75
+)
+(6,095
+)
+Loss on short-term investments
+(2,106
+)
+(5,823
+)
+Deferred income tax recovery
+(40,434
+)
+91,607
+(216,496
+)
+(250,850
+)
+Change in accounting estimate-deferred taxes
+-
+(57,865
+)
+Share-based compensation expense-impact of option cancellation
+-
+(13,913
+)
+Net loss
+(216,496
+)
+(322,628
+)
+The decrease in funds from operations is described above. Other items affecting net loss are described below.Depletion and depreciation expense for the current year was consistent with the prior year as the impact of increased depletion rates for the D6 Block in India resulting from the revision to the reserve volumes and future costs included in the March 31, 2012 reserve report was virtually offset by the impact of lower production.Exploration and evaluation expense for the current year includes costs associated with unsuccessful exploration wells, including wells in the Lhokseumawe Block in Indonesia and Block 2(ab) in Trinidad, and directly expensed costs of seismic and other exploration projects, payments specified in various production sharing contracts ("PSCs"), branch office costs for all exploration properties, and new venture activities.In the current year, the Company recognized asset impairments for exploration and evaluation assets in the Lhokseumawe block in Indonesia, Block 2(ab) in Trinidad and Qara Dagh Block in Kurdistan.The Company recognized reversal of asset impairment for the D6 Block in India.The impairment of long term receivables in the prior year related to gas sales revenue receivables in Bangladesh.Share-based compensation expense decreased in the current year, as a result of a decrease in the fair value per stock option granted as a result of lower stock price during the year as compared to the prior year and the reversal of share-based compensation expense due to forfeitures of stock options.The Indian rupee weakened against the US dollar during the current and prior years. As a result, unrealized foreign exchange losses were recorded in the years.The loss on short term investments is a result of mark to market valuation of these investments.The deferred tax recovery for the current year relates mainly to the reversal of temporary differences during the tax holiday period which mainly depends on the accounting depletion rate and capital spending during the period. In the current year the amount of temporary differences reversing during the tax holiday period came down significantly resulting in deferred tax expenses which were partially offset by deferred tax recovery recognized on issuance of convertible notes in December 2012 and to a reduction in exploration and evaluation assets related to the receipt of proceeds from a farm out and from former partners in exchange for assuming the partners' obligations for future drilling commitments. For the prior year, the amounts of temporary differences reversing during the tax holiday period were significantly higher resulting in deferred tax recovery.In the prior year, the change in accounting estimate is related to deferred income tax resulting from estimating the amount of taxable temporary differences reversing during the tax holiday period.Capital Expenditures, net of Proceeds of Farm-outs and Other ArrangementsThe following table sets forth the capital additions and exploration and evaluation costs expensed directly to income, net of proceeds of farm-outs and other arrangements, for the year ended March 31, 2013.
+(thousands of U.S. dollars)
+Additions to exploration and evaluation assets (1)(2
+)
+Additions related to future drilling
+Expensed exploration and evaluation costs (1
+)
+Additions to property, plant and equipment (1
+)
+Proceeds from farm outs and other arrangements
+Total
+Indonesia
+127,818
+16,025
+27,825
+169
+(70,203
+)
+101,634
+Trinidad
+38,960
+10,604
+25,080
+437
+-
+75,081
+All other
+1,261
+-
+19,586
+8,672
+-
+29,519
+Total
+168,039
+26,629
+72,491
+9,278
+(70,203
+)
+206,234
+Share-based compensation and other non-cash items are excluded.Includes additions in the year that were subsequently written off. Indonesia Additions to exploration and evaluation assets for Indonesia for the current year include costs related to three wells in the Lhokseumawe block, and one well in each of the North Ganal, Kofiau, and West Papua IV blocks, along with acquisition costs of the Lhokseumawe block. The additions to future drilling in Indonesia relate to the costs of drilling inventory and other activities incurred to prepare for the current drilling campaign. These costs will be allocated when future wells are drilled. Exploration and evaluation costs expensed directly to income include costs related to seismic and other exploration projects and branch office costs. In the current year, the Company also recorded proceeds of a farm-out of $9 million and received $61 million from former partners in exchange for assuming the partners' obligations for future drilling commitments. Trinidad and Tobago Additions to exploration and evaluation assets for Trinidad and Tobago for the current year include costs related to two wells drilled in Block 2(ab). Exploration and evaluation costs expensed directly to income include costs related to seismic and other exploration projects, payments that are specified in various PSCs, and branch office costs. All Other Exploration and evaluation costs expensed directly to income included costs related to the acquisition of multi-beam data over various blocks in Brazil. Additions of property, plant and equipment in the year relate to development projects in India.BACKGROUND ON PROPERTIESThe Company's diversified portfolio of producing, development and exploration assets is described below. Producing Assets The Company's principal producing natural gas and crude oil assets are in the D6 Block in India and in Block 9 in Bangladesh. D6 Block, India The Company entered into the PSC for the D6 Block in India in 2000 and has a 10 percent working interest, with Reliance Industries Limited ("Reliance"), the operator, holding a 60 percent interest and BP holding the remaining 30 percent interest. The D6 Block is 7,645 square kilometers lying approximately 20 kilometers offshore of the east coast of India.Successful exploration programs in the D6 Block led to the discoveries of the Dhirubhai 1 and 3 natural gas fields in 2002 and the MA crude oil and natural gas field in 2006.Production from the crude oil discovery in the MA field commenced in September 2008 and commercial production commenced in May 2009. Six wells are tied into a floating production storage offloading vessel ("FPSO"), which stores the crude oil until it is sold on the spot market at a price based on the Bonny Light reference price and adjusted for quality, and four of these wells are currently on production. In fiscal 2014, the joint venture plans to drill an additional gas development well and convert of one of the two suspended oil wells into a gas producing well to accelerate the production of the reservoir's gas reserves.Field development of the Dhirubhai 1 and 3 fields included the drilling and tie-in of 18 wells, construction of an offshore platform and onshore gas plant facilities. Production from the Dhirubhai 1 and 3 natural gas discoveries commenced in April 2009 and commercial production commenced in May 2009. The natural gas produced from offshore is being received at an onshore facility at Gadimoga and is sold at the inlet to the East-West Pipeline owned by Reliance Gas Transportation Infrastructure Limited.Production from the Dhirubhai 1 and 3 fields peaked in March 2010 and has decreased since then, primarily due to natural declines of the fields and greater than anticipated water production. Four additional wells have been drilled in the post-production phase of drilling. Based on the information obtained from three wells drilled within the main channel fairway, the Company has determined that it is not economic to tie-in any of these three wells at the present time. The fourth well was drilled outside of the main channel fairway and did not encounter economic quantities of natural gas. Nine of the original 18 wells are currently shut-in and several others are choked, primarily due to current constraints in water handling capacity. Workovers are planned to bring some of the shut-in wells back online during fiscal 2014. Increased water handling capacity and additional booster compression is expected to be installed over the next two years to address the decline in reservoir pressure.The PSC for the D6 Block states that natural gas must be sold at arm's length prices, with "arm's length" defined as sales made freely in the open market between willing and unrelated sellers and buyers, and that the pricing formula be approved by the GOI taking into account the prevailing policy on natural gas. In May 2007, Reliance, on behalf of the joint venture partners, discovered an arm's length price for the sale of gas on a transparent basis with a term of three years and accordingly, proposed a gas price formula to the GOI. In September 2007, the GOI approved a pricing formula with some modification to the proposed formula. As a result of these modifications, the gas price is capped at $4.20/MMBtu and the formula was declared effective for a period of five years rather than the three years proposed by Reliance. The Company has signed numerous gas sales contracts with customers in the fertilizer, power, steel, city gas distribution, liquefied petroleum gas market and pipeline transportation industries, and all of these contracts expire on March 31, 2014. In June 2013, the Cabinet Committee of Economic Affairs of the GOI approved a new pricing formula for domestic gas sales in India, based on the recommendations of the Rangarajan Committee. The pricing formula is based on the average of the prices of imported LNG into India and the weighted average of gas prices in North America, Europe and Japan, as follows:P AV = {P IAV + P WAV } / 2
+P AV = Sales price for domestic natural gas sales in India P IAV = Netback price of Indian LNG term imports (excluding spot imports) P WAV = Weighted average of prevailing gas prices in global markets, based on:
+Henry Hub gas price in U.S. and total volumes consumed in North America National Balancing Point gas price in U.K. and total volume consumed in Europe and Eurasia Netback price of Japanese LNG imports and total volume imported by Japan
+The pricing formula will be effective on April 1, 2014 for a period of five years, with the price to be revised quarterly using the approved formula. The price for each quarter will be calculated based on the 12 month trailing average price with a lag of one quarter (i.e., the price for April to June 2014 will be calculated based on the averages for the 12 months ended December 31, 2013). At the present time, the Indian LNG term imports relate primarily to the Petronet contract with RasGas of Qatar. Per the Rangarajan Committee Report, the pricing terms of this contract are as follows:FOB = P o x JCC t / $15
+P o = $1.90 / MMBTU (therefore, FOB = 12.67% x JCC t ) JCC t = 12 trailing month average JCC price, subject to a floor and ceiling:
+Floor = {(60 - N) x $20 + (N x A60)} / 60 - $4 Ceiling = {(60 - N) x $20 + (N x A60)} / 60 + $4
+N = 1 for January 2009, increasing by 1 every month until December 2013 after which it remains at 60 A60 = 60 trailing month average price of JCC
+In the future, the Indian LNG term imports are expected to include imports related to the Petronet contract with ExxonMobil for import of LNG from the Gorgon venture in Australia. Per the Rangarajan Committee Report, the terms of this contract are as follows:FOB = 14.5% x JCCEstimated liquefaction and transportation costs of $3.00/MMbtu for older LNG facilities (pre-2010) or $4.00/MMbtu for newer LNG facilities are to be deducted to arrive at the netback price for Indian LNG term imports.Using the approved price formula, the price effective for April 1, 2014 is estimated at around $8.40/MMbtu, double the price of $4.20/MMbtu for current gas sales from the D6 Block. The pricing terms of the Petronet contracts are expected to result in further increases in the gas prices in future quarters, assuming current pricing levels of JCC, U.S. Henry Hub, U.K. National Balancing Point and Japan LNG imports.The production and operating expenses for the D6 Block relate primarily to the offshore wells and facilities, the onshore gas plant facilities and the operating fee portion of the lease of the FPSO. The majority of these expenses are fixed in nature with repairs and maintenance expenditures incurred as required.The Company calculates and remits the government share of profit petroleum to the GOI in accordance with the PSC for the D6 Block. The profit petroleum calculation considers capital, operating and other expenditures made by the joint venture. Because there are unrecovered costs to date, the GOI's share of profit petroleum has amounted to the minimum level of one percent of gross revenue. The government share of profit petroleum will increase above the minimum level once past unrecovered costs have been fully recovered. The Company has included certain costs in the profit petroleum calculations that are being contested by the GOI and has received notice from the GOI making allegations in relation to the fulfillment of certain obligations under the PSC for the D6 Block. Refer to note 30 to the consolidated financial statements for nine months ended March 31, 2013 for a complete discussion of this contingency.The Company currently pays royalty expense of five percent of gross revenue, increasing to ten percent of gross revenue in May 2016. Royalty payments are deductible in calculating profit petroleum.The Company pays the greater of minimum alternate tax and regular income taxes for the D6 Block. In the calculation of regular income taxes, the Company believes it is entitled to a seven-year income tax holiday commencing from the first year of commercial production and has claimed the tax holiday in the filing of tax return for fiscal 2012. Minimum alternate tax is the amount of tax payable in respect of accounting profits. Minimum alternate tax paid can be carried forward for 10 years and deducted against regular income taxes in future years. Block 9, Bangladesh In September 2003, the Company acquired a 60 percent working interest in the PSC for Block 9. Tullow, the operator, holds a 30 percent interest and the remaining 10 percent interest is held by BAPEX. Block 9 covers approximately 1,770 square kilometers of land in the central area of Bangladesh surrounding the capital city of Dhaka. Natural gas and condensate production for the Bangora field in Block 9 commenced in May 2006 and gas is transported from four currently producing wells to a gas plant in the block.The Company's share of production from the Bangora field reached a sustained rate of production of 60 MMcf/d in 2009. The Company expects to add compression at the gas processing plant in the fourth quarter of Fiscal 2014 which will allow sustained production levels through 2015. The Company has signed a GPSA including a price of $2.34/MMBtu (or $2.32/Mcf), which expires at the earliest of the end of commercial production, at expiry of the PSC (March 31, 2026) and 25 years after approval of the field development plan (May 15, 2032). Petrobangla is the sole purchaser of the natural gas production from this field. The sales delivery point is at the outlet of the gas plant and thereafter is the responsibility of Petrobangla and is transported via Trunk Pipeline.The production and operating expenses for Block 9 relate primarily to the onshore wells and facilities, including a gas plant and pipeline. The majority of these expenses are fixed in nature with repair and maintenance expenditures incurred as required.The Company calculates and remits the government share of profit petroleum to the government of Bangladesh ("GOB") in accordance with the PSC for Block 9. The profit petroleum calculation considers capital, operating and other expenditures made by the joint venture. To date, the GOB's share of profit petroleum amounted to the minimum level of 34 percent of gross revenue based on the profit petroleum provisions of the PSC. The profit petroleum percentage of gross revenue will increase above the minimum level of 34 percent of gross revenue once past unrecovered allowable costs have been fully recovered.Under the terms of the Block 9 PSC the Company does not make payment to the GOB with respect to income tax. Planned Developments The Company has undeveloped discoveries in D6 and NEC 25 blocks in India and in Block 5(c) in Trinidad and Tobago. Based on development plan submissions, increased clarity on future gas prices and positive project economics for the developments, the Company booked significant proved and probable reserves for these projects, effective March 31, 2013. The developments will provide the opportunity for significant production growth for the Company in the next four to six years.The following is a brief description of these development plans. Additional Areas, D6 Block, India The Company's exploration program has identified three additional areas in the D6 Block for potential future development. In January 2013, the G2 well on the D19 discovery, one of four satellite discoveries approved for development by the GOI, was successfully drilled and the development plan for the R-Series area was submitted to the GOI for approval. The development of these areas is expected to be completed within four years after the approval of the development plans. The plans include the re-entry and completion of certain existing wells and the drilling of new wells, all connected with new flow-lines and other facilities into existing D6 Block infrastructure. NEC-25 Block, India The Company has a 10 percent working interest in the NEC-25 Block, with Reliance, the operator, holding a 60 percent interest and BP holding the remaining 30 percent interest. The remaining contract area comprises 9,461 square kilometres offshore adjacent to the east coast of India. Exploration and appraisal drilling has been conducted on the block and the development plan for certain discovered natural gas fields was submitted in March 2013. The development plans include the re-entry and completion of certain existing wells and the drilling of new wells, all connected via new flow-lines and other facilities into a new offshore central processing platform. The produced natural gas is expected to be transported onshore via a new pipeline. Block 5(c), Trinidad and Tobago The Company has a 25 percent working interest in Block 5(c) with the BG Group plc ("BG Group"), the operator, holding the remaining 75 percent working interest in this offshore development area that covers 241 square kilometres. In October 2011, the BG Group submitted a development plan to the government of Trinidad and Tobago ("GTT") for approval. Development of natural gas production from two discovered fields in the block is expected to require the drilling of new wells, construction of new flow-lines and other facilities, and expansion of an existing platform in the adjacent Block 6(b) operated by the BG Group. Exploration Discoveries
+Discovery: MJ-1, D6 Block, India In March 2013, after a multi-year hiatus, exploration drilling recommenced in the D6 Block in India with the drilling of the MJ-1 exploration well. In May 2013, the joint venture partners announced a significant gas and condensate discovery. The MJ-1 well was drilled in a water depth of 1,024 metres - and to a total depth of 4,509 metres - to explore the prospectivity of a Mesozoic Synrift Clastic reservoir lying over 2,000 metres below the already producing reservoirs in the Dhirubhai 1 and 3 gas fields. Formation evaluation indicates a gross gas and condensate column in the well of about 155 metres in the Mesozoic reservoirs. In the drill stem test, the well flowed 30.6 MMcf/d of natural gas and 2,121 b/d of liquids though a choke of 36/64", with a flowing bottom hole pressure of 8461 psia suggesting good flow potential. Well flow rates during such tests are limited by the rig and well test equipment configuration. The discovery, named 'D-55', has been notified to the GOI and the Management Committee of the block.Subsequent to the completion of drilling operations, a preliminary technical evaluation has been conducted that has incorporated all seismic and new well data. Principal findings demonstrate that most parameters for the MJ reservoir exceed the high end pre-drill estimates. In particular, MJ-1 has considerable thicker reservoir pay than the best case pre-drill assessment. The fully cored MJ-1 pay interval was found to be 95% sand bearing with net pay averaging 125 metres. In addition, the MJ-1 gas water contact, as confirmed by wireline log and MDT data, is at the equivalent depth of a mapped seismic flat spot and a northern structural spill point. This validates that MJ is filled fully to structural spill and accordingly aligns the MJ field nearer the maximum case pre-drill field size estimates of 65 square kilometres. In comparison, the producing MA field covers a reservoir area of 11 square kilometres.The MJ field discovery is well positioned to take advantage of the existing D6 Block infrastructure. Conceptual planning has been initiated to maximize MJ gas and condensate recovery which has a measured compositional ratio of approximately 62 bbls/MMcf.An initial appraisal program of up to three wells should commence within 6 to 8 months pending government approvals and equipment availability. Potential Discoveries: Lebah-1, Ajek-1 and Cikar-1 wells, various blocks, Indonesia The Lebah-1 well, drilled by the operator, ENI, in the North Ganal block, located offshore Kalimantan in the Makassar Strait of Indonesia, penetrated 12 feet of net pay at the top of a 41 foot gross sand Upper Miocene sand interval, a secondary target zone of the well. The joint venture partners have evaluated the potential of this zone and are finalizing plans to drill the Lebah-2 appraisal well in an area of the structure where the zone is believed to be thicker.The Ajek-1 well, drilled in the Kofiau block, located offshore Papua province in eastern Indonesia, encountered 23 feet of pay over two target Pliocene clastic intervals, with additional thin bedded pay potential. Drilling confirmed the presence of reservoir and hydrocarbon charge, the primary pre-drill concerns in this previously undrilled sub-basin. All sands encountered were hydrocarbon filled with no water leg and C5+ gas composition indicated liquid hydrocarbons. The well has been assessed as a sub-commercial oil and gas discovery. The Company is evaluating the potential of drilling of an appraisal well or one of the other prospects on the block that it believes could contain thicker Pliocene clastic sands.The Cikar-1 well, drilled in the West Papua IV block, located offshore Papua province in eastern Indonesia, encountered a 700 foot thick section of the targeted New Guinea Limestone primary objective and was still in the porous zone when well conditions forced suspension of drilling operations. The well encountered gas in the drilling of the deeper section and the temporary suspension of the well will allow Niko to return to the well for future deepening and testing. The Company is also evaluating the potential of drilling of an appraisal well or one of the other prospects on the block that it believes could also contain thick sections of New Guinea Limestone. Exploration Opportunities The Company's business strategy is to commit resources to finding, developing and producing exploration opportunities that have the potential for a "high impact"' on the Company. Exploration acreage is generally obtained by committing to acquire and process a specified amount of seismic and in most cases, drill one or more exploration wells. The Company generally uses advanced technology including high resolution multi-beam data collection and analysis, sub-sea coring and focused 3D seismic to reduce costs associated with selecting prospects to drill and increase the probability of success. The Company generally uses the information acquired to farm-out its blocks to world-class industry partners under terms where the partners fund their share of sunk costs and carry a disproportionate share of drilling costs.The Company holds interests in contract areas covering 173,922 gross square kilometers of undeveloped land, primarily in Indonesia and Trinidad and Tobago. Indonesia As at March 31, 2013, the Company held interests in 22 offshore exploration blocks in Indonesia, covering 117,925 square kilometers. The Company has successfully farmed out interests in several of its blocks and is working with various parties on additional farm-outs to reduce its share of future drilling costs. The table below indicates the operator, the location of, the award date, working interest and the size of the block, as at March 31, 2013.
+Block Name
+Operator
+Offshore Area
+Award Date
+Working Interest
+Area (Square Kilometres
+)
+Lhokseumawe
+Zaratex
+Aceh
+Oct. 2005
+30
+%
+4,431
+Bone Bay
+Niko
+Sulawesi S
+Nov. 2008
+100
+%
+4,969
+South East Ganal I
+Niko
+Makassar Strait
+Nov. 2008
+100
+%
+3,648
+Seram
+Niko
+Seram NE
+Nov. 2008
+55
+%
+4,991
+South Matindok
+Niko
+Sulawesi NE
+Nov. 2008
+100
+%
+5,182
+West Sageri
+Niko
+Makassar Strait
+Nov. 2008
+100
+%
+4,977
+Cendrawasih
+Niko
+Papua NW
+May 2009
+100
+%
+4,991
+Kofiau
+Niko
+Papua W
+May 2009
+57.5
+%
+5,000
+Kumawa
+Niko
+Papua SW
+May 2009
+100
+%
+5,004
+East Bula
+Niko
+Seram NE
+Nov. 2009
+55
+%
+6,029
+Halmahera-Kofiau
+Niko
+Papua W
+Nov. 2009
+51
+%
+4,926
+North Makassar
+Niko
+Makassar Strait
+Nov. 2009
+30
+%
+1,787
+West Papua IV
+Niko
+Papua SW
+Nov. 2009
+49.9
+%
+6,389
+Cendrawasih Bay II
+Repsol
+Papua NW
+May 2010
+50
+%
+5,073
+Cendrawasih Bay III
+Niko
+Papua NW
+May 2010
+50
+%
+4,689
+Cendrawasih Bay IV
+Niko
+Papua NW
+May 2010
+50
+%
+3,904
+Sunda Strait I
+Niko
+Sunda Strait
+May 2010
+100
+%
+6,960
+Obi
+Niko
+Papua W
+Nov. 2011
+51
+%
+8,057
+North Ganal
+Eni
+Makassar Strait
+Nov. 2011
+31
+%
+2,432
+Halmahera II
+Statoil
+Papua W
+Dec. 2011
+20
+%
+8,215
+South East Seram
+Niko
+Papua SW
+Dec. 2011
+100
+%
+8,217
+Aru
+Niko
+Papua SW
+July 2012
+60
+%
+8,054
+The Company has signed various agreements that, subject to government approval, will change the working interests in several of its blocks in Indonesia.In April 2013, the government approved the Company's relinquishment of its interest in the Lhokseumawe block.All of the Indonesian blocks are in their initial three year exploration period, with the exception of the Lhokseumawe block. The seismic work commitments on the majority of the blocks have been fulfilled and as at March 31, 2013, the Company had remaining minimum work commitments to drill a total of ten wells. As at March 31, 2013, the Company's share of the remaining minimum work commitments as specified in the PSCs for the exploration period was $112 million to be spent at various dates through June 2015 . The minimum work commitments are based on the Company's share of the estimated cost included in the PSCs and represent the amounts the host government may claim if the Company does not perform the work commitments. The actual cost of fulfilling work commitments may materially exceed the amount estimated in the PSCs. The Company has applied for or has plans to apply for extensions where drilling activity is planned. The Company is required to relinquish a portion of the exploration acreage after the first exploration period; however, the Company has received extensions in order to fulfill the well commitments on certain blocks. Trinidad As at March 31, 2013, the Company held interests in ten contract areas in Trinidad and Tobago, covering 9,862 square kilometers. The table below indicates the operator, the location of, the award date, the working interest and the size of the block.
+Exploration Area
+Operator
+Location
+Award Date
+Working interest
+Area (Square Kilometres
+)
+Block 2(ab) (1)
+Niko
+Offshore
+July 2009
+35.75
+%
+1,606
+Guayaguayare-Shallow Horizon
+Niko
+Onshore/Offshore
+July 2009
+65
+%
+1,134
+Guayaguayare-Deep Horizon
+Niko
+Onshore/Offshore
+July 2009
+80
+%
+1,190
+Central Range-Shallow Horizon
+Parex
+Onshore
+Sept. 2008
+32.5
+%
+734
+Central Range-Deep Horizon
+Parex
+Onshore
+Sept. 2008
+40
+%
+856
+Block 4(b)
+Niko
+Offshore
+April 2011
+100
+%
+753
+NCMA2
+Niko
+Offshore
+April 2011
+56
+%
+1,019
+NCMA3
+Niko
+Offshore
+April 2011
+80
+%
+2,106
+Block 5(c) (2)
+BG Group
+Offshore
+July 2005
+25
+%
+241
+MG Block
+Niko
+Offshore
+July 2007
+70
+%
+223
+The Company has applied to relinquish Block 2(ab).Block 5(c) contains discoveries that are included in a field development plan submitted to the GTT for approval.The seismic work commitments on the majority of the blocks and the drilling work commitments on Block 2(ab) have been fulfilled, and as at March 31, 2013, the Company had remaining minimum work commitments to drill a total of ten wells. As at March 31, 2013, the minimum remaining work commitments under the PSCs were $167 million, to be spent at various dates through April 2016 and represent the amounts the host government may claim if the Company does not perform the work commitments. The actual cost of fulfilling work commitments may materially exceed the amount estimated in the PSCs . The Company is working with various parties on farm-outs to reduce its share of future drilling costs. Other Properties
+India
+Hazira Field Niko is the operator of and holds a 33.33 percent interest in the Hazira Field, located about 25 kilometers southwest of the city of Surat and covering an area of 50 square kilometers on and offshore. Niko and GSPC have constructed a 36-inch gas sales pipeline to the local industrial area. The Company has constructed an offshore platform, an LBDP, a gas plant and an oil facility at the Hazira Field. The Company has one significant contract for the sale of natural gas at a price of $4.86/Mcf, expiring April 30, 2016, and the commitment for future physical deliveries under this contract exceeds the expected future production from the Hazira Field. Refer to note 30 to the consolidated financial statements for year ended March 31, 2013 for a complete discussion of this contingency. Surat Block The Company holds and is the operator of the 24 square kilometer Surat Block located onshore adjacent to the Hazira Field. The natural gas production from the Surat Block commenced in April 2004 and ceased in November 2012 as the cap on cumulative production in the approved field development plan was reached. The Company plans to relinquish the block.MadagascarIn October 2008, the Company farmed into a PSC for a property located off the west coast of Madagascar covering approximately 16,845 square kilometers. The Company will earn a 75 percent participating interest in the Madagascar block and is the operator of this block. The Company has completed a multi-beam sea bed coring and 3,200 square kilometers of 3D seismic on the block. The Company has work commitments for an exploration well to be drilled prior to September 2015 and its share of the costs of the remaining commitments pursuant to the PSC is $10 million. The actual cost of fulfilling work commitments may exceed the amount estimated in the PSC. The Company is working with various parties on farm-outs to reduce its share of future drilling costs.PakistanThe Company holds and operates the four blocks comprising the Pakistan Blocks, located in the Arabian Sea near the city of Karachi and covering an area of 9,921 square kilometers. The Company has applied for relinquishment of all of the Pakistan Blocks.KurdistanThe Company held a 49% working interest in the Qara Dagh Block in Kurdistan and in November 2012, the Company and its consortium partners entered into an agreement with the Kurdistan Regional Government to surrender their collective interests in the block. Pursuant to the agreement, none of the consortium partners will have any future obligations or liabilities with regard to the original production sharing agreement, and the Company recovered a net amount of approximately $15 million in June 2013.SEGMENT PROFIT INDIA
+Year ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Natural gas revenue
+144,070
+236,363
+Oil and condensate revenue (1)
+38,372
+68,149
+Royalties
+(9,255
+)
+(15,456
+)
+Government share of profit petroleum
+(9,552
+)
+(6,414
+)
+Production and operating expenses
+(26,042
+)
+(31,795
+)
+Depletion and depreciation expenses
+(131,480
+)
+(130,514
+)
+Asset impairment
+101,544
+(133,578 )
+Exploration and evaluation expenses
+(1,300
+)
+(12,233
+)
+Current income tax recovery / (expense)
+298
+(6,926
+)
+Minimum alternate tax expense
+-
+(9,107
+)
+Deferred income tax recovery / (expense)
+(82,579
+)
+59,376
+Change in accounting estimate - deferred taxes
+-
+(57,865
+)
+Segment profit / (loss) (2)
+24,076
+(40,000
+)
+Daily natural gas sales (Mcf/d)
+96,089
+157,719
+Daily oil and condensate sales (bbls/d) (1)
+1,024
+1,706
+Operating costs ($/Mcfe)
+0.70
+0.52
+Depletion rate ($/Mcfe)
+3.47
+2.09
+(1)
+Production that is in inventory has not been included in the revenue or cost amounts indicated.
+(2)
+Segment profit / (loss) is a non-IFRS measure as calculated above.
+Segment profit from India includes the results from the Dhirubhai 1 and 3 natural gas fields and the MA crude oil and natural gas field in the D6 Block, the Hazira crude oil and natural gas field and the Surat gas field.The Company's oil and gas revenues for the year-to-date decreased from the prior year's periods, primarily due to natural production declines and reservoir management activities in the D6 Block. Production from the Surat block ceased in November 2012 as the cap on cumulative production in the approved field development plan was reached.The decrease in royalties is a result of the decreased revenues described above. Royalties applicable to production from the D6 Block are five percent for the first seven years of commercial production and gas royalties applicable to the Hazira Field and Surat Block are currently 10 percent of the sales price.Pursuant to the terms of the Indian PSCs, the Government of India is entitled to a sliding scale share in the profits once the Company has recovered its investment. Profits are defined as revenue less royalties, operating expenses and capital expenditures. An additional $6 million of the government share of profit petroleum for the Hazira Field was recognized and reduced crude oil and natural gas revenue in the period. The adjustment, related to crude oil and natural gas revenues earned in prior years, was the result of a court ruling finding that the 36-inch natural gas pipeline that Niko and GSPC constructed to connect the Hazira Field to the local industrial area was not eligible for cost recovery.For the D6 Block, the Company is able to use up to 90 percent of revenue to recover costs. The Government of India was entitled to 10 percent of the profits not used to recover costs during the year. The government share of profit petroleum will continue at this level until the Company has recovered its costs. The Government of India was entitled to 25 percent and 20 percent of the profits from the Hazira Field and the Surat Block, respectively.Operating costs at the D6 Block decreased mainly because of significant reduction in logistics costs due to reduced movement of material and inventory as compared to the prior year.Depletion and depreciation expense for the current year was consistent with the prior year as the impact of increased depletion rates for the D6 Block in India resulting from the revision to the reserve volumes and future costs included in the March 31, 2012 reserve report was virtually offset by the impact of lower production.In the current year, as a result of increased reserves volumes assigned to the D6 Block in the March 31, 2013 reserve report, the Company recognized a $102 million reversal of the asset impairment recorded in the prior year related to the D6 Block in India. In the prior year, as a result of reduced reserves volumes assigned to the D6 Block in the March 31, 2012 reserve report, the Company had recognized a $133 million impairment related to the Company's producing assets in the D6 Block.There was a current income tax recovery in the current year, primarily as a result of the adjustment to the government share of profit petroleum described above, which is deductible for tax purposes.The Company currently pays minimum alternate tax based on Indian-GAAP accounting income for the D6 block. For the current year, the D6 Block did not generate positive accounting income under Indian GAAP, resulting in a no minimum alternative tax expense in the current year.The deferred tax expense for the current year relates mainly to the reversal of temporary differences during the tax holiday period which mainly depends on the accounting depletion rate and capital spending during the period. In the current year the amount of temporary differences reversing during the tax holiday period came down significantly resulting in deferred tax expenses. For the prior year, the amounts of temporary differences reversing during the tax holiday period were significantly higher resulting in deferred tax recovery.In the prior year, the change in accounting estimate is related to deferred income taxes as a result of estimating the amount of taxable temporary differences reversing during the tax holiday period.ContingenciesThe Company has contingencies related to natural gas sales contracts for the Hazira Field, the profit petroleum calculations for the Hazira Field and the D6 Block, and income taxes for the Hazira Field and the Surat Block. Refer to note 30 to the consolidated financial statements for year ended March 31, 2013 for a complete discussion of these contingencies. BANGLADESH
+Year ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Natural gas revenue
+46,444
+49,714
+Condensate revenue
+6,891
+8,141
+Government share of profit petroleum
+(18,049
+)
+(19,589
+)
+Production and operating expenses
+(10,278
+)
+(7,377
+)
+Depletion and depreciation expenses
+(12,441
+)
+(13,055
+)
+Exploration and evaluation expenses
+(361
+)
+(933
+)
+Impairment of long-term receivable
+-
+(22,996
+)
+Segment profit / (loss) (1)
+12,206
+(6,095
+)
+Daily natural gas sales (Mcf/d)
+54,936
+58,962
+Daily condensate sales (bbls/d)
+175
+191
+Operating costs ($/Mcfe)
+0.47
+0.29
+Depletion rate ($/Mcfe)
+0.61
+0.59
+Segment profit is a non-IFRS measure as calculated above.The Company's oil and gas revenues for the year decreased from the prior year, primarily due to the curtailment of production from one of the four wells in the Bangora field due to operational issues. Repairs to this well should be completed by the end of the second quarter and production restored to previous levels in the third quarter.Pursuant to the terms of the PSC for Block 9, the Government of Bangladesh was entitled to 61 percent of profit gas in the current and prior years, which equates to 34 percent of revenues while the Company is recovering historical capital costs. Overall, the government share of profit petroleum decreased due to decreased revenues from Block 9.Production and operating expense increased due to the well repair and commencement of facilities expansion work during the period.The impairment of long term receivables in the prior year related to a receivable for natural gas sales to the Bangladesh Oil, Gas and Mineral Corporation (Petrobangla) from the Feni field in Bangladesh. The Company has filed for arbitration to settle this receivable. Due to the uncertainty with respect to the timing of resolution of this claim and various claims against the Company (as described below), a provision has recorded against the full amount of the receivable.ContingenciesThe Company has contingencies related to various claims filed against it with respect to the Feni property in Bangladesh as at March 31, 2013. Refer to note 30 to the consolidated financial statements for the year ended March 31, 2013 for a complete discussion of these contingencies. Indonesia, Trinidad and Tobago, Kurdistan and Brazil
+(thousands of U.S. dollars) Exploration and evaluation expenses
+Asset impairment
+Income tax recovery
+Depreciation and other
+Segment Profit
+Year ended March 31,
+2013
+2012
+2013
+2012
+2013
+2012
+2013
+2012
+2013
+2012
+Indonesia
+(92,206
+)
+(61,717
+)
+(16,281
+)
+-
+34,671
+9,319
+116
+6,256
+(73,700
+)
+(46,142
+)
+Trinidad
+(58,445
+)
+(111,996
+)
+(12,631
+)
+-
+-
+22,913
+(128
+)
+(85
+)
+(71,204
+)
+(89,168
+)
+Kurdistan
+(1,851 )
+(40,455
+)
+(38,919 )
+-
+-
+-
+-
+(25
+)
+(40,770 )
+(40,480 )
+Brazil
+(13,956
+)
+-
+-
+-
+-
+-
+-
+-
+(13,956
+)
+-
+IndonesiaDuring the current year, the Company expensed exploration and evaluation costs of $60 million related to unsuccessful wells drilled in Indonesia in the year, including three wells in the Lhokseumawe block, and recognized an asset impairment of $16 million related to the Lhokseumawe block as the Company had given notice to surrender its interest to the operator of the block. In addition, exploration and evaluation costs expensed directly to income in the current year included $17 million for seismic and other exploration projects, $8 million for branch office costs, $4 million for share-based compensation costs, and $3 million for new ventures costs. For the prior year, the exploration and evaluation expenses related primarily to costs expensed directly to income in the year.Trinidad and TobagoDuring the current year, the Company expensed exploration and evaluation costs of $34 million related to unsuccessful wells drilled in Block 2(ab) and recognized an asset impairment of $13 million for Block 2(ab). In addition, exploration and evaluation costs expensed directly to income in the current year included $10 million for seismic and other exploration projects, $9 million for payments specified in various PSCs, and $5 million for branch office costs. For the prior year, the exploration and evaluation expenses included costs of $24 million related to unsuccessful wells and costs of $88 million expensed directly to income in the year.KurdistanIn the current year, the Company recognized an asset impairment of $39 million when it wrote down the carrying value of the Qara Dagh Block exploration and evaluation asset to the expected net proceeds to be received after relinquishment of the block.BrazilIn the current year, the Company incurred $14 million of costs related to the acquisition of multi beam data over various blocks in Brazil. In May 2013, the Company and its joint venture partner were awarded two blocks offshore the north eastern coast of Brazil. The Company plans to market the multi-beam data to other successful bidders of blocks in the Brazil bid round.Corporate
+Year ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Share-based compensation expense
+10,894
+35,516
+Finance income
+(1,999
+)
+(4,302
+)
+Finance expense
+33,768
+34,970
+Foreign exchange loss
+3,200
+14,366
+Loss on short-term investments
+2,106
+5,823
+Deferred tax recovery
+7,476
+-
+Share-based compensation expense The fair value per stock option granted decreased in the year due to decreased stock price in the period. Share-based compensation expense also decreased during the year due to the reversal of share-based compensation expense resulting from the forfeiture of stock options. Finance expense
+Year ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Interest expense
+21,806
+21,674
+Accretion expense
+8,677
+7,612
+Other
+3,285
+5,464
+Finance expense
+33,768
+34,750
+Interest expense includes interest on the Company's finance lease obligation, interest on borrowings on the Company's credit facility since March 2012, interest on the 5% Cdn$310 million of convertible debentures repaid in December 2012, and interest on the 7% Cdn$115 million of convertible notes issued in December 2012. Accretion expense relates to the recorded liabilities for the convertible notes, the convertible debentures and decommissioning obligations. The recorded liabilities increase as time progresses to the final settlement date, resulting in increased accretion expenses each year. Other finance expenses include costs related to pursuing financing options. Foreign Exchange
+Year ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Realized foreign exchange loss
+3,123
+8,271
+Unrealized foreign exchange loss
+77
+6,095
+Total foreign exchange loss
+3,200
+14,366
+Due to the weakening of the Indian rupee versus the U.S. dollar in the current and prior years, the Company has realized foreign exchange losses primarily related to the differences in the Indian rupee to U.S. dollar exchange rate at the time of recording versus the time of settlement of individual accounts receivable and accounts payable. Unrealized foreign exchange losses have arisen on the translation of the Indian-rupee denominated income tax receivable and site restoration deposits.Foreign exchange gains in the year on U.S. dollar cash held by a company whose functional currency is the Canadian dollar have increased accumulated other comprehensive income but do not flow through the income statement. Short-Term Investments The loss on short-term investments for the year was a result of marking the short-term investments to market value. Deferred Tax Recovery As a result of the issuance of convertible notes in December 2012, the Company recognized a deferred tax recovery as an unrecognized deferred tax asset was recognized to offset the deferred tax liability associated with the convertible notes.NETBACKSThe following tables outline the Company's operating, funds from operations and earnings netbacks (all of which are non-IFRS measures):
+Year ended March 31, 2013
+Year ended March 31, 2012
+($/Mcfe)
+India
+Bangladesh
+Total
+India
+Bangladesh
+Total
+Oil and natural gas revenue
+4.89
+2.61
+4.09
+4.97
+2.64
+4.36
+Royalties
+(0.25
+)
+-
+(0.16
+)
+(0.25
+)
+-
+(0.19
+)
+Government share of profit petroleum
+(0.26
+)
+(0.88
+)
+(0.48
+)
+(0.10
+)
+(0.89
+)
+(0.31
+)
+Production and operating expenses
+(0.70
+)
+(0.47
+)
+(0.6
+)
+(0.52
+)
+(0.29
+)
+(0.46
+)
+Operating netback
+3.68
+1.26
+2.84
+4.10
+1.46
+3.40
+G&A
+(0.12
+)
+(0.11
+)
+Farm out recovery income
+0.01
+0.08
+Net finance expense
+(0.45
+)
+(0.35
+)
+Current income tax expense
+0.01
+(0.07
+)
+Minimum alternate tax
+-
+(0.11
+)
+Funds from operations netback
+2.27
+2.84
+Production and operating expenses
+(0.02
+)
+(0.02
+)
+Depletion and depreciation expense
+(2.51
+)
+(1.74
+)
+Exploration and evaluation expenses
+(2.99
+)
+(2.80
+)
+Asset Impairment
+(1.17
+)
+(1.60
+)
+Reversal of asset impairment
+1.76
+-
+Impairment of long-term receivable
+-
+(0.30
+)
+Share based compensation expense
+(0.19
+)
+(0.26
+)
+Net finance expense
+(0.15
+)
+(0.09
+)
+Unrealized foreign exchange loss
+(0.04
+)
+(0.07
+)
+(Loss) / gain on short-term investment
+Deferred income tax (expense) / reduction
+(0.70
+)
+1.10
+Change in accounting estimate - deferred taxes
+-
+(0.69
+)
+Share-based compensation expense - impact of option cancellation
+-
+(0.17
+)
+Earnings netback
+(3.74
+)
+(3.87
+)
+Netbacks for India, Bangladesh and in total are calculated by dividing the revenue and costs for each country and in total by the total sales volume for each country and in total measured in Mcfe.LIQUIDITY AND CAPITAL RESOURCESThe Company's funding strategy is to use funds from operations from its producing properties, proceeds from non-core asset dispositions, farm-outs and other arrangements, and equity financing to fund its exploration programs and use funds from operations from its producing properties, and debt and equity financing to fund its development programs. Due to the timing and availability of the funding from various sources, the Company may, on occasion, utilize debt financing to fund its exploration programs and repay the debt with funds from operations, proceeds from non-core asset dispositions, farm-outs and other arrangements, and/or equity financing. If excess funds are available after funding the Company's planned capital programs for the foreseeable future, then the Company's Board of Directors would evaluate the option of paying dividends to its shareholders.Credit FacilityIn January 2012, the Company entered into a three-year facility agreement for a $225 million revolving credit facility and a $25 million operating facility for general corporate purposes.
+The financial covenants of the credit facilities, calculated at the end of each fiscal quarter, are as follows:
+Senior Debt to EBITDAX ratio not greater than 3:1;Debt to EBITDAX ratio not greater than 3.75:1;EBITDAX to Interest Expense ratio greater than 3:1; andDebt to Capitalization ratio not greater than 50%.
+As at March 31, 2013, as defined in the Credit Agreement:
+Senior Debt includes the Company's a) borrowings under credit facilities and b) finance lease obligation;Debt includes the Company's a) Senior Debt and b) senior unsecured convertible notes, less c) unrestricted cash and cash equivalents;EBITDAX (for the trailing 12 months ending at the end of each fiscal quarter) includes the Company's net income less a) Interest Expense, b) income taxes, c) depletion and depreciation expense, d) exploration and evaluation expenses, and e) other non-cash items;Interest Expense includes the Company's a) interest expense and b) standby and other fees in respect of Debt; andCapitalization includes the Company's a) Debt and b) Shareholders' Equity (adjusted for the impact of conversion to IFRS).As at March 31, 2013, the Senior Debt to EBITDAX ratio was 0.9:1, the Debt to EBITDAX ratio was 1.0:1, the EDITDAX to Interest Expense ratio was 7.0:1, and the Debt to Capitalization ratio was 14%, well within the specified financial covenants. Based on the Company's financial forecasts for fiscal 2014 and fiscal 2015, the Company expects to remain in compliance with the financial covenants of the credit facility throughout fiscal 2014 and fiscal 2015.The maximum available credit under the credit agreement is subject to review based on, among other things, updates to the Company's reserves. In September, 2012, the syndicate of lenders confirmed a revised borrowing base amount under the facility to an aggregate of $100 million, based on the evaluation of the Company's reserves as at March 31, 2012 and based on an assumption that the pricing for gas sales from the D6 Block in India would remain unchanged at US$4.20 per MMBtu for the life of the D6 gas fields. As at March 31, 2013, the Company had borrowed $90 million under the credit facilities. Upon closing of the Company's private placement of the senior unsecured notes in June 2013, the amounts outstanding and the availability under the credit facility were reduced to $80 million. In connection with the completion of the Company's annual independent reserves evaluation as at March 31, 2013, the borrowing base of the facility will be re-determined by the syndicate banks on or before July 31, 2013, using the new pricing mechanism for domestic gas produced in India that was recently approved by the Government of India and will result in a significant increase in the price for the D6 Block natural gas sales contracts that expire on March 31, 2014.Suspension of Quarterly DividendsIn September 2012, Niko's board of directors decided to suspend the Company's quarterly dividend in connection with the commencement of the Company's significant exploration drilling program. The timing and level of future dividends, if any, will be reviewed periodically by the board of directors.Repayment of Convertible DebenturesIn December 2012, the Company repaid its Cdn$310 million convertible debentures due December 30, 2012 at par plus accrued interest, using the net proceeds of Cdn$273 million of offerings of common shares and convertible notes, along with cash on hand and advances under the Company's credit facility. The Cdn$115 million principal amount of convertible senior unsecured notes issued in December 2012 mature on December 31, 2017 and bear interest at a rate of seven percent, with interest payable semi-annually in arrears on June 30 and December 31 of each year, commencing June 30, 2013. The notes are convertible at the option of each holder into common shares at a conversion price of Cdn$11.30 per share. After December 31, 2015, the notes are redeemable by the Company, in whole or in part from time to time, provided that the market price of the Company's common shares (defined as the weighted average trading price of the common shares for the twenty consecutive trading days ending five trading days prior to the issue of the notice of redemption) is at least 130% of the conversion price. The Company has the right to use common shares to satisfy some or all of its obligations for the notes.Non-core Asset Dispositions, Farm-outs and Other ArrangementsExecuted transactions resulting from the Company's program of farm-outs and other arrangements raised $70 million in fiscal 2013 and will provide an additional $44 million in fiscal 2014. The Company is also currently in negotiations with various third parties regarding non-core asset dispositions, further farm-outs, and other arrangements that are expected to provide significant liquidity for the Company in the future.Contractual ObligationsThe Company has various contractual obligations, as follows:
+As at March 31, 2013
+Obligations by Period
+(thousands of U.S. dollars)
+Total
+< 1 year
+1 to 3 years
+3 to 5 years
+> 5 years
+Guarantees
+7,991
+1,416
+6,575
+-
+-
+Finance lease obligations (1)
+58,292
+10,757
+21,513
+21,513
+4,509
+Convertible notes payable (2)
+153,396
+8,510
+15,847
+129,039
+-
+Decommissioning obligations (3)
+84,258
+1,796
+6,626
+-
+75,836
+Exploration work commitments (4)
+289,000
+88,000
+201,000
+-
+-
+Operating lease obligation (5)
+492,000
+141,000
+281,000
+70,000
+-
+Total contractual obligations
+1,084,937
+251,479
+532,561
+220,552
+80,345
+The finance lease obligation relates to the charter of the FPSO used in the MA field in the D6 Block and includes both the current and long-term portions.The convertible notes are recorded in the consolidated financial statements at $80 million, which is a discounted value to reflect the fact that the interest rate is lower than the market interest rate on similar notes without a conversion feature. The convertible notes are included in the table based on the sum of principal amount that would be required to be repay the Cdn$115 million convertible debentures plus quarterly interest payments, converted at the year-end exchange rate.Decommissioning obligations are based on the undiscounted estimated future liability of the Company as disclosed in the notes of the financial statements for the year ended March 31, 2013. They do not include costs related to wells or facilities that were not complete as at March 31, 2013.Details of the exploration work commitments by country are included in the Background of Properties section of this MD&A. The majority of the exploration work commitments relate to production sharing contracts where the Company is working on farm-outs to joint venture partners in exchange for a re-imbursement a portion of the sunk costs, funding of a disproportionate share of future costs, and/or future payments related to commencement of production or other milestones. Completion of these farm-outs could significantly reduce the Company's share of the future commitment costs. The Company has in the past and may in the future receive extensions to the periods required to complete the work commitments.The operating lease obligation relates to the multi-year drilling rig contract for the Ocean Monarch that commenced on October 2, 2012 and runs for a term of four years, with a fifth year at the Company's option. The obligations shown in the table above reflect the gross minimum commitment amounts, before re-imbursement from partners in future wells and before potential assignment of the rig contract to third parties. The Company plans to use the drilling rig to fulfill its exploration drilling work commitments in Indonesia (included in the Exploration Work Commitments line item). The Company expects that a significant portion of the obligation will be funded by joint venture partners or by third parties who utilize the rig upon assignment of the rig contract. The table does not include costs related to the service contracts for the Indonesian drilling program as these contracts are generally based on usage and can be terminated with one week's notice.Cash and Working Capital Deficit as at March 31, 2013As at March 31, 2013, the Company had unrestricted cash of $56 million and a working capital deficit (current assets less current liabilities) of $32 million.Issuance of Senior Unsecured Notes Subsequent to Year-endIn June 2013, the Company issued $63.5 million of senior unsecured notes. The notes bear interest at 7.00% per annum, payable monthly, and will be repaid through twelve equal monthly principal payments commencing August 13, 2013. Principal and interest payments are payable in cash or, at the Company's option, in common shares of the Company. If the Company elects to make any portion of a payment in common shares of the Company, the number of shares to be issued will be determined by dividing the amount to be paid in stock by 94.5% of the lower of the volume weighted average price of the shares for the fifteen day period prior to the payment date and the volume weighted average price of the shares for the five day period prior to the payment date, subject to certain restrictions. The notes are ranked equally with the Company's Cdn$115 million senior unsecured convertible notes issued in December, 2012. The net proceeds from the issue of the notes were approximately US$58.5 million, after deducting the initial purchasers' discount and the estimated related expenses payable by Niko. Under the terms of the notes, the net proceeds are available for general corporate purposes.Funding of Working Capital Deficit, Planned Capital Spending and Repayment of Senior Unsecured NotesFor fiscal 2014, the Company's planned capital spending will be focused on development activities in India and exploration activities in Indonesia and Trinidad. The level of capital spending is flexible with decisions about capital spending to be made throughout the year. Funding for the Company's capital spending and repayment of the senior unsecured notes is expected to be provided by a combination of ongoing funds from operations from its producing properties, proceeds from non-core asset dispositions, farm-outs, and other arrangements, potential increases in the availability under its current credit facility or a replacement credit facility, additional debt financing, or issuance of equity.ContingenciesThe Company has a number of contingencies as at March 31, 2013 that could significantly impact liquidity. Refer to note 14 to the consolidated financial statements for the year ended March 31, 2013 for a complete discussion of these contingencies.SUMMARY OF QUARTERLY RESULTSThe following tables set forth selected financial information of the Company, in thousands of U.S. dollars unless otherwise indicated, for the eight most recently completed quarters to March 31, 2013:
+Three months ended
+June 30, 2012
+Sept. 30, 2012
+Dec. 31, 2012
+Mar. 31, 2013
+Oil and natural gas revenue (1)
+55,099
+58,080
+46,515
+39,670
+Net income (loss)
+(92,121
+)
+(28,573
+)
+(93,709
+)
+(2,092
+)
+Per share
+Basic and diluted ($)
+(1.78
+)
+(0.55
+)
+(1.64
+)
+(0.03
+)
+Three months ended
+June 30, 2011
+Sept. 30, 2011
+Dec. 31, 2011
+Mar. 31, 2012
+Oil and natural gas revenue (1)
+88,277
+86,810
+74,789
+71,434
+Net income (loss)
+(54,983
+)
+(43,916
+)
+(40,405
+)
+(183,324
+)
+Per share
+Basic ($)
+(1.07
+)
+(0.85
+)
+(0.78
+)
+(3.55
+)
+(1) Oil and natural gas revenue is oil and natural gas sales less royalties and the government share of profit petroleum.
+Net income in the quarters was affected by:
+Over the quarters, oil and natural gas revenue from the D6 Block has declined due to reservoir performance.In each quarter, the Company expenses a portion of its exploration and evaluation costs and the level of activity has varied over the periods.In the quarter ended March 31, 2013, the Company recognized a $102 million reversal of asset impairment related to the D6 Block in India. The reversal of the impairment resulted from the impact of increased reserves volumes assigned to the D6 Block as at March 31, 2013 by Deloitte AJM. Management's estimate of value in use for the block was determined using forecasted cash flows using escalated prices and estimates of future production, capital and operating expenses. The prices used were based on gas pricing formula approved by the Government of India in June 2013, which is expected to increase natural gas sales price from the current price of $4.20/MMBtu to an estimated $8.40/MMbtu, effective April 1, 2014.In the quarter ended March 31, 2013, the Company recorded a minimum alternate tax recovery of $6 million due to adjustment of D6 reserves in March 2013 reserve report, calculated according to Indian GAAP.In the quarter ended December 31, 2012, there was a deferred tax recovery of $7 million due to the issuance of the convertible notes.In the quarter ended September 30, 2012, there was a deferred tax recovery of $22 million, due to a reduction in exploration and evaluation assets related to proceeds from a farm out and from a former partner in exchange for assuming the partner's obligation for future drilling commitments.In the quarter ended June 30, 2012, the Company recorded an additional $6 million of the government share of profit petroleum for the Hazira Field, reducing oil and natural gas revenue. The adjustment to the government share of profit petroleum was the result of a court ruling finding that the 36-inch natural gas sales pipeline that Niko and GSPC constructed to connect the Hazira Field to the local industrial area was not eligible for cost recovery.In the quarter ended March 31, 2012, depletion expense increased as a result of revisions to the reserves and estimated future costs to develop the reserves.In the quarter ended March 31, 2012, the Company impaired assets of $133 million and long term receivables of $23 million, in the quarter ended June 30, 2012, the Company impaired assets of $39 million, and in the quarter ended December 31, 2012, the Company impaired assets of $29 million.In the quarter ended March 31, 2012, there was a deferred income tax recovery related to the revision of the reserve estimate, which increased the value of the tax holiday for the D6 Block. There were deferred income tax recoveries related to spending in Indonesia and Trinidad applied against the deferred income tax liabilities recorded upon the acquisitions of Voyager Energy Ltd. and Black Gold Energy LLC.In each quarter, gains and losses are recognized based on fluctuations in the market prices of the Company's short-term investments that are valued at fair value.In the quarter ended September 30, 2011, there was a $14 million expense upon cancellation of stock options to recognize the remainder of the expense associated with the options.In the quarter ended June 30, 2011, there was a change in accounting estimate related to deferred income tax expense.There was a revision in the method of estimating the amount of taxable temporary differences reversing during the tax holiday period.
+FOURTH QUARTER
+Funds from Operations
+Quarter ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Oil and natural gas revenue
+39,670
+71,434
+Production and operating expenses
+(10,104
+)
+(10,920
+)
+General and administrative expenses
+(1,942
+)
+(3,429
+)
+Finance income
+980
+1,598
+Bank charges and other finance income
+(756
+)
+(3,378
+)
+Realized foreign exchange loss
+861
+(3,868
+)
+EBITDAX (1)
+28,709
+51,437
+Interest expense
+(4,200
+)
+(5,527
+)
+Current income tax expense
+(1,010
+)
+(2,872
+)
+Minimum alternate tax recovery
+6,249
+9,914
+Funds from operations (1)
+29,748
+52,952
+(1)
+Funds from operations is a non-IFRS measure as defined under "Non-IFRS measures" in this MD&A.
+The explanations provided in "Overall Performance" apply to the changes in the quarter ended March 31, 2013 compared to the quarter ended March 31, 2012 except as follows:There was minimum alternate tax (MAT) expense in the current year quarter and prior year's quarter on Indian GAAP accounting profits from the D6 block. There was an adjustment to MAT expense in the current year's quarter as a result of the change in Indian GAAP accounting profits as due to the change in estimate of reserves and its effect on depletion expense.Net Income (Loss)
+Quarters ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+Funds from operations (non-IFRS measure)
+29,748
+52,952
+Production and operating expenses
+(264
+)
+(55
+)
+Depletion and depreciation expense
+(32,654
+)
+(58,569
+)
+Exploration and evaluation expense
+(21,579
+)
+(116,015
+)
+Gain on short-term investments
+(1,547
+)
+360
+Asset impairment
+-
+(133,504
+)
+Reversal of asset impairment
+101,544
+-
+Share-based compensation expense
+(2,883
+)
+(3,738
+)
+Other expenses
+-
+-
+Finance expense
+(1,982
+)
+(1,970
+)
+Impairment of long-term receivable
+-
+(22,996
+)
+Unrealized foreign exchange (loss) / gain
+(1,512
+)
+1,531
+Deferred income tax (expense) / reduction
+(70,963
+)
+98,679
+Net income (loss)
+(2,092
+)
+(183,325
+)
+The explanations provided in "Overall Performance" applies to the changes in the quarter ended March 31, 2013 compared to the quarter ended March 31, 2012 except as follows:Exploration expense in the prior year quarter is comprised primarily of the costs to exit the D4 block in India, seismic in Trinidad, unsuccessful exploration wells in in Trinidad and India, branch operating costs and annual payments specified in the various PSCs.SELECTED ANNUAL INFORMATION
+Years ended March 31,
+(thousands of U.S. dollars)
+2013
+2012
+2011
+Oil and natural gas revenue (1)
+199,364
+321,311
+403,856
+Net income (loss)
+(216,496
+)
+(322,628
+)
+69,897
+Per share basic ($)
+(3.76
+)
+(6.25
+)
+1.37
+Per share diluted ($)
+(3.76
+)
+(6.25
+)
+1.36
+Total assets
+1,493,807
+1,618,487
+1,889,741
+Total long-term financial liabilities
+169,785
+25,000
+309,221
+Dividends per share (Cdn$)
+0.06
+0.24
+0.21
+(1) Oil and natural gas revenue is oil and natural gas sales less royalties and the government share of profit petroleum.
+The decrease in revenue and changes in net income is described above in the Overall Performance section. Some of the major changes in Assets and Liabilities are described below:Total assets decreased each year primarily due to depletion and asset impairments.Total long term financial liabilities in fiscal 2011 included the Cdn$310 million convertible debentures that moved to current liabilities in fiscal 2012. These debentures were repaid in fiscal 2013 using proceeds from issuance of Cdn$115 million senior unsecured convertible notes and Cdn$158 million of common shares, along with borrowings on the Company's credit facility and cash on hand.RELATED PARTIESThe Company has a 45 percent interest in a Canadian property that is operated by a related party, a Company owned by the President and CEO of the Company. This joint interest originated as a result of the related party buying the interest of the third-party operator of the property in 2002. The transactions with the related party are not significant to operations or consolidated financial statements. The transactions with the related party are measured at estimated fair value.FINANCIAL INSTRUMENTSThe Company's financial instruments consist of short and long-term investments, accounts receivable, long-term accounts receivable, accounts payable and accrued liabilities, borrowings, convertible notes and convertible debentures.The Company is exposed to fluctuations in the value of cash, accounts receivable, short-term investments, accounts payable and accrued liabilities due to changes in foreign exchange rates as these financial instruments are partially or wholly denominated in Canadian dollars and the local currencies of the countries in which it operate. The Company manages the risk by converting cash held in foreign currencies to U.S. dollars as required to fund forecasted expenditures. The Company is exposed to changes in foreign exchange rates as the future interest and principal amounts on the convertible notes are in Canadian dollars.The Company is exposed to changes in the market value of the short-term investments.The Company is exposed to credit risk with respect to all of its financial instruments if a customer or counterparty fails to meet its contractual obligations. The Company has deposited cash and restricted cash with reputable financial institutions, for which management believes the risk of loss to be remote. The Company takes measures in order to mitigate any risk of loss with respect to the accounts receivable, which may include obtaining guarantees.The Company is exposed to the risk of changes in market prices of commodities. The Company enters into physical commodity contracts for the sale of natural gas, which partially mitigates this risk. The Company does so in the normal course of business by entering into contracts with fixed natural gas prices. The contracts are not classified as financial instruments because the Company expects to deliver all required volumes under the contracts. No amounts are recognized in the consolidated financial statements related to the contracts until such time as the associated volumes are delivered. The Company is exposed to the changes in the Brent crude price as the average Brent crude price from the preceding year (to a defined maximum) is a variable in the natural gas price for the current year, calculated annually, for the D6 Block natural gas contracts.The fair values of accounts receivable, accounts payable and accrued liabilities approximate their carrying values due to their short periods to maturity. The fair value of the short-term investments is based on publicly quoted market values. The fair value of the long-term investments is based on their historical cost as they are not traded on publicly quoted marketsThe fair value of the borrowings approximates its carrying value due to the nature of the borrowings. Interest expense on the borrowings of $1 million and $4 million was recorded for the three and twelve months ended March 31, 2013.The debt component of the convertible notes has been recorded net of the fair value of the conversion feature. The fair value of the conversion feature of the notes included in shareholders' equity at the date of issue was $31 million ($24 million net of a deferred tax recovery). The fair value of the conversion feature of the debentures was determined based on the discounted future payments using a discount rate of a similar financial instrument without a conversion feature compared to the fixed rate of interest on the notes. Interest and financing expense of $3 million and $19 million for the three and twelve months ended March 31, 2013 were recorded for interest expense and accretion of the discount on the convertible notes and debentures.CRITICAL ACCOUNTING ESTIMATESThe Company makes assumptions in applying certain critical accounting estimates that are uncertain at the time the accounting estimate is made and may have a significant effect on the consolidated financial statements of the Company.Oil and Natural Gas ReservesReserves estimated can have a significant effect on net earnings as a result of their impact on the depletion rate, provisions for decommissioning obligations and asset impairments. Independent qualified engineers in conjunction with the Company's reserve engineer estimate the value of oil and natural gas reserves on an annual basis. The estimation of reserves is an inherently complex process requiring significant judgment. Estimates of economically recoverable oil and gas reserves and future cash flows from those reserves are based upon a number of variables and assumptions such as geological interpretation, commodity prices, operation and capital costs and production forecasts, all of which may vary considerable from actual results. These estimates are expected to revised upward or downward over time, as additional information such as reservoir performance becomes available, or as economic conditions change.Depletion and Impairment of Producing AssetsThe net carrying value of producing asset is depleted using the unit-of-production method by reference to the ratio of production in the year to the related total proved reserves of oil and natural gas, taking into account estimated future development costs necessary to bring those reserves into production. Revisions to reserve estimates and the associated future cash flows could significantly increase or decrease depletion expense charged to net income and could result in an impairment of property, plant and equipment charged as an expense to net income.Impairment of Tangible and Intangible AssetsAt the end of each reporting period, the Company assesses whether there is any indication that an asset may be impaired. If any such indication exists, the Company estimates the recoverable amount of the asset. Indications include: a significant decline in market value of the asset; significant changes have taken or will take place in the technological; market, economic or legal environment in which the Company operates or in the market to which an asset is dedicated; a significant increase in market interest rates that would affect the discount rate and value of the asset; and the carrying amount of the net assets of the entity is more than its market capitalization. Irrespective of whether there is any indication of impairment, the Company tests intangible assets with an indefinite useful life and intangible assets not yet available for use for impairment annually by comparing its carrying amount with its recoverable amount. The recoverable amount requires the use of assumptions and estimates including quantities of recoverable resources, estimated production quantities, future commodity prices and further exploration, development and production costs. Changes in any of these assumptions could impact the estimated recoverable amount and result in an impairment of exploration and evaluation assets, development assets, capital work-in-progress and other property, plant and equipment.Decommissioning ObligationsProduction sharing contracts that the Company has entered into indicate an obligation for abandonment of wells and facilities including removal of all equipment and installations and site restoration, collectively termed decommissioning obligations. Provision is made for the estimated cost of decommissioning obligations for a well that has been drilled and for equipment or installations upon completion. The provision is capitalized in the relevant asset category and a corresponding liability is recognized.The provision for decommissioning obligations is calculated as the present value of the expenditures expected to be required to settle the obligation in the future. The present value is based on the best estimate of future costs and the economic lives of the wells, facilities and pipelines. There is uncertainty regarding both the amount and timing of incurring these costs and a change in either could result in an adjustment to the relevant capital asset and the decommissioning obligation.Income TaxesThe Company estimates current and future income taxes based on its interpretation of tax laws in the various jurisdictions in which it operates and pays income taxes. The Company recorded its income tax expense including provisions that provide for a tax holiday deduction for various undertakings related to the Hazira and Surat properties for the taxation years 1998 to 2008. Should the tax authorities determine that the tax holiday deduction does not apply to natural gas, the Company would pay additional cash taxes, write-off the net income tax receivable on the statement of financial position and recognize additional income tax expense as a charge to net income. This may also impact the oil and natural gas reserves and asset impairment related to these properties. See note 31 to the consolidated financial statements for further discussion.Share-Based CompensationCompensation expense associated with the Company's share-based compensation plan is calculated and, recognized in net income or capitalized, over the vesting period of the stock option with a corresponding increase in contributed surplus. A forfeiture rate used in the calculation of compensation expense is estimated on the grant date and is adjusted to reflect the actual number of options that vest.ACCOUNTING STANDARDS ISSUED BUT NOT YET APPLIEDAs of January 1, 2013, Niko will be required to adopt amendments to IAS 1 "Presentation of Financial Statements" which will require companies to group together items within other comprehensive income that may be reclassified to the net earnings section of the comprehensive income statement. Niko does not expect a material impact as a result of the amendments. Each of the additional new standards outlined below is effective for annual periods beginning on or after January 1, 2013 with early adoption permitted, except for IFRS 9 "Financial Instruments" which is effective for annual periods beginning on or after January 1, 2015. The Company has not yet assessed the impact, if any, that the new amended standards will have on its financial statements or whether to early adopt any of the new requirements.IFRS 9 - Financial InstrumentsThe result of the first phase of the IASB's project to replace IAS 39, "Financial Instruments: Recognition and Measurement". The new standard replaces the current multiple classification and measurement models for financial assets and liabilities with a single model that has only two classification categories: amortized cost and fair value.IFRS 10 - Consolidated Financial StatementsReplaces Standing Interpretations Committee 12, "Consolidation - Special Purpose Entities" and the consolidation requirements of IAS 27 "Consolidated and Separate Financial Statements". The new standard replaces the existing risk and rewards based approaches and establish control as the determining factor when determining whether an interest in another entity should be included in the consolidated financial statements.IFRS 11 - Joint ArrangementsReplaces IAS 31 "Interests in Joint Ventures" and IAS 28 "Investment in Associates". IFRS 11, "Joint Arrangements", requires a venturer to classify its interest in a joint arrangement as a joint venture or joint operation. Joint ventures will be accounted for using the equity method of accounting whereas for a joint operation the venturer will recognize its share of the assets, liabilities, revenue and expenses of the joint operation. Under existing IFRS, entities have the choice to proportionately consolidate or equity account for interests in joint ventures.IFRS 12 - Disclosure of Interests in Other EntitiesProvides comprehensive disclosure requirements on interests in other entities, including joint arrangements, associates, and special purpose vehicles. The new disclosure requires information that will assist financial statement users in evaluating the nature, risks and financial effects of an entity's interest in subsidiaries and joint arrangements.IFRS 13 - Fair Value MeasurementProvides a common definition of fair value within IFRS. The new standard provides measurement and disclosure guidance and applies when IFRS requires or permits the item to be measured at fair value, with limited exceptions. This standard does not determine when an item is measured at fair value and as such does not require new fair value measurements.DISCLOSURE CONTROLS AND PROCEDURESThe Company's Chief Executive Officer and Chief Financial Officer are responsible for designing disclosure controls and procedures or causing them to be designed under their supervision and evaluating the effectiveness of disclosure controls and procedures. The Company's Chief Executive Officer and Chief Financial Officer oversee the design and evaluation process and have concluded that the design and operation of these disclosure controls and procedures were effective in ensuring material information required to be disclosed in quarterly filings or other reports filed or submitted under applicable Canadian securities laws is made known to management on a timely basis to allow decisions regarding required disclosure.RISK
+FACTORS In the normal course of business the Company is exposed to a variety of actual and potential events, uncertainties, trends and risks. In addition to the risks associated with the use of assumptions in the critical accounting estimates, financial instruments, the Company's commitments and actual and expected operating events, all of which are discussed above, the Company has identified the following events, uncertainties, trends and risks that could have a material adverse impact on the Company:The Company may not be able to find reserves at a reasonable cost, develop reserves within required time-frames or at a reasonable cost, or sell these reserves for a reasonable profit;Reserves may be revised due to economic and technical factors;The Company may not be able to obtain approval, or obtain approval on a timely basis for exploration and development activities;Changing governmental policies, social instability and other political, economic or diplomatic developments in the countries in which the Company operates;Changing taxation policies, taxation laws and interpretations thereof;Adverse factors including climate and geographical conditions, weather conditions and labour disputes;Changes in foreign exchange rates that impact the Company's non-U.S. dollar transactions; andChanges in future oil and natural gas prices.For a comprehensive discussion of all identified risks, refer to the Company's Annual Information Form, which can be found at www.sedar.com .The Company has a number of contingencies as at March 31, 2013. Refer to the notes to the Company's consolidated financial statements for a complete list of the contingencies and any potential effects on the Company.OUTSTANDING SHARE
+DATA At July 8, 2013, the Company had the following amounts outstanding:
+Number
+Cdn$ Amount (1
+)
+Common shares
+70,215,911
+1,477,585,000
+Preferred shares
+Nil
+Nil
+Stock options
+4,866,936
+-
+This is the dollar amount received for common shares issued excluding share issue costs and is presented in Canadian dollars. The U.S. dollar equivalent at July 8, 2013 is $1,324,234,000.MANAGEMENT'S REPORTThe accompanying consolidated financial statements and all other information contained elsewhere in this report is the responsibility of the management of Niko Resources Ltd. The consolidated financial statements necessarily include amounts that are based on estimates, which have been objectively developed by management using all relevant information. The financial information contained elsewhere in this report has been reviewed to ensure consistency with the consolidated financial statements.Management maintains and evaluates the effectiveness of disclosure controls and procedures and internal control over financial reporting for Niko Resources Ltd. Disclosure controls and procedures are designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with International Financial Reporting Standards. The Company evaluates the effectiveness of internal controls over financial reporting at the financial year end and discloses its conclusions about the effectiveness in the Company's annual Management's Discussion and Analysis.The Audit Committee of the Board of Directors, comprised of non-management directors, has reviewed the consolidated financial statements with management and the auditors. The consolidated financial statements have been approved by the Board of Directors on recommendation of the Audit Committee.The consolidated financial statements have been audited by KPMG LLP, the external auditors, in accordance with auditing standards generally accepted in Canada on behalf of the shareholders.
+(signed) "Edward S. Sampson" (signed) "Glen R. Valk"
+Edward S. Sampson
+Glen R. Valk
+President and CEO Vice President, Finance and CFO
+July 8, 2013
+INDEPENDENT AUDITORS' REPORTTo the Shareholders of Niko Resources Ltd.We have audited the accompanying consolidated financial statements of Niko Resources Ltd., which comprise the consolidated statements of financial position as at March 31, 2013 and March 31, 2012, the consolidated statements of comprehensive income (loss), changes in shareholders' equity and cash flows for the years ended March 31, 2013 and 2012, and notes, comprising a summary of significant accounting policies and other explanatory information.Management's responsibility for the consolidated financial statementsManagement is responsible for the preparation and fair presentation of these consolidated financial statements in accordance with International Financial Reporting Standards, and for such internal control as management determines is necessary to enable the preparation of consolidated financial statements that are free from material misstatement, whether due to fraud or error.Auditors' responsibilityOur responsibility is to express an opinion on these consolidated financial statements based on our audits. We conducted our audits in accordance with Canadian generally accepted auditing standards. Those standards require that we comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free from material misstatement.An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the consolidated financial statements. The procedures selected depend on our judgment, including the assessment of the risks of material misstatement of the consolidated financial statements, whether due to fraud or error. In making those risk assessments, we consider internal control relevant to the entity's preparation and fair presentation of the consolidated financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity's internal control. An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of accounting estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements.We believe that the audit evidence we have obtained in our audits is sufficient and appropriate to provide a basis for our audit opinion.OpinionIn our opinion, the consolidated financial statements present fairly, in all material respects, the consolidated financial position of Niko Resources Ltd. as at March 31, 2013 and March 31, 2012, and its consolidated financial performance and its consolidated cash flows for the years ended March 31, 2013 and 2012 in accordance with International Financial Reporting Standards.
+(signed) "KPMG LLP"
+Chartered Accountants
+Calgary, Canada
+July 8, 2013
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+(thousands of U.S. dollars)
+As at
+March 31, 2013
+As at
+March 31, 2012
+Assets
+Current assets
+Cash and cash equivalents
+56,393
+64,495
+Restricted cash (note 5)
+1,416
+6,790
+Accounts receivable (note 6)
+84,834
+61,247
+Inventories (note 7)
+10,100
+9,961
+Short-term investment (note 8)
+92
+748
+152,835
+143,241
+Restricted cash (note 5)
+14,029
+11,283
+Long-term investment (note 9)
+1,270
+2,752
+Long-term accounts receivable (note 10)
+1,528
+2,202
+Exploration and evaluation assets (note 11)
+695,624
+856,880
+Property, plant and equipment (note 12)
+594,166
+509,091
+Income tax receivable (note 30e)
+34,355
+34,724
+Deferred tax asset (note 24)
+-
+58,314
+1,493,807
+1,618,487
+Liabilities
+Current liabilities
+Accounts payable and accrued liabilities (note 13)
+177,576
+101,660
+Current tax payable
+1,272
+1,220
+Current portion of finance lease obligation (note 15)
+6,057
+4,804
+Convertible debentures (note 16)
+-
+306,052
+184,905
+413,736
+Credit facility borrowings (note 14)
+90,000
+25,000
+Finance lease obligation (note 15)
+37,024
+43,671
+Convertible notes payable (note 16)
+79,785
+-
+Decommissioning obligation (note 17)
+41,177
+40,017
+Deferred tax liabilities (note 24)
+185,109
+195,515
+618,000
+717,939
+Shareholders' Equity
+Share capital (note 19)
+1,324,234
+1,171,439
+Contributed surplus
+139,137
+104,964
+Equity component of convertible debentures
+23,232
+14,765
+Currency translation reserve
+(2,757
+)
+(2,094
+)
+Deficit
+(608,039
+)
+(388,526
+)
+875,807
+900,548
+1,493,807
+1,618,487
+The accompanying notes are an integral part of these financial statements.Approved on behalf of the Board(signed) "Wendell W. Robinson"
+Wendell W. Robinson
+Chairman of the Audit Committee, Director(signed) "William T. Hornday"
+William T. Hornday
+Chief Operating Officer, DirectorCONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME/(LOSS)
+Year ended March 31,
+(thousands of U.S. dollars, except per share amounts)
+2013
+2012
+Oil and natural gas revenue (note 20)
+199,364
+321,311
+Production and operating expenses
+(36,778
+)
+(40,196
+)
+Depletion and depreciation expenses (note 12)
+(145,250
+)
+(144,595
+)
+Exploration and evaluation expenses (note 21)
+(172,811
+)
+(232,692
+)
+Loss on investments (note 8 & 9)
+(2,106
+)
+(5,823
+)
+Asset impairment (note 11 & 12)
+(67,831
+)
+(133,578
+)
+Reversal of asset impairment (note 12)
+101,544
+-
+Other income
+311
+6,440
+Share-based compensation expense
+(10,894
+)
+(35,516
+)
+General and administrative expenses
+(6,931
+)
+(8,776
+)
+(141,382
+)
+(273,425
+)
+Finance income
+1,999
+4,302
+Finance expense (note 23)
+(33,768
+)
+(57,856
+)
+Foreign exchange loss
+(3,200
+)
+(14,366
+)
+(34,969
+)
+(67,920
+)
+Loss before income tax
+(176,351
+)
+(341,345
+)
+Current income tax reduction/(expense)
+289
+(5,920
+)
+Minimum alternate tax expense
+-
+(9,105
+)
+Deferred income tax (expense)/reduction
+(40,434
+)
+33,742
+Income tax (expense)/reduction (note 24)
+(40,145
+)
+18,717
+Net loss
+(216,496
+)
+(322,628
+)
+Foreign currency translation gain/(loss)
+(663
+)
+6,250
+Comprehensive loss for the year
+(217,159
+)
+(316,378
+)
+Loss per share: (note 25)
+Basic and diluted
+$ (3.76
+)
+$ (6.25
+)
+The accompanying notes are an integral part of these financial statements.
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+(thousands of U.S. dollars, except number of common shares)
+Common shares (#
+)
+Share capital
+Contributed surplus
+Currency translation reserve
+Equity component of convertible debentures
+Deficit
+Total
+Balance, March 31, 2011
+51,526,901
+1,162,319
+63,037
+(8,344
+)
+14,765
+(53,392
+)
+1,178,385
+Options exercised
+114,944
+9,120
+(2,288
+)
+-
+-
+-
+6,832
+Share-based compensation expense
+-
+-
+44,215
+-
+-
+-
+44,215
+Net income for the year
+-
+-
+-
+-
+-
+(322,628
+)
+(322,628
+)
+Payment of dividends (1)
+-
+-
+-
+-
+-
+(12,506
+)
+(12,506
+)
+Foreign currency translation
+-
+-
+-
+6,250
+-
+-
+6,250
+Balance, March 31, 2012
+51,641,845
+1,171,439
+104,964
+(2,094
+)
+14,765
+(388,526
+)
+900,548
+Options exercised
+-
+-
+-
+-
+-
+-
+-
+Share-based compensation expense
+-
+-
+19,408
+-
+-
+-
+19,408
+Issuance of common shares
+18,570,350
+152,752
+-
+-
+-
+-
+152,752
+Issuance of convertible notes
+-
+-
+-
+-
+30,724
+-
+30,724
+Deferred tax
+-
+-
+-
+-
+(7,492
+)
+-
+(7,492
+)
+Repayment of convertible debentures
+3,716
+43
+14,765
+-
+(14,765
+)
+-
+43
+Net loss for the year
+-
+-
+-
+-
+-
+(216,496
+)
+(216,496
+)
+Payment of dividends 1
+-
+-
+-
+-
+-
+(3,017
+)
+(3,017
+)
+Foreign currency translation
+-
+-
+-
+(663
+)
+-
+-
+(663
+)
+Balance, March 31, 2013
+70,215,911
+1,324,234
+139,137
+(2,757
+)
+23,232
+(608,039
+)
+875,807
+1
+The Company paid dividends of $0.24 per share and $0.06 per share in the years ended March 31, 2012 and 2013, respectively.
+The accompanying notes are an integral part of these financial statements.
+CONSOLIDATED STATEMENTS OF CASHFLOWS
+(thousands of U.S. dollars, except per share amounts) Year ended March 31,
+2013
+2012
+Cash flows from operating activities:
+Net (loss) / income
+(216,496
+)
+(322,628
+)
+Adjustments for:
+Depletion and depreciation expense
+145,250
+144,595
+Accretion expense
+8,678
+7,612
+Deferred income tax expense (reduction)
+40,434
+(33,742
+)
+Unrealized foreign exchange loss
+76
+6,095
+Loss on short-term investment
+2,106
+5,823
+Asset impairment
+67,831
+133,415
+Reversal of asset impairment
+(101,544
+)
+-
+Exploration and evaluation write-off
+94,089
+71,816
+Share-based compensation expense
+18,378
+43,358
+Impairment of long-term receivable
+-
+22,996
+Change in non-cash working capital
+(1,734
+)
+11,744
+Change in long-term accounts receivable
+2,446
+16,550
+Net cash from operating activities
+59,514
+107,634
+Cash flows from investing activities:
+Exploration and evaluation expenditures
+(173,212
+)
+(162,901
+)
+Disposition of exploration and evaluation assets
+-
+2,355
+Property, plant and equipment expenditures
+(30,542
+)
+(25,089
+)
+Proceeds from farm-outs and other arrangements (note 11)
+70,203
+-
+Restricted cash contributions
+(4,835
+)
+(9,500
+)
+Release of restricted cash
+7,089
+8,550
+Disposition of investments
+-
+7,970
+Change in non-cash working capital
+55,536
+13,009
+Net cash used in investing activities
+(75,761
+)
+(165,606
+)
+Cash flows from financing activities:
+Proceeds from issuance of common shares, net of issuance costs
+152,752
+6,832
+Proceeds from issuance of convertible notes, net of issuance costs (note 16)
+110,892
+-
+Repayment of convertible debentures (note 16)
+(312,106
+)
+-
+Change in borrowings
+65,000
+25,000
+Reduction in finance lease obligation
+(5,394
+)
+(4,804
+)
+Dividends paid
+(3,017
+)
+(12,506
+)
+Net cash from financing activities
+8,127
+14,522
+Change in cash and cash equivalents
+(8,120
+)
+(43,450
+)
+Effect of translation on foreign currency cash
+18
+(397
+)
+Cash and cash equivalents, beginning of year
+64,495
+108,342
+Cash and cash equivalents, end of year
+56,393
+64,495
+The accompanying notes are an integral part of these financial statements.
+SUBSEQUENT EVENTSIssuance of unsecured notesOn June 13, 2013, the Company issued US$63.5 million principal amount of Unsecured Notes for aggregate net proceeds of approximately US$58.5 million, after deducting the initial purchasers' discount and the estimated related expenses payable by the Company. The Unsecured Notes bear interest at the rate of 7 percent per annum, payable monthly, and will be repaid through twelve equal monthly principal payments commencing August 13, 2013. The Company may repay some or all of the Unsecured Notes, plus any accrued and unpaid interest, by issuing Common Shares of the Company, rather than repaying the Unsecured Notes in money. If the Company elects to make any portion of a payment in Common Shares, the number of Common Shares to be issued will be determined by dividing the amount to be paid in Common Shares by 94.5 percent of the lower of the volume weighted average price of the shares for the 15 day period prior to the payment date and the volume weighted average price of the Common Shares for the five day period prior to the payment date, subject to certain restrictions. To the extent that the applicable price determined under the above formula is less than 85 percent of the volume weighted average price of the Common Shares for the five day period prior to the payment date then, in lieu of delivering Common Shares, the Company will make a cash payment to the holders of the Unsecured Notes. Additional details regarding the terms of the Unsecured Notes are contained in the material change report of the Company dated June 24, 2013, a copy of which is available at www.sedar.com .Kurdistan blockIn June 2013, the Company recovered a net amount of approximately $15 million related to its Company 49% working interest in the Qara Dagh Block in Kurdistan. In November 2012, the Company and its consortium partners had entered into an agreement with the Kurdistan Regional Government to surrender their collective interests in the block. Pursuant to the agreement, none of the consortium partners will have any future obligations or liabilities with regard to the original production sharing agreement. .NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS1. General informationNiko Resources Ltd. (the "Company") is a limited company incorporated in Alberta, Canada. The addresses of its registered office and principal place of business is 4600, 400 - 3 Avenue SW, Calgary, AB, T2P4H2. The Company is engaged in the exploration for and development and production of oil and natural gas in the countries listed in note 26. The Company's common shares and convertible notes are traded on the Toronto Stock Exchange.2. Basis of presentation and significant accounting policiesa. Statement of complianceThe financial statements have been prepared by management in accordance with International Financial Reporting Standards (IFRS). Issued by the International Accounting Standards Board (IASB).The financial statements were approved by the board of directors and authorized for issue on July 8, 2013.b. Basis of preparation and presentationThe financial statements have been prepared on the historical cost basis except for the revaluation of certain financial instruments as described in sections g. and o. of this note.The consolidated financial statements are presented in US dollars and all values are rounded to the nearest thousand dollars ($000), except where otherwise indicated.c. Basis of consolidationThe consolidated financial statements incorporate the financial statements of the Company and entities controlled by the Company (its subsidiaries). Control is achieved where the Company has the power to govern the financial and operating policies of an entity so as to obtain benefits from its activities.The results of subsidiaries acquired or disposed of during the year are included in the consolidated statement of comprehensive income (loss) from the effective date of acquisition and up to the effective date of disposal, as appropriate.Where necessary, adjustments are made to the financial statements of subsidiaries to bring their accounting policies in line with those used by the Company.All significant intra-group transactions, balances, income and expenses are eliminated in full on consolidation.d. Cash and cash equivalentsCash and cash equivalents consist of cash and demand deposits.e. Business combinationsThe purchase method of accounting is used to account for acquisitions of subsidiaries and assets that meet the definition of a business under IFRS. The cost of an acquisition is measured as the fair value of the assets given, equity instruments issued and liabilities incurred or assumed at the date of exchange. Costs incurred by the Company related to the acquisition are expensed in the periods they are incurred. Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair values at the acquisition date. The excess of the cost of acquisition over the fair value of identifiable assets, liabilities and contingent liabilities acquired is recorded as goodwill. If the cost of acquisition is less than the fair value of the net assets acquired, the difference is recognized immediately in earnings.If the initial accounting for a business combination is incomplete by the end of the reporting period in which the combination occurs, the Company reports provisional amounts for the items for which the accounting is incomplete. Those provisional amounts are adjusted when the Company obtains complete information about facts and circumstances that existed as of the acquisition date that, if known, would have affected the amounts recognized as of that date.f. Interests in joint venturesThe Company is engaged in oil and gas exploration, development and production through unincorporated joint ventures. The consolidated financial statements include the Company's share of the assets, liabilities and cash flows of the joint venture. The Company combines its share of the joint ventures' individual income and expenses, assets and liabilities and cash flows on a line-by-line basis with similar items in the Company's financial statements. Income taxes are recorded based on the Company's share of the joint venture's activities.The following table sets out a listing and description of the Company's interests in joint ventures: 1
+Block
+Country
+Working interest %
+Block
+Country
+Working interest %
+Block 9
+Bangladesh
+60
+Obi
+Indonesia
+51
+Feni/Chattak
+Bangladesh
+100
+Seram
+Indonesia
+55
+D6
+India
+10
+South East Ganal I
+Indonesia
+100
+Hazira Field
+India
+33
+South East Seram
+Indonesia
+100
+NEC
+India
+10
+South Matindok
+Indonesia
+100
+Aru
+Indonesia
+60 ...

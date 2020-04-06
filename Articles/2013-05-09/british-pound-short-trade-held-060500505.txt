@@ -1,0 +1,164 @@
+The British Pound seems unlikely to find meaningful support in a status-quo outcome to the BOE monetary policy announcement and we continue to hold GBPUSD short.Talking Points British Pound Short Trade Held into BOE Monetary Policy Announcement
+Australian, NZ Dollars Outperform on Supportive Employment Data in Asia The monetary policy announcement from the Bank of England headlines the economic calendar in European trading hours. Mervyn King and company are forecast to the size of the asset-purchase program unchanged at 375 billion. UK economic news-flow has cautiously improved relative to economists’ expectations since April’s sit-down of the rate-setting MPC committee. Furthermore the Bank extended its Funding for Lending (FLS) scheme late last month, limiting the scope for further action in the near term. A status-quo result seems firmly entrenched in investors’ baseline outlook however, meaning such an outcome unlikely to yield a dramatic response from the British Pound. With that in mind, we remain short GBPUSD.The Australian and New Zealand Dollars outperformed in overnight trade. The Aussie added as much as 0.6 percent against its top counterparts after April’s Employment data topped expectations, weighing against calls for another RBA interest rate cut at the June monetary policy meeting. The report showed the economy added 50,100 jobs to trump calls for a meager 11,000 increase. The unemployment rate declined to 5.5 percent while the labor-force participation rate rose to 65.3 percent, marking an 11-month high. The Kiwi likewise benefitted from signs of labor-market resilience. Statistics New Zealand reported a 1.7 percent increase in employment in the first quarter, marking the largest gain in over 8 years. Asia Session:
+GMT
+CCY
+EVENT
+ACT
+EXP
+PREV
+22:45
+NZD
+Unemployment Rate (1Q)
+6.2%
+6.8%
+6.8%
+22:45
+NZD
+Employment Change (QoQ) (1Q)
+1.7%
+0.8%
+-0.9%
+22:45
+NZD
+Employment Change (YoY) (1Q)
+0.3%
+-0.7%
+-1.4%
+22:45
+NZD
+Participation Rate (QoQ) (1Q)
+67.8%
+67.8%
+67.2%
+23:50
+JPY
+Official Reserve Assets (APR)
+$1258.0B
+-
+$1254.4B
+0:00
+NZD
+QV House Prices (YoY) (APR)
+7.1%
+-
+6.5%
+1:30
+CNY
+Consumer Price Index (YoY) (APR)
+2.4%
+2.3%
+2.1%
+1:30
+CNY
+Producer Price Index (YoY) (APR)
+-2.6%
+-2.3%
+-1.9%
+1:30
+AUD
+Employment Change (APR)
+50.1K
+11.0K
+-31.1K
+1:30
+AUD
+Participation Rate (APR)
+65.3%
+65.1%
+65.2%
+1:30
+AUD
+Unemployment Rate (APR)
+5.5%
+5.6%
+5.6%
+1:30
+AUD
+Full Time Employment Change (APR)
+34.5K
+-
+-4.1K
+1:30
+AUD
+Part Time Employment Change (APR)
+15.6K
+-
+-27.0K
+2:00
+JPY
+Tokyo Avg Office Vacancies (APR)
+8.54%
+-
+8.56%
+5:00
+JPY
+Leading Index (MAR P)
+97.6
+97.7
+97.7
+5:00
+JPY
+Coincident Index (MAR P)
+93.3
+93.2
+92.5
+Euro Session:
+GMT
+CCY
+EVENT
+EXP/ACT
+PREV
+IMPACT
+8:00
+EUR
+ECB Publishes Monthly Report
+-
+-
+Low
+8:30
+GBP
+Industrial Production (MoM) (MAR)
+0.2%
+1.0%
+Medium
+8:30
+GBP
+Industrial Production (YoY) (MAR)
+-1.6%
+-2.2%
+Medium
+8:30
+GBP
+Manufacturing Production (YoY) (MAR)
+-2.0%
+-1.4%
+Medium
+8:30
+GBP
+Manufacturing Production (MoM) (MAR)
+0.3%
+0.8%
+Medium
+11:00
+GBP
+Bank of England Interest Rate Decision (OBR)
+0.50%
+0.50%
+High
+11:00
+GBP
+BOE Asset Purchase Target (£)
+375B
+375B
+High
+Critical Levels:
+CCY
+SUPPORT
+RESISTANCE
+EURUSD
+1.3085
+1.3207
+GBPUSD
+1.5473
+1.5594
+--- Written by Ilya Spivak, Currency Strategist for Dailyfx.comTo contact Ilya, e-mail ispivak@dailyfx.com. Follow Ilya on Twitter at @IlyaSpivakTo be added to Ilya's e-mail distribution list, please CLICK HEREDailyFX provides forex news and technical analysis on the trends that influence the global currency markets.Learn forex trading with a free practice account and trading charts from FXCM.

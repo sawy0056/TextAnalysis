@@ -1,0 +1,73 @@
+The iShares MSCI Emerging Markets Index Fund (EEM) gathered $313.6 million in new assets on Friday, June 28, as net inflows of $2.67 billion offset the Dow's 0.76 percent drop, lifting total U.S.-listed ETF assets to $1.438 trillion.Top 10 Creations (All ETFs) Ticker Name Net Flows ($,mm) AUM ($, mm) AUM % Change
+IWM iShares Russell 2000 331.09 21,852.07 1.54%
+EEM iShares MSCI Emerging Markets 313.63 34,935.12 0.91%
+DXJ WisdomTree Japan Hedged Equity 267.98 9,935.63 2.77%
+VXX iPath S'P 500 VIX Short-Term Futures ETN 221.09 1,188.72 22.85%
+VWO Vanguard FTSE Emerging Markets 209.90 49,355.57 0.43%
+XLU Utilities Select SPDR 171.35 5,587.61 3.16%
+VTI Vanguard Total Stock Market 166.43 30,796.63 0.54%
+DIA SPDR Dow Jones Industrial Average Trust 163.64 12,568.73 1.32%
+IVV iShares Core S'P 500 161.26 42,943.54 0.38%
+GDX Market Vectors Gold Miners 145.78 5,810.18 2.57%
+Top 10 Redemptions (All ETFs) Ticker Name Net Flows ($,mm) AUM ($, mm) AUM % Change
+SPY SPDR S'P 500 -344.92 133,338.19 -0.26%
+XIV VelocityShares Daily Inverse VIX Short Term ETN -149.33 336.68 -30.73%
+TLT iShares Barclays 20+ Year Treasury Bond -109.95 4,211.09 -2.54%
+XLI Industrial Select SPDR -108.76 4,995.59 -2.13%
+AGG iShares Core Total U.S. Bond Market -107.00 14,787.40 -0.72%
+TNA Direxion Daily Small Cap Bull 3x -85.55 565.61 -13.14%
+TBT ProShares UltraShort 20+ Year Treasury -65.43 3,792.03 -1.70%
+XLK Technology Select SPDR -59.61 10,068.54 -0.59%
+TIP iShares Barclays TIPS Bond -55.91 15,990.26 -0.35%
+EWZ iShares MSCI Brazil Capped -46.45 6,052.03 -0.76%
+ETF Daily Flows By Asset Class
+Net Flows ($, mm) AUM ($, mm) % of AUM
+U.S. Equity
+1,199.80 743,193.13 0.16%
+International Equity
+897.64 327,162.69 0.27%
+U.S. Fixed Income 358.76 226,627.04 0.16%
+International Fixed Income 179.01 25,899.30 0.69%
+Commodities 71.47 70,427.68 0.10%
+Currency 31.37 2,311.24 1.36%
+Leveraged -108.43 15,611.77 -0.69%
+Inverse -204.75 20,495.54 -1.00%
+Asset Allocation 3.73 3,533.35 0.11%
+Alternatives 245.39 3,201.08 7.67%
+Total:
+2,673.97
+1,438,462.82
+0.19%
+Top 10 Volume Surprises, Funds '$50 mm AUM Ticker Name Average Volume(30 Day) 1-Day Volume % of Average
+EQL ALPS Equal Weight 21,605 345,151 1,597.57%
+EUSA iShares MSCI USA 43,679 560,361 1,282.92%
+ITE SPDR Barclays Intermediate Term Treasury 31,515 332,664 1,055.59%
+GVI iShares Barclays Intermediate Government/Credit Bond 102,374 805,893 787.21%
+KBWB PowerShares KBW Bank 134,067 1,027,846 766.67%
+RLY SPDR SSgA Multi-Asset Real Return 49,774 356,247 715.73%
+SCHO Schwab Short-Term U. S. Treasury 109,994 769,296 699.40%
+CWI SPDR MSCI ACWI ex-US 104,987 710,680 676.92%
+LAG SPDR Barclays Aggregate Bond 108,278 693,842 640.80%
+VMBS Vanguard Mortgage-Backed Securities 119,741 687,429 574.10%
+Top 10 1-Day Performers, Excluding Leverage/Inverse Funds and '1,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+GLDX Global X Gold Explorers 9.29% 99,164 24.67
+SIL Global X Silver Miners 8.72% 335,790 181.20
+GDXJ Market Vectors Junior Gold Miners 8.40% 2,376,110 1,216.88
+SLVP iShares MSCI Global Silver Miners 8.19% 8,228 4.54
+RING iShares MSCI Global Gold Miners 8.11% 117,204 25.97
+GGGG Global X PURE Gold Miners 8.09% 3,950 2.99
+SILJ PureFunds ISE Junior Silver (Small Cap Miners/Explorers) 7.85% 3,512 1.50
+PSAU PowerShares Global Gold and Precious Metals 7.81% 53,571 18.43
+GDX Market Vectors Gold Miners 7.46% 75,345,663 5,810.18
+TDX db X-trackers In-Target Date 6.80% 2,418 11.08
+Bottom 10 1-Day Performers, Excluding Leverage/Inverse Funds and '1,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+TCHI RBS China Trendpilot ETN -8.00% 420,900 9.79
+CORN Teucrium Corn -4.47% 274,231 38.70
+WEAT Teucrium Wheat -3.45% 20,635 6.86
+JJG iPath Dow Jones UBS Grains Total Return ETN -3.00% 73,499 108.07
+GRU ELEMENTS MLCX Grains - Total Return ETN -2.98% 10,592 11.46
+EWZS iShares MSCI Brazil Small Cap -2.97% 12,064 38.92
+WEET iPath Pure Beta Grains ETN -2.82% 1,696 2.81
+FUD ETRACS CMCI Food Total Return ETN -2.76% 6,048 23.86
+IGN iShares S'P North American Technology-Multimedia Networking -2.54% 123,370 222.74
+AMJ JPMorgan Alerian MLP ETN -2.37% 764,310 5,779.79 Disclaimer:All data as of 6 a.m. Eastern time the date the article is published. Data is believed to be accurate; however, transient market data is often subject to subsequent revision and correction by the exchanges.Permalink | ' Copyright 2013 IndexUniverse LLC. All rights reserved

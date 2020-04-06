@@ -1,0 +1,201 @@
+The US Dollar is facing heavy selling pressure as traders shrug off a supportive set of Fed meeting minutes and look to Jobless Claims data to bolster QE bets.Talking Points US Dollar Falls as Traders Discount FOMC Minutes, Jobless Claims in Focus
+New Zealand Dollar Soars as FinMin English Hints at RBNZ Rate Hikes Ahead
+Australian Dollar Swiftly Shrugs Off Disappointing March Employment Data The US Dollar is facing broad-based selling pressure as traders discount earlier gains following the release of minutes from the March FOMC meeting. Policymakers appeared to signal they were increasingly prepared to taper asset purchases and perhaps even end them in line with improvements in the labor markets, sparking a knee-jerk advance in the greenback amid easing dilution fears. Investors appear to have reconsidered as the vaguely supportive rhetoric is sized up against last week’s dismal NFP figures, hinting anti-QE sentiments may be old news at this point.The economic calendar is relatively quiet in US trading hours, with weekly Jobless Claims figures headlining an otherwise lackluster docket. Economists’ forecasts call for a slight improvement on the closely-watched Initial Claims print, but a downside surprise in line with the deterioration in US news-flow relative to expectations since late March may further reinforce Fed QE continuity bets and compound downward pressure on the greenback.The New Zealand Dollar is outperforming on the back of supportive comments from Finance Minister Bill English, who said a sustained push higher in housing prices may stoke inflation and trigger an RBNZ interest rate hike. English explicitly added at that while such a move was likely to lead the Kiwi, “many exporters” were coping with the stronger currency and predicted the exchange rate would turn more favorable when US monetary policy begins to tighten. The Australian Dollar briefly dipped overnight following a disappointing set of March employment figures but prices quickly recovered as traders digested the outcome’s limited implications for RBA monetary policy. While the 36.1K net decline in hiring marked the worst single reading in a decade, looking past month-to-month reveals a far more forgiving picture. Indeed, the first quarter posted a net jobs gain of 51k, the largest increase in a year.Want to see economic data releases directly on your charts? Try this App.Asia Session:
+GMT
+CCY
+EVENT
+ACT
+EXP
+PREV
+22:30
+NZD
+Business NZ PMI (MAR)
+53.4
+-
+56.3
+23:50
+JPY
+Japan Money Stock M2 (YoY) (MAR)
+3.0%
+2.9%
+2.9%
+23:50
+JPY
+Japan Money Stock M3 (YoY) (MAR)
+2.5%
+2.4%
+2.4%
+23:50
+JPY
+Domestic CGPI (MoM) (MAR)
+0.1%
+0.2%
+0.5%
+23:50
+JPY
+Domestic CGPI (YoY) (MAR)
+-0.5%
+-0.4%
+-0.1%
+23:50
+JPY
+Machine Orders (YoY) (FEB)
+-11.3%
+-7.6%
+-9.7%
+23:50
+JPY
+Machine Orders (MoM) (FEB)
+7.5%
+6.9%
+-13.1%
+1:00
+AUD
+Consumer Inflation Expectation (APR)
+2.2%
+-
+2.3%
+1:00
+CNY
+Aggregate Financing (CNY) (MAR)
+2540.0B
+1800.0B
+1065.9B (R-)
+1:00
+CNY
+Foreign Exchange Reserves (MAR)
+$3440.0B
+$3361.0B
+$3311.6B (R+)
+1:00
+CNY
+New Yuan Loans (MAR)
+1060.0B
+900.0B
+620.0B
+1:00
+CNY
+Money Supply - M0 (YoY) (MAR)
+12.4%
+12.7%
+17.2%
+1:00
+CNY
+Money Supply - M1 (YoY) (MAR)
+11.9%
+9.4%
+9.5%
+1:00
+CNY
+Money Supply - M2 (YoY) (MAR)
+15.7%
+14.6%
+15.2%
+1:30
+AUD
+Employment Change (MAR)
+-36.1K
+-7.5K
+74.0K (R+)
+1:30
+AUD
+Unemployment Rate (MAR)
+5.6%
+5.4%
+5.4%
+1:30
+AUD
+Full Time Employment Change (MAR)
+-7.4K
+-
+19.3K (R+)
+1:30
+AUD
+Part Time Employment Change (MAR)
+-28.7K
+-
+54.7K (R+)
+1:30
+AUD
+Participation Rate (MAR)
+65.1%
+65.2%
+65.3%
+2:00
+JPY
+Tokyo Avg Office Vacancies (%) (MAR)
+8.56
+-
+8.57
+2:30
+NZD
+REINZ House Sales (YoY) (MAR)
+10.9%
+-
+7.5%
+2:30
+NZD
+REINZ Housing Price Index (MoM) (MAR)
+2.4%
+-
+1.6%
+2:30
+NZD
+REINZ Housing Price Index (MAR)
+3631.4
+-
+3544.9
+Euro Session:
+GMT
+CCY
+EVENT
+EXP/ACT
+PREV
+IMPACT
+6:00
+EUR
+German Consumer Price Index (MoM)
+0.5% (A)
+0.5%
+Medium
+6:00
+EUR
+German Consumer Price Index (YoY)
+1.4% (A)
+1.4%
+Medium
+6:00
+EUR
+German CPI - EU Harmonised (MoM)
+0.4% (A)
+0.4%
+Low
+6:00
+EUR
+German CPI - EU Harmonised (YoY)
+1.8% (A)
+1.8%
+Low
+8:00
+EUR
+ECB Publishes Monthly Report
+-
+-
+Low
+9:00
+EUR
+Italy to Sell 7.5B in 2016, 2017 and 2028 Bonds
+-
+-
+Medium
+Critical Levels:
+CCY
+SUPPORT
+RESISTANCE
+EURUSD
+1.3041
+1.3220
+GBPUSD
+1.5303
+1.5423
+--- Written by Ilya Spivak, Currency Strategist for Dailyfx.comTo contact Ilya, e-mail ispivak@dailyfx.com. Follow Ilya on Twitter at @IlyaSpivakTo be added to Ilya's e-mail distribution list, please CLICK HEREDailyFX provides forex news and technical analysis on the trends that influence the global currency markets.Learn forex trading with a free practice account and trading charts from FXCM.

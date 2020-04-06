@@ -1,0 +1,325 @@
+2019’s $326B ETF Inflows 2nd Largest EverHomeMailNewsFinanceSportsEntertainmentSearchMobileMore...YAHOO_FINANCESearchSign inMailSign in to view your mailFinance HomeWatchlistsMy PortfolioScreenersPremiumMarketsIndustriesPersonal FinanceVideosNewsTechU.S. Markets closedS&P 5002,978.76-137.63(-4.42%)Dow 3025,766.64-1,190.95(-4.42%)Nasdaq8,566.48-414.29(-4.61%)2019’s $326B ETF Inflows 2nd Largest EverSumit RoyETF.comJanuary 2, 2020ReblogShareTweetShareIt was a horserace, but ETF inflows for 2019 managed to pull ahead of 2018’s pace, crowning the former as the year with the second-largest inflows on record. When all was said and done, 2019 inflows for U.S.-listed ETFs totaled $326.3 billion, more than 2018’s $315.4 billion and second only to 2017’s $476.1 billion haul.
+In a surprising twist, U.S. fixed income ETFs managed to attract more inflows than U.S. equity ETFs, $135.4 billion, compared to $130.2 billion (more on that below).
+Choppy Ride, Fantastic Returns It certainly wasn’t a smooth ride to get to $326.3 billion. Through the first five months of the year, ETFs had only gathered $68.1 billion as trade war, global economy and yield curve concerns made investors skittish. But as the year went on and stocks seesawed higher, investors’ confidence—and the money flowing into ETFs—grew in tandem.It didn’t hurt that along with stocks, bond markets also experienced a fantastic rally in 2019. The S&P 500’s 31.5% return was its best showing in six years, while the Bloomberg Barclays U.S. Aggregate Bond Index was up 8.7%, its best performance in 17 years.Even commodities, as measured by the S&P GSCI Total Return Index, rallied a respectable 17.6%, led by gains in oil, gold and palladium.There is no question that 2019 was a great year for financial markets, and the year’s ETF inflows reflect that.Fixed Income Outpaces Equities Perhaps the most surprising aspect of 2019’s ETF flows was the fact that U.S. fixed income ETFs managed to attract more new money than U.S. equity ETFs. On net, $135.4 billion flowed into U.S. fixed income ETFs, while $130.2 billion went into U.S. equity ETFs.The gap was even wider earlier in the year—more than $30 billion—when bonds surged, the yield curve inverted and concerns about a potential recession were greatest. Those concerns have since melted away, but the flows into fixed income ETFs remained strong throughout the year.Four U.S. fixed income ETFs and one international fixed income ETF claimed spots on the top 10 inflows list: the Vanguard Total Bond Market ETF (BND), the iShares Core U.S. Aggregate Bond ETF (AGG), the iShares MBS ETF (MBB), the iShares U.S. Treasury Bond ETF (GOVT) and the Vanguard Total International Bond ETF (BNDX).The $12B Club U.S. equities may not have captured the majority of 2019’s ETF inflows, but they had a respectable year by any measure. In fact, there were three products that pulled in more than $12 billion each: the Vanguard Total Stock Mark ETF (VTI), the iShares Edge Min Vol U.S.A. ETF (USMV) and the Vanguard S&P 500 ETF (VOO).The iShares Core MSCI EAFE ETF (IEFA), with inflows of $11.4 billion, was the only international equity ETF to crack the top 10.Largest Outflows Meanwhile, the ETFs with the largest outflows of 2019 were a combination of international, short-term bond and sector funds. The iShares MSCI EAFE ETF (EFA)—the more-expensive cousin of the aforementioned IEFA—topped the outflows list with redemptions of $8.2 billion.The SPDR S&P 500 ETF Trust (SPY), the world’s largest ETF, also made the list, with net outflows of $2.1 billion for the year. However, price appreciation more than made up for those modest outflows and SPY’s assets under management topped $300 billion for the first time ever, up from $240 billion at the start of the year.Total assets under management for all U.S.-listed ETFs now stand at $4.4 trillion, up $1.1 trillion year-over-year. Top Gainers (Year-to-Date)
+Ticker Name Issuer Net Flows ($,mm) AUM ($M) % of AUM December 2019 Net Flows($,M)
+VTI Vanguard Total Stock Market ETF Vanguard 15,390.22 137,700.66 11.18% 1,676.17
+USMV iShares Edge MSCI Min Vol U.S.A. ETF Blackrock 12,502.37 37,143.95 33.66% 219.61
+VOO Vanguard S&P 500 ETF Vanguard 12,451.42 130,198.09 9.56% 459.13
+IEFA iShares Core MSCI EAFE ETF Blackrock 11,375.67 74,004.69 15.37% 1,171.33
+BNDX Vanguard Total International Bond ETF Vanguard 11,086.15 24,354.48 45.52% 748.55
+BND Vanguard Total Bond Market ETF Vanguard 9,707.18 48,481.40 20.02% 1,217.00
+AGG iShares Core U.S. Aggregate Bond ETF Blackrock 8,920.05 69,302.78 12.87% 2,395.18
+IVV iShares Core S&P 500 ETF Blackrock 8,592.06 200,804.81 4.28% -410.27
+MBB iShares MBS ETF Blackrock 8,297.74 21,124.75 39.28% 982.10
+GOVT iShares U.S. Treasury Bond ETF Blackrock 8,280.03 15,607.59 53.05% 414.97
+Biggest Losers (Year-to-Date)
+Ticker Name Issuer Net Flows ($,mm) AUM ($M) % of AUM December 2019 Net Flows($,M)
+EFA iShares MSCI EAFE ETF Blackrock -8,190.20 64,515.38 -12.69% 1,529.88
+BSV Vanguard Short-Term Bond ETF Vanguard -6,000.37 22,528.38 -26.63% 563.73
+XLF Financial Select Sector SPDR Fund State Street Global Advisors -4,413.19 24,343.55 -18.13% -2,642.41
+XLE Energy Select Sector SPDR Fund State Street Global Advisors -3,316.40 10,831.67 -30.62% 535.87
+EWJ iShares MSCI Japan ETF Blackrock -3,231.03 14,095.90 -22.92% -361.33
+IWD iShares Russell 1000 Value ETF Blackrock -3,212.51 42,397.54 -7.58% 289.85
+SHY iShares 1-3 Year Treasury Bond ETF Blackrock -3,189.45 17,695.74 -18.02% 143.90
+EEM iShares MSCI Emerging Markets ETF Blackrock -2,987.36 30,069.19 -9.93% 1,626.96
+TQQQ ProShares UltraPro QQQ ProShares -2,153.46 4,278.69 -50.33% 93.80
+SPY SPDR S&P 500 ETF Trust State Street Global Advisors -2,071.48 306,469.21 -0.68% 10,841.64
+Asset Classes (Year-to-Date)
+Net Flows ($, mm) AUM ($, mm) % of AUM
+U.S. Equity 130,208.34 2,525,586.23 5.16%
+International Equity 32,441.36 895,083.83 3.62%
+U.S. Fixed Income 135,440.91 757,593.86 17.88%
+International Fixed Income 20,891.92 90,275.90 23.14%
+Commodities ETFs 7,717.30 81,542.23 9.46%
+Currency -429.13 1,367.26 -31.39%
+Leveraged -7,571.25 40,116.54 -18.87%
+Inverse 5,814.81 11,542.89 50.38%
+Asset Allocation 552.91 10,689.95 5.17%
+Alternatives 1,188.37 4,622.16 25.71%
+Total: 326,255.55 4,418,420.83 7.38%
+December 2019 ETF Brand League Table
+Brand Net Flows ($,M) AUM ($,M) % of AUM YTD 2019 Net Flows($,M)
+iShares 19,510.37 1,715,794.84 1.14% 117,578.64
+Vanguard 13,878.37 1,145,108.10 1.21% 104,083.02
+SPDR 11,422.17 715,883.30 1.60% 14,497.36
+Invesco 2,286.75 222,549.50 1.03% 14,438.08
+Schwab 2,402.17 163,533.87 1.47% 23,472.44
+First Trust 1,523.12 85,686.64 1.78% 12,433.46
+VanEck 84.57 43,103.54 0.20% 807.54
+WisdomTree 125.99 40,585.48 0.31% -684.44
+ProShares 392.53 34,608.39 1.13% 3,052.74
+JPMorgan 359.98 32,712.50 1.10% 10,194.35
+PIMCO 423.76 21,874.31 1.94% 3,067.39
+Goldman Sachs 157.79 17,134.31 0.92% 3,727.11
+FlexShares -207.42 16,442.05 -1.26% 67.82
+Xtrackers 665.37 16,422.49 4.05% 3,615.29
+Fidelity 235.64 16,298.42 1.45% 2,483.93
+Direxion -403.64 14,030.22 -2.88% -2,536.46
+Global X 475.39 12,224.91 3.89% 2,810.04
+Alerian 86.51 7,979.29 1.08% -148.06
+Pacer 119.95 5,630.74 2.13% 1,787.04
+VictoryShares 135.60 5,340.73 2.54% 579.52
+John Hancock -69.74 4,690.85 -1.49% 1,140.06
+LibertyShares 211.24 4,322.69 4.89% 2,254.35
+Hartford 83.01 4,226.53 1.96% 1,494.31
+IndexIQ 58.13 3,452.67 1.68% -1,011.41
+UBS 20.23 3,364.85 0.60% -1,087.12
+Principal -50.70 3,358.61 -1.51% -270.82
+ETF Managers Group 69.45 3,341.37 2.08% 582.97
+ARK 88.03 3,159.39 2.79% 540.57
+VelocityShares 104.62 3,154.99 3.32% 3,450.78
+ETRACS -212.07 2,930.67 -7.24% -217.10
+Aberdeen 24.95 2,796.99 0.89% 306.94
+Invesco DB -104.04 2,777.16 -3.75% -1,252.48
+ALPS 8.32 2,763.00 0.30% -418.69
+KraneShares 135.19 2,733.62 4.95% 201.09
+Innovator 98.33 2,247.08 4.38% 1,313.04
+Credit Suisse -9.89 2,204.24 -0.45% -831.07
+iPath 43.66 2,133.70 2.05% 1,169.86
+US Commodity Funds -46.19 2,020.69 -2.29% -837.65
+Barclays -47.82 1,806.95 -2.65% -1,492.19
+Vident -33.28 1,697.57 -1.96% -22.16
+Legg Mason 78.34 1,484.62 5.28% 529.99
+Janus Henderson 50.60 1,459.14 3.47% 435.11
+ROBO Global -26.63 1,285.62 -2.07% -239.97
+Nuveen 61.87 981.15 6.31% 294.58
+PGIM -31.42 895.89 -3.51% 616.11
+DeltaShares 0.00 812.54 0.00% -44.62
+Amplify 21.70 798.38 2.72% 25.47
+O’Shares 16.91 772.56 2.19% 74.16
+Virtus 76.00 763.46 9.96% 511.74
+Davis 2.82 759.79 0.37% 72.64
+REX Microsectors 0.00 728.67 0.00% -17.78
+GraniteShares 4.39 692.57 0.63% 216.56
+Columbia 22.71 686.91 3.31% 76.49
+Cambria 5.70 666.19 0.86% 75.92
+AdvisorShares -5.04 596.37 -0.84% 77.97
+RiverFront -5.39 578.60 -0.93% -76.56
+Main Funds 10.72 565.29 1.90% 99.65
+American Century 17.01 540.75 3.15% 427.80
+Tortoise 56.33 513.17 10.98% 176.13
+WBI Shares -17.65 490.82 -3.60% 79.14
+Inspire -31.74 483.19 -6.57% 190.93
+Avantis 21.02 478.80 4.39% 398.07
+FormulaFolios 2.64 443.22 0.60% 69.72
+Alpha Architect 8.95 422.61 2.12% -11.35
+EMQQ 10.27 401.54 2.56% -9.45
+Aptus 39.96 391.89 10.20% 241.74
+Nationwide 9.79 391.53 2.50% 5.76
+InfraCap -7.19 353.54 -2.03% -26.28
+Aware 51.74 351.61 14.72% 351.15
+TMW Funds -1.84 308.36 -0.60% 77.76
+Motley Fool 4.97 280.24 1.77% 35.94
+Highland 31.58 275.31 11.47% -108.04
+Timothy 48.78 261.45 18.66% 237.76
+ELEMENTS -163.03 259.04 -62.94% -163.03
+Sprott 3.82 253.19 1.51% 9.57
+C-Tracks 0.00 253.18 0.00% 0.00
+ClearShares 20.02 202.01 9.91% 60.74
+Defiance 33.18 185.29 17.90% 174.02
+Reality Shares -6.28 181.53 -3.46% -53.02
+Perth Mint 4.45 175.28 2.54% 64.86
+Teucrium -3.45 169.24 -2.04% 27.04
+Knowledge Leaders Capital 1.81 147.53 1.22% -17.05
+TrimTabs -1.95 139.65 -1.39% -10.36
+ArrowShares 0.00 136.26 0.00% -28.82
+AGFiQ -3.12 126.68 -2.46% 78.97
+Deutsche X-trackers 0.00 125.24 0.00% -20.28
+Eve Capital -5.10 125.13 -4.07% -37.97
+Overlay Shares 13.78 117.79 11.69% 114.78
+Pacific Global ETF 0.00 114.40 0.00% 80.65
+Core Alternative 5.57 111.72 4.99% 27.41
+US Global 9.79 102.44 9.56% -11.99
+Strategy Shares -0.77 99.91 -0.77% -182.33
+LeaderShares 21.46 99.90 21.48% 36.74
+Anfield 3.01 93.92 3.20% 6.97
+SoFi 5.50 90.82 6.05% 84.54
+Exponential ETFs 0.89 89.48 0.99% 11.12
+BlueStar 6.48 88.19 7.35% 18.91
+Quadratic 0.02 82.04 0.02% 82.95
+ERShares 1.84 80.08 2.30% -0.02
+Etho Capital 4.19 74.69 5.61% 25.80
+BlackRock 0.00 65.07 0.00% 39.42
+HCM 4.19 63.38 6.61% 57.00
+Syntax 0.00 61.92 0.00% 55.14
+Distillate 2.24 59.77 3.74% 32.63
+Opus Capital Management 0.67 53.28 1.25% 23.42
+MainStay 0.00 53.03 0.00% -6.88
+Cboe Vest 3.48 52.00 6.70% 24.15
+Metaurus 0.00 51.18 0.00% 29.12
+Fieldstone 2.56 51.14 5.00% 6.33
+Loncar 1.10 50.19 2.19% 2.70
+Gadsden -2.60 50.11 -5.18% 39.68
+AAM 2.62 49.46 5.30% 22.51
+Belpointe -3.64 48.96 -7.43% 49.31
+Saba 1.03 48.48 2.11% 8.82
+Natixis 0.00 48.01 0.00% -4.39
+Vesper 8.19 47.16 17.37% 43.09
+Premise Capital 0.00 46.03 0.00% 8.24
+Renaissance 0.00 42.65 0.00% 22.60
+Hull -5.39 40.18 -13.41% -16.56
+Portfolio+ 0.00 38.08 0.00% -110.81
+NETL 8.14 37.94 21.46% 36.83
+USCF Advisers 0.00 36.58 0.00% 24.63
+Reaves 4.08 34.74 11.75% 17.83
+iM 16.25 34.61 46.94% 34.49
+RPAR 32.69 32.69 99.99% 32.69
+Merlyn.AI 13.22 32.20 41.06% 30.87
+BMO 0.00 29.90 0.00% 29.55
+EntrepreneurShares 0.00 27.70 0.00% 25.48
+Salt Financial 0.69 24.63 2.79% 12.34
+AlphaClone 0.00 23.39 0.00% -2.33
+Wahed 1.33 23.26 5.70% 21.34
+Innovation Shares -0.63 23.25 -2.70% 20.97
+AlphaMark 0.00 22.57 0.00% -2.34
+Validea 0.01 22.33 0.06% -2.48
+EventShares 0.00 19.37 0.00% -2.65
+Market Vectors 0.36 17.98 2.02% -5.86
+Sage 0.00 17.73 0.00% 2.49
+Acquirers Fund 2.69 17.09 15.77% 13.39
+Point Bridge Capital -0.00 16.46 -0.02% -19.88
+Procure 1.20 15.20 7.90% 14.77
+Change Finance 1.13 12.68 8.95% 6.45
+Impact Shares 0.57 12.00 4.78% 4.53
+Beyond 0.65 11.56 5.65% 10.70
+Roundhill -0.01 10.79 -0.05% 10.21
+Hoya 0.72 9.35 7.69% 8.55
+UP Fintech -0.01 8.95 -0.06% 1.32
+QRAFT 0.00 6.68 0.00% 1.22
+SP Funds 6.55 6.58 99.65% 6.55
+Affinity 0.00 5.99 0.00% -0.06
+Little Harbor Advisors 0.00 5.64 0.00% -1.21
+Volshares 2.36 4.72 50.11% 3.83
+Source Asset Management 4.36 4.35 100.39% 4.36
+EquBot 0.00 4.02 0.00% 0.00
+TriLine Index Solutions 0.00 2.68 0.00% -1.62
+URNM 2.50 2.59 96.45% 2.50
+Breakwave 0.72 2.26 31.79% -1.17
+RYZZ 0.00 2.10 0.00% 6.66
+Ideanomics 0.00 1.70 0.02% 0.50
+CSOP 0.00 1.37 0.00% 0.00
+December 2019 ETF Issuer League Table
+Issuer Net Flows ($,M) AUM ($,M) % of AUM YTD 2019 Net Flows($,M)
+Blackrock 19,510.37 1,715,859.91 1.14% 117,618.07
+Vanguard 13,878.37 1,145,108.10 1.21% 104,083.02
+State Street Global Advisors 11,422.17 715,883.30 1.60% 14,497.36
+Invesco 2,182.70 225,326.66 0.97% 13,185.60
+Charles Schwab 2,402.17 163,533.87 1.47% 23,472.44
+First Trust 1,523.12 85,686.64 1.78% 12,433.46
+VanEck 84.51 42,911.40 0.20% 790.25
+WisdomTree 123.09 40,541.22 0.30% -720.81
+ProShares 392.53 34,608.39 1.13% 3,052.74
+JPMorgan 359.98 32,712.50 1.10% 10,194.35
+Allianz 423.76 21,874.31 1.94% 3,067.39
+Goldman Sachs 157.79 17,134.31 0.92% 3,727.11
+Deutsche Bank 665.37 16,547.73 4.02% 3,595.01
+Northern Trust -207.42 16,442.05 -1.26% 67.82
+Fidelity 235.64 16,298.42 1.45% 2,483.93
+Rafferty Asset Management -403.64 14,068.30 -2.87% -2,647.27
+Mirae Asset Global Investments 475.39 12,224.91 3.89% 2,810.04
+SS&C 89.44 11,373.92 0.79% -650.18
+UBS -191.84 6,314.57 -3.04% -1,304.22
+Pacer Financial 119.95 5,630.74 2.13% 1,787.04
+Victory Capital Management 135.60 5,340.73 2.54% 579.52
+Credit Suisse 122.99 4,751.93 2.59% 2,603.16
+John Hancock -69.74 4,690.85 -1.49% 1,140.06
+Franklin Templeton Investments 211.24 4,322.69 4.89% 2,254.35
+Hartford 83.01 4,226.53 1.96% 1,494.31
+Barclays Bank PLC -4.16 3,940.66 -0.11% -322.33
+ETF Managers Group 80.85 3,506.51 2.31% 626.50
+New York Life 58.13 3,452.67 1.68% -1,011.41
+Principal Financial Group -50.70 3,358.61 -1.51% -270.82
+ARK 88.03 3,159.39 2.79% 540.57
+KraneShares 135.21 2,815.66 4.80% 284.05
+Aberdeen Asset Management 24.95 2,796.99 0.89% 306.94
+Exchange Traded Concepts -3.97 2,715.74 -0.15% -96.64
+Innovator Capital Management 98.33 2,247.08 4.38% 1,313.04
+US Commodity Funds -46.19 2,020.69 -2.29% -837.65
+Vident Advisory -33.28 1,689.52 -1.97% -16.42
+Northern Lights -15.38 1,591.60 -0.97% 367.21
+Legg Mason 78.34 1,484.62 5.28% 529.99
+Janus Henderson 50.60 1,459.14 3.47% 435.11
+Virtus 72.90 1,151.74 6.33% 503.28
+American Century 38.04 1,019.55 3.73% 825.88
+Nuveen 61.87 981.15 6.31% 294.58
+PGIM Investments -31.42 895.89 -3.51% 616.11
+CitiGroup -28.26 841.43 -3.36% 16.54
+Transamerica 0.00 812.54 0.00% -44.62
+Amplify 21.70 798.38 2.72% 25.47
+O’Shares Investment Advisers 16.91 772.56 2.19% 74.16
+Davis 2.82 759.79 0.37% 72.64
+BMO 0.00 758.57 0.00% 11.76
+GraniteShares 4.39 692.57 0.63% 216.56
+Columbia 22.71 686.91 3.31% 76.49
+Cambria 5.70 666.19 0.86% 75.92
+AdvisorShares -5.04 596.37 -0.84% 77.97
+Montage Managers 56.33 513.17 10.98% 176.13
+Millington Securities Inc -17.65 490.82 -3.60% 79.14
+Aptus Capital Advisors 40.62 445.17 9.13% 265.17
+Alpha Architect 8.95 422.61 2.12% -11.35
+Nationwide Mutual Insurance 9.79 391.53 2.50% 5.76
+Aware Asset Management 51.74 351.61 14.72% 351.15
+The RBB Fund 4.97 280.24 1.77% 35.94
+Highland Capital Healthcare Advisors 31.58 275.31 11.47% -108.04
+Timothy Partners Ltd. 48.78 261.45 18.66% 237.76
+Swedish Export Credit -163.03 259.04 -62.94% -163.03
+Sprott, Inc. 3.82 253.19 1.51% 9.57
+ClearShares 20.02 202.01 9.91% 60.74
+Merk 0.06 192.14 0.03% 17.29
+Defiance ETFs 33.18 185.29 17.90% 174.02
+Reality Shares -6.28 181.53 -3.46% -53.02
+Teucrium -3.45 169.24 -2.04% 27.04
+TrimTabs Asset Management -1.95 139.65 -1.39% -10.36
+Arrow Investment Advisors 0.00 136.26 0.00% -28.82
+AGF Investments -3.12 126.68 -2.46% 78.97
+Liquid Strategies LLC 13.78 117.79 11.69% 114.78
+Pacific Global ETF 0.00 114.40 0.00% 80.65
+Core Alternative Capital 5.57 111.72 4.99% 27.41
+EntrepreneurShares, LLC 1.84 107.78 1.71% 25.46
+US Global Investors 9.79 102.44 9.56% -11.99
+Strategy Shares -0.77 99.91 -0.77% -182.33
+Redwood Investment Management 21.46 99.90 21.48% 36.74
+Tidal ETF Services 5.50 90.82 6.05% 84.54
+Exponential ETFs 0.89 89.48 0.99% 11.12
+OBP Capital LLC 1.93 65.86 2.93% 30.64
+Howard CM Holdings 4.19 63.38 6.61% 57.00
+Syntax 0.00 61.92 0.00% 55.14
+Distillate Capital Partners 2.24 59.77 3.74% 32.63
+Cboe Vest Financial 3.48 52.00 6.70% 24.15
+Metaurus Advisors 0.00 51.18 0.00% 29.12
+Gadsden -2.60 50.11 -5.18% 39.68
+Advisors Asset Management 2.62 49.46 5.30% 22.51
+Belpointe Financial Holdings LLC -3.64 48.96 -7.43% 49.31
+Natixis 0.00 48.01 0.00% -4.39
+Premise Capital 0.00 46.03 0.00% 8.24
+RBS Securities 2.90 44.27 6.54% 36.37
+Renaissance Capital 0.00 42.65 0.00% 22.60
+Toroso Investments 39.24 39.27 99.93% 39.24
+USCF Advisers 0.00 36.58 0.00% 24.63
+iM Global Partner 16.25 34.61 46.94% 34.49
+EMPIRICAL FINANCE LLC 13.22 32.20 41.06% 30.87
+Salt Financial 0.69 24.63 2.79% 12.34
+Wahed Invest LLC 1.33 23.26 5.70% 21.34
+AlphaMark Advisors 0.00 22.57 0.00% -2.34
+Validea Capital Management 0.01 22.33 0.06% -2.48
+Active Weighting Advisors 0.00 19.37 0.00% -2.65
+Morgan Stanley 0.36 17.98 2.02% -5.86
+Sage Advisory Services 0.00 17.73 0.00% 2.49
+Acquirers Funds LLC 2.69 17.09 15.77% 13.39
+Point Bridge Capital -0.00 16.46 -0.02% -19.88
+ProcureAM 1.20 15.20 7.90% 14.77
+Change Finance 1.13 12.68 8.95% 6.45
+Impact Shares 0.57 12.00 4.78% 4.53
+Beyond Investing LLC 0.65 11.56 5.65% 10.70
+Roundhill Financial Inc. -0.01 10.79 -0.05% 10.21
+Hoya Capital Real Estate 0.72 9.35 7.69% 8.55
+TigerShares -0.01 8.95 -0.06% 1.32
+Little Harbor Advisors 0.00 5.64 0.00% -1.21
+Whitford Asset Management 2.36 4.72 50.11% 3.83
+Source Asset Management 4.36 4.35 100.39% 4.36
+EquBot 0.00 4.02 0.00% 0.00
+TriLine Index Solutions 0.00 2.68 0.00% -1.62
+Cottonwood ETF Holdings LLC 2.50 2.59 96.45% 2.50
+RYZZ Capital Management 0.00 2.10 0.00% 6.66
+CSOP 0.00 1.37 0.00% 0.00
+Disclaimer: All data as of 6 a.m. Eastern time the date the article is published. Data is believed to be accurate; however, transient market data is often subject to subsequent revision and correction by the exchanges.Recommended StoriesHot Reads: Franklin Templeton Buying Legg MasonUnder The Hood Of 2 New ESG ETFsActive ETF Asset Traction QuickensVirus Sends Lagging Energy ETFs LowerPermalink | © Copyright 2020 ETF.com. All rights reservedReblogShareTweetShareRecently ViewedYour list is empty.What to Read NextRichard Branson’s Wealth Falls to Earth as Virgin Galactic SputtersBloombergA drug shortage due to the coronavirus is a 'considerable risk:' Fmr. FDA deputy commissionerYahoo Finance VideoStock market live updates: Dow drops 1190 points amid coronavirus fears, S&P 500 sees fastest correction in historyYahoo FinanceAmid coronavirus, bitcoin has fallen 6% this week to below $8,800Yahoo FinanceEl-Erian: The Fed will cut rates in March, if not beforeYahoo Finance VideoHere's How We Evaluate China Gas Holdings Limited's (HKG:384) DividendSimply Wall St.Don’t buy the stock dip yet, says Goldman as it warns coronavirus will wipe out earnings growth this yearMarketWatchMost face masks won’t protect you from the coronavirusYahoo FinanceStock market live updates: Stock futures climb after historic rout; coronavirus fears persistYahoo FinanceCoronavirus-induced stock selloff means IPO market is 'on holiday': veteran IPO analystYahoo FinanceMarket Watcher: Over six months we will see the markets higher Yahoo Finance VideoIf You Had Bought Alexium International Group (ASX:AJX) Stock Three Years Ago, You'd Be Sitting On A 91% Loss, TodaySimply Wall St.Biocontainment expert on coronavirus: There's no need for average people to panic yetYahoo Finance'Stuck in no man’s land': A working mom details dealing with her sick child's student loan billYahoo FinanceSomething 'dangerous' is happening beneath the surface of the market selloffYahoo FinanceBeyond Meat beats on Q4 earnings, founder says 'we would be crazy not to invest in growth right now'Yahoo Finance

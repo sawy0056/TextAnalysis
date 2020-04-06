@@ -1,0 +1,29 @@
+NEW YORK (TheStreet) -- Microsoft
+has lost the plot and needs an entirely new story.
+Microsoft's old story was that it controlled the operating system, the base of the computing pyramid, and because it controlled this base, it would lead computing where it wanted it to go.
+That's no longer true. Apple's
+iOS and Google's
+Android are both more powerful on clients. Linux is more powerful in the data center. The cloud makes Windows irrelevant.
+Figures from NetMarketshare tell the story. Six months after its launch, Windows 8 has a desktop market share of 3%. Its progress is slower than Windows 7, and remember -- this is Windows' "touch" interface. Windows 7 is still all about the mouse.
+Also see: Microsoft Should Not Buy Netflix >>
+Figures from Statcounter agree. The market share of all Windows versions is declining as fast as that of Windows 8 is rising, maybe faster.
+A "fix" originally called Windows Blue, which ZDNet's Mary Jo Foley now says will be called Windows 8.1, is said to be in the works for summer release. But it's the second verse of a sad old song. It's a patch of asphalt on a road whose foundations are crumbling.
+I have been amused by our Rocco Pendola's continuing efforts to fire Microsoft CEO Steve Ballmer. (Look, he does it again here and here, too.) The idea that a former radio DJ (or this aging journalist) knows more about business than a true business legend sounds ludicrous on its face.
+Also see: Microsoft Is Down but Not Out >>
+And, yes, Ballmer is a legend. I met Ballmer several times "back in the day," as they say, and the Microsoft co-founder is a great sales guy, one of the very best. He understands the channel, he knows the importance of developers, and he deserves to be placed into business history right alongside Bill Gates. Ballmer was the offensive lineman without whom Gates' quarterbacking would have been meaningless.
+To continue with the spring football analogies, Ballmer is still running the ball into the line when what's needed is the long pass. In client computing today, passing is all about the interface. Apple has managed to outmanuever Microsoft there, replacing the typewriter-TV-tape recorder paradigm with pure TV, a "touch" interface it defines, that others (including Microsoft) can only copy, weakly.
+What lies beyond touch? Gestures. Fingers, hands and arms moving in the air, remote control without the controller.
+Also see: The HP Chromebook: RIP Microsoft >>
+Microsoft has a play here, called Kinect. Invented in 2005, launched for its game machine in 2010, and for Windows last year, Kinect uses cameras, sensors and software to interpret your movements as computer commands. Microsoft handed it off to developers, who were initially excited by its possibilities. It gives a robot eyes.
+But Microsoft didn't develop Kinect further, nor did it push Kinect as a computer product. A start-up called Leap Motion, launched the same year the Kinect first shipped, has done that, and come up with a device no bigger than a USB drive that you can see in this YouTube video.
+Although the Kinect works at room distances -- it was designed to compete with Nintendo's Wii game controller -- Leap focuses on hands and fingers, on desktop distances. If you're holding something, Leap will recognize it, turning that object's movements into computer commands. Hold a pencil in the air, make scribbling motions, and Leap will interpret that handwriting.
+Even before it launches -- and the product doesn't ship until May 13 -- it has its own app store, called Airspaces. It costs a third of what the Kinect controller does, and because it's not from Microsoft it will work with any device: Macs, iOS, Android, whatever you've got. Plus Windows.
+Leap, in short, is what Kinect should have been, and it will take Microsoft's competitors beyond where Kinect can go, even before Kinect gets there.
+If that's not losing the plot, I don't know what is. Microsoft needs a quarterback, not a blocking back. Like IBM
+30 years ago, it has become vulnerable to the first "kids with a clue" who came along: the
+guys at Leap Motion.
+Sadly, I agree with Rocco.
+At the time of publication, the author was long IBM, GOOG and AAPL.
+Follow @DanaBlankenhorn
+This article is commentary by an independent contributor, separate from TheStreet's regular news coverage.
+It's Official: Action Alerts PLUS beats the S&P 500 with Dividends Reinvested! Cramer and Link were up 16.72% in 2012. Were you? See what they are trading for 14-days FREE.5 Top Cars at the New York Auto Show10 Ways to Cut the Cost of AirfareYour House Is For Sale, You Just Don't Know it Yet

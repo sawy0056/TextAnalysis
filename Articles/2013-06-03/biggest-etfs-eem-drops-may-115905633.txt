@@ -1,0 +1,21 @@
+The iShares MSCI Emerging Markets Index Fund (EEM) last month fell to the No. 6 slot from No. 4 in April among the biggest ETFs in the world as outflows and jitters that the end of the Federal Reserve’s “quantitative easing” might crater asset prices in some pockets of the equity markets.It was a surprising bookend to a month in which EEM briefly climbed to become the No. 3 slot amid continuing outflows from the SPDR Gold Shares (GLD). GLD, the world’s biggest gold ETF, has been suffering from outflows amid signs that the 12-year rally in gold prices may be running its course.EEM suffered outflows of almost $2 billion in May, just behind GLD, which recorded net redemptions of almost $3 billion. GLD was the most unpopular U.S.-listed ETF last month . The big gold ETF briefly dropped to the No. 4 slot last month, but climbed back to No. 3—in part because of EEM’s outflows and price decline.EEM’s assets dropped more than 7 percent last month, a figure that includes a 5 percent price drop, according to data compiled by IndexUniverse. Overall, the S'P 500 Index rose 2.1 percent in May, preserving a several-month rally. But toward the end of the month, markets began to fret about what might happen to bond yields and stock prices if the Fed-sponsored era of easy money begins to end sometime this year.Other movements on IndexUniverse’s “ETF Giants” table last month included the iShares Core S'P 500 ETF (IVV) moving up to the No. 4 spot from the No. 6 spot.IVV essentially switched places with EEM, but IVV also surpassed the iShares MSCI EAFE Index Fund (EFA), which ended both May and April in the No. 5 spot.The world’s biggest exchange-traded fund remains the SPDR S'P 500 ETF (SPY), which ended the month with assets under management of $138.51 billion.However, it is an interesting historical footnote that as anxiety about the macroeconomy peaked in the summer of 2011 just after Standard ' Poor’s downgraded U.S. sovereign debt, GLD briefly became the biggest ETF in the world .May 2013 ETF Giants ($, Millions) Ticker Name Issuer Flows AUM Turnover
+SPY SPDR S'P 500 SSgA 3,295.83 138,506.84 482,091.24
+VWO Vanguard FTSE Emerging Markets Vanguard -374.63 55,180.14 15,353.92
+GLD SPDR Gold SSgA -2,945.81 45,403.87 38,774.68
+IVV iShares Core S'P 500 BlackRock 212.84 42,556.73 17,457.90
+EFA iShares MSCI EAFE BlackRock 563.22 41,905.71 27,038.21
+EEM iShares MSCI Emerging Markets BlackRock -1,976.86 41,780.47 54,614.56
+QQQ PowerShares QQQ Invesco PowerShares 701.94 34,767.63 51,747.12
+VTI Vanguard Total Stock Market Vanguard 333.89 30,937.98 3,670.26
+LQD iShares iBoxx $ Investment Grade Corporate Bond BlackRock -47.60 22,625.16 6,520.42
+IWM iShares Russell 2000 BlackRock -1,016.66 21,068.67 89,910.24  April 2013 ETF Giants ($, Millions) Ticker Name Issuer Flows AUM Turnover
+SPY SPDR S'P 500 SSgA -86.85 132,152.43 455,677.27
+VWO Vanguard FTSE Emerging Markets Vanguard -1,554.50 57,693.15 15,829.42
+GLD SPDR Gold SSgA -6,774.72 50,915.38 63,818.17
+EEM iShares MSCI Emerging Markets BlackRock -989.96 44,972.50 55,515.13
+EFA iShares MSCI EAFE BlackRock -1,240.41 42,373.80 25,261.07
+IVV iShares Core S'P 500 BlackRock -443.97 41,363.13 12,420.11
+QQQ PowerShares QQQ Invesco PowerShares 277.00 32,912.25 57,571.93
+VTI Vanguard Total Stock Market Vanguard 375.43 29,911.55 3,165.44
+LQD iShares iBoxx $ Investment Grade Corporate Bond BlackRock -554.52 23,503.63 5,016.01
+IWM iShares Russell 2000 BlackRock 67.96 21,322.89 96,887.97   Permalink | ' Copyright 2013 IndexUniverse LLC. All rights reserved

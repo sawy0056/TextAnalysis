@@ -1,0 +1,71 @@
+The iShares U.S. Utilities fund (IDU) pulled in $281 million on Monday, July 15, leading inflows as U.S.-listed ETF assets climbed to $1.515 trillion and the S'P 500 rallied 2.31 points, or 0.14 percent, closing at 1,682.50.Top 10 Creations (All ETFs) Ticker Name Net Flows ($,mm) AUM ($, mm) AUM % Change
+IDU iShares U.S. Utilities 281.32 1,006.84 38.78%
+QQQ PowerShares QQQ 237.67 36,547.98 0.65%
+HYG iShares iBoxx $ High Yield Corporate Bond 211.42 14,486.59 1.48%
+DXJ WisdomTree Japan Hedged Equity 149.30 11,211.65 1.35%
+IVV iShares Core S'P 500 126.79 44,198.12 0.29%
+ACWI iShares MSCI ACWI 104.26 4,191.25 2.55%
+DIA SPDR Dow Jones Industrial Average Trust 100.50 13,395.41 0.76%
+XLI Industrial Select SPDR 98.16 5,873.33 1.70%
+FXU First Trust Utilities AlphaDEX 79.23 202.71 64.17%
+VOO Vanguard S'P 500 73.16 10,488.76 0.70%
+Top 10 Redemptions (All ETFs) Ticker Name Net Flows ($,mm) AUM ($, mm) AUM % Change
+SPY SPDR S'P 500 -950.10 148,910.72 -0.63%
+IWM iShares Russell 2000 -113.87 25,310.64 -0.45%
+XHB SPDR S'P Homebuilders -103.31 2,496.50 -3.97%
+BIV Vanguard Intermediate-Term Bond -100.26 4,089.77 -2.39%
+USMV iShares MSCI USA Minimum Volatility -84.63 3,175.13 -2.60%
+XLP Consumer Staples Select SPDR -72.57 6,845.45 -1.05%
+TLT iShares 20+ Year Treasury Bond -64.84 3,436.31 -1.85%
+TBT ProShares UltraShort 20+ Year Treasury -56.20 3,852.15 -1.44%
+MDY SPDR S'P MidCap 400 -55.70 13,757.28 -0.40%
+CFT iShares Credit Bond -53.85 1,152.39 -4.46%
+ETF Daily Flows By Asset Class
+Net Flows ($, mm) AUM ($, mm) % of AUM
+U.S. Equity 208.56 801,117.08 0.03%
+International Equity 494.26 339,011.08 0.15%
+U.S. Fixed Income 48.69 229,724.57 0.02%
+International Fixed Income -1.54 26,036.13 -0.01%
+Commodities 76.30 74,029.15 0.10%
+Currency -2.03 2,286.16 -0.09%
+Leveraged -36.35 16,439.93 -0.22%
+Inverse -100.24 19,682.61 -0.51%
+Asset Allocation 12.99 3,658.80 0.36%
+Alternatives -5.41 3,253.78 -0.17%
+Total:
+695.23
+1,515,239.29
+0.05%
+Top 10 Volume Surprises, Funds '$50 mm AUM Ticker Name Average Volume(30 Day) 1-Day Volume % of Average
+PXLG PowerShares Fundamental Pure Large Growth 21,785 300,100 1,377.54%
+FXU First Trust Utilities AlphaDEX 388,899 4,655,073 1,196.99%
+RJN ELEMENTS Rogers International Commodity - Energy Total Return ETN 57,785 600,605 1,039.38%
+IDU iShares U.S. Utilities 529,143 4,631,277 875.24%
+IAK iShares U.S. Insurance 43,941 351,211 799.28%
+MTUM iShares MSCI USA Momentum Factor 14,423 102,340 709.58%
+EXT WisdomTree Total Earnings 3,431 21,459 625.48%
+AUSE WisdomTree Australia Dividend 10,529 64,434 611.96%
+PXF PowerShares FTSE RAFI Developed Markets ex-U.S. 74,839 450,910 602.51%
+GBF iShares Government/Credit Bond 21,069 109,879 521.53%
+Top 10 1-Day Performers, Excluding Leverage/Inverse Funds and '1,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+TAN Guggenheim Solar 8.50% 348,559 146.06
+KWT Market Vectors Solar Energy 6.68% 8,709 16.17
+IYZ iShares U.S. Telecommunications 4.44% 422,796 473.93
+EEML iShares MSCI Emerging Markets Latin America 4.29% 21,675 12.68
+INCO EGShares India Consumer 3.87% 3,350 4.42
+GXG Global X FTSE Colombia 20 3.74% 512,452 138.68
+TUR iShares MSCI Turkey 3.67% 264,680 680.87
+CAFE iPath Pure Beta Coffee ETN 3.60% 70,395 4.28
+BRF Market Vectors Brazil Small-Cap 3.53% 121,939 246.01
+JO iPath Dow Jones-UBS Coffee Total Return ETN 3.49% 37,355 92.07
+Bottom 10 1-Day Performers, Excluding Leverage/Inverse Funds and '1,000 Shares Traded Ticker Name 1-Day Performance 1-Day Volume AUM ($, mm)
+CVOL C-Tracks Citi Volatility ETN -2.36% 17,906 1.91
+VIIX VelocityShares VIX Short Term ETN -2.35% 1,408,089 22.67
+DCNG iPath Pure Beta Seasonal Natural Gas ETN -2.34% 5,860 8.63
+WEAT Teucrium Wheat -2.34% 12,591 6.94
+VIXY ProShares VIX Short-Term -2.27% 507,454 168.42
+VXX iPath S'P 500 VIX Short-Term Futures ETN -2.19% 27,748,568 1,244.24
+ITB iShares U.S. Home Construction -1.99% 4,262,472 2,149.46
+VIIZ VelocityShares VIX Mid Term ETN -1.93% 2,890 5.67
+GREK Global X FTSE Greece 20 -1.92% 95,987 43.63
+VXZ iPath S'P 500 VIX Mid-Term Futures ETN -1.68% 198,341 54.19 Disclaimer:All data as of 6 a.m. Eastern time the date the article is published. Data is believed to be accurate; however, transient market data is often subject to subsequent revision and correction by the exchanges.Permalink | ' Copyright 2013 IndexUniverse LLC. All rights reserved

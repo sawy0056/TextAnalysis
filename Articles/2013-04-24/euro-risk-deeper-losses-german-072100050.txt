@@ -1,0 +1,128 @@
+The Euro may decline further if the German IFO business confidence gauge falls short of expectations, stoking ECB interest rate cut expectations.Talking Points Euro at Risk of Deeper Losses if German IFO Data Underperforms
+NZ Dollar Gains on RBNZ Outlook, Yen Sold as Risk Appetite Firms The German IFO Survey of business confidence headlines the economic calendar in European hours. Expectations call for the headline Business Climate gauge to edge narrowly lower in April. Eurozone news-flow has increasingly underperformed relative to consensus forecasts in the last two months however, hinting economists are underestimating the severity of recession in the region and opening the door for a downside surprise. Such an outcome threatens to weigh on the Euro, mirroring yesterday’s response to soft PMI data as traders build out ECB rate cut expectations at next week’s policy meeting.The New Zealand Dollar outperformed in overnight trade after the RBNZ signaled it intends to keep the benchmark interest rate unchanged through the remainder of the year. The Australian Dollar briefly spiked lower after first-quarter CPI data fell short of expectations, putting the year-on-year inflation rate at 2.5 percent compared with 2.8 percent expected. The Japanese Yen underperformed as risk appetite firmed across Asian exchanges, boosting demand for carry trades funded in the perennially low-yielding currency.Want to see economic data releases directly on your charts? Try this App.Asia Session:
+GMT
+CCY
+EVENT
+ACT
+EXP
+PREV
+21:00
+NZD
+Reserve Bank of New Zealand Rate Decision
+2.50%
+2.50%
+2.50%
+23:50
+JPY
+Corporate Service Price (YoY) (MAR)
+-0.2%
+-0.3%
+0.0%
+1:00
+AUD
+DEWR Internet Skilled Vacancies (MoM) (MAR)
+0.1%
+-
+-0.5%
+1:30
+AUD
+Consumer Prices Index (QoQ) (1Q)
+0.4%
+0.7%
+0.2%
+1:30
+AUD
+Consumer Prices Index (YoY) (1Q)
+2.5%
+2.8%
+2.2%
+1:30
+AUD
+CPI – Trimmed Mean (QoQ) (1Q)
+0.3%
+0.5%
+0.6%
+1:30
+AUD
+CPI – Trimmed Mean (YoY) (1Q)
+2.2%
+2.4%
+2.3%
+1:30
+AUD
+CPI – Weighted Median (QoQ) (1Q)
+0.5%
+0.5%
+0.6%
+1:30
+AUD
+CPI – Weighted Median (YoY) (1Q)
+2.6%
+2.4%
+2.5%
+Euro Session:
+GMT
+CCY
+EVENT
+EXP/ACT
+PREV
+IMPACT
+6:00
+CHF
+UBS Consumption Indicator (MAR)
+1.25 (A)
+1.24
+Low
+8:00
+EUR
+German IFO - Business Climate (APR)
+106.2
+106.7
+Medium
+8:00
+EUR
+German IFO - Current Assessment (APR)
+109.5
+109.9
+Medium
+8:00
+EUR
+German IFO - Expectations (APR)
+103.0
+103.6
+Medium
+8:00
+EUR
+Italian Retail Sales (MoM) (FEB)
+-0.1%
+-0.5%
+Low
+8:00
+EUR
+Italian Retail Sales (YoY) (FEB)
+-
+-3.0%
+Low
+8:30
+GBP
+BBA Loans for House Purchase (MAR)
+31400
+30506
+Low
+10:00
+GBP
+CBI Reported Sales (APR)
+8
+0
+Low
+Critical Levels:
+CCY
+SUPPORT
+RESISTANCE
+EURUSD
+1.2951
+1.3062
+GBPUSD
+1.5192
+1.5293
+--- Written by Ilya Spivak, Currency Strategist for Dailyfx.comTo contact Ilya, e-mail ispivak@dailyfx.com. Follow Ilya on Twitter at @IlyaSpivakTo be added to Ilya's e-mail distribution list, please CLICK HEREDailyFX provides forex news and technical analysis on the trends that influence the global currency markets.Learn forex trading with a free practice account and trading charts from FXCM.

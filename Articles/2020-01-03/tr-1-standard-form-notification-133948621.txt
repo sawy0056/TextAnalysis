@@ -1,0 +1,51 @@
+TR-1: Standard form for notification of major holdingsHomeMailNewsFinanceSportsEntertainmentSearchMobileMore...YAHOO_FINANCESearchSign inMailSign in to view your mailFinance HomeWatchlistsMy PortfolioScreenersPremiumMarketsIndustriesPersonal FinanceVideosNewsTechU.S. Markets closedS&P 5002,978.76-137.63(-4.42%)Dow 3025,766.64-1,190.95(-4.42%)Nasdaq8,566.48-414.29(-4.61%)TR-1: Standard form for notification of major holdingsGlobeNewswireJanuary 2, 2020ReblogShareTweetShare NOTIFICATION OF MAJOR HOLDINGS (to be sent to the relevant issuer and to the FCA in Microsoft Word format if possible)i
+1a. Identity of the issuer or the underlying issuer of existing shares to which voting rights are attachedii: Acacia Pharma Group plc
+1b. Please indicate if the issuer is a non-UK issuer  (please mark with an “X” if appropriate)
+Non-UK issuer
+2. Reason for the notification (please mark the appropriate box or boxes with an “X”)
+An acquisition or disposal of voting rights X
+An acquisition or disposal of financial instruments
+An event changing the breakdown of voting rights
+Other (please specify)iii:
+3. Details of person subject to the notification obligationiv
+Name The Novo Nordisk Foundation
+City and country of registered office (if applicable) Tuborg Havnevej 19, 2900 Hellerup, Denmark
+4. Full name of shareholder(s) (if different from 3.)v
+Name Novo Holdings A/S
+City and country of registered office (if applicable) Tuborg Havnevej 19, 2900 Hellerup, Denmark
+5. Date on which the threshold was crossed or reachedvi: 31 December 2019
+6. Date on which issuer notified (DD/MM/YYYY): 31 December 2019
+7. Total positions of person(s) subject to the notification obligation
+% of voting rights attached to shares (total of 8. A) % of voting rights through financial instruments
+(total of 8.B 1 + 8.B 2) Total of both in % (8.A + 8.B) Total number of voting rights of issuervii
+Resulting situation on the date on which threshold was crossed or reached 2.94%   2.94% 54,888,198
+Position of previous notification (if applicable) 3.997%   3.997% 54,888,198
+8. Notified details of the resulting situation on the date on which the threshold was crossed or reachedviii
+A: Voting rights attached to shares
+Class/type of sharesISIN code (if possible) Number of voting rightsix % of voting rights
+Direct(Art 9 of Directive 2004/109/EC) (DTR5.1) Indirect(Art 10 of Directive 2004/109/EC) (DTR5.2.1) Direct(Art 9 of Directive 2004/109/EC) (DTR5.1) Indirect(Art 10 of Directive 2004/109/EC) (DTR5.2.1)
+Ordinary Shares GB00BYWF9Y76 1,612,131   2.94%
+SUBTOTAL 8. A 1,612,131 2.94%
+B 1: Financial Instruments according to Art. 13(1)(a) of Directive 2004/109/EC (DTR5.3.1.1 (a))
+Type of financial instrument Expiration datex Exercise/
+Conversion Periodxi Number of voting rights that may be acquired if the instrument is exercised/converted. % of voting rights
+SUBTOTAL 8. B 1
+B 2: Financial Instruments with similar economic effect according to Art. 13(1)(b) of Directive 2004/109/EC (DTR5.3.1.1 (b))
+Type of financial instrument Expiration datex Exercise/
+Conversion Period xi Physical or cash settlementxii Number of voting rights
+% of voting rights
+SUBTOTAL 8.B.2
+9. Information in relation to the person subject to the notification obligation (please mark the applicable box with an “X”)
+Person subject to the notification obligation is not controlled by any natural person or legal entity and does not control any other undertaking(s) holding directly or indirectly an interest in the (underlying) issuerxiii
+Full chain of controlled undertakings through which the voting rights and/or the financial instruments are effectively held starting with the ultimate controlling natural person or legal entityxiv (please add additional rows as necessary) X
+Namexv % of voting rights if it equals or is higher than the notifiable threshold % of voting rights through financial instruments if it equals or is higher than the notifiable threshold Total of both if it equals or is higher than the notifiable threshold
+The Novo Nordisk Foundation 2.94%
+Novo Holdings A/S 2.94%
+10. In case of proxy voting, please identify:
+Name of the proxy holder
+The number and % of voting rights held
+The date until which the voting rights will be held
+11. Additional informationxvi
+The shares are held by Novo Holdings A/S, the holding company in the Novo Group. Novo Holdings A/S is wholly-owned by the Novo Nordisk Foundation.
+Place of completion Hellerup, Denmark
+Date of completion  31 December 2019 ReblogShareTweetShareRecently ViewedYour list is empty.What to Read NextIMF, World Bank funds ready to fight virus outbreak: spokesmanAFPRichard Branson’s Wealth Falls to Earth as Virgin Galactic SputtersBloombergA drug shortage due to the coronavirus is a 'considerable risk:' Fmr. FDA deputy commissionerYahoo Finance VideoMost face masks won’t protect you from the coronavirusYahoo FinanceAmid coronavirus, bitcoin has fallen 6% this week to below $8,800Yahoo FinanceEl-Erian: The Fed will cut rates in March, if not beforeYahoo Finance VideoViacomCBS Layoffs Underway As Re-Merged Company Continues To Cut CostsDeadlineDon’t buy the stock dip yet, says Goldman as it warns coronavirus will wipe out earnings growth this yearMarketWatchBiocontainment expert on coronavirus: There's no need for average people to panic yetYahoo FinanceStock market live updates: Dow drops 1190 points amid coronavirus fears, S&P 500 sees fastest correction in historyYahoo FinanceCoronavirus-induced stock selloff means IPO market is 'on holiday': veteran IPO analystYahoo FinanceMarket Watcher: Over six months we will see the markets higher Yahoo Finance VideoThyssenkrupp sells elevator unit for $18.7 billion to Advent, Cinven consortiumReutersStock market live updates: Stock futures climb after historic rout; coronavirus fears persistYahoo FinanceMost romantic destinations in North America ranked: The Points GuyYahoo Finance VideoUnited pulls Boeing's 737 Max jets through June 2020Yahoo Finance Video

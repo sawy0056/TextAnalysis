@@ -1,0 +1,28 @@
+NEW YORK (TheStreet) --Chris Doggett has this to say to Jay-Z, Beyonce, Kim Kardashian, Paris Hilton, Mel Gibson, Ashton Kutcher, Joe Biden, Hillary Clinton, The Associated Press -- and all the other supposedly above-the-street celebs, politicos and media companies who just can't seem to keep their online selves from getting stolen.
+"You want the Internet to be as safe as possible?" Doggett told me on the phone about a month ago. "You want to be touching as little of it as possible."
+Also see: The Digital Skeptic: The Newspaper Gets Its Revenge
+Doggett is not guessing about what it takes to stay secure in today's digital slum. He's head of North American corporate sales for Kaspersky Lab, the Woburn, Mass., security firm. And to this geek's credit, he's become a brother in skeptical arms about the reality of not being the next AP Twitter hack victim here in the Internet hood.
+"You want to be turning off as much of the Web as you can," he said.
+Let me repeat that long and loud, investors: He said TURN OFF AS MUCH OF THE INTERNET AS YOU CAN.
+What goes first?
+"You know that piece of software called Java that is always updating on your PC? People put that on there for some dumb game," he explained. "But most folks don't use it. It's very easy to attack old versions of it. New exploits are created all the time."
+So we all just go into our computers and uninstall it?
+"Exactly," Doggett said. "Your PC will be a lot safer. Just turn it off."
+What else can go? The Adobe
+Flash Player. Doggett explained that unless you watch a lot of videos or run Flash-intensive apps or otherwise need it, this app is better off a goner, an opinion shared by a surprising number of leery Web users.
+Also see: 7 Things You Can't Ask Your Intern to Do
+Flash is "buggy. It crashes a lot. It requires constant security updates," is the line I love from the must-read Occupy Flash website, where anti-Flash sentiment is organizing online. "It's a fossil, left over from the era of closed standards and unilateral corporate control of web technology."
+The DIY less-is-more Web PC To get a feel for how practical it would be for the average Web user to play the skeptic about needless bits of software, I tried it myself. That is, I took a 4-year-old Toshiba Portege that's been the bench test unit for hard drives here in the shop and reinstalled the Microsoft
+Windows 7 operating system from scratch. Then I followed Doggett's advice and ripped every single silly useless bit of software out of that sucker.
+And guess what happened? That cranky old Portege got a new lease on life. Who really needs six Web chat clients? I certainly do not. So bye-bye, iChat and AIM and Google
+Chat. It's much safer to pick one, keep it updated and lose the rest.
+What about all those redundant browsers? Mozilla Firefox and Google Chrome and Apple
+Safari and Microsoft Internet Explorer? Do I need all of them? Of course I don't -- especially considering that each one is an attack waiting to happen. I picked one (Google Chrome, since we use Google Apps For Business in my shop) and lost the rest.
+The slimmer, secure Web appliance What's remarkable is that in the month or so since my chat with Doggett, pretty much every security pro I've spoken with -- which is easily a dozen -- confirmed that not only is Doggett correct, but a new family of Web security devils is lurking: insecure social media platforms.
+"The average Twitter user doesn't value their account that much, so the social media sites have been slow to inconvenience users with security technologies," said Dan Cornell, principal and co-founder at the Denim Group, a San Antonio, Texas, enterprise security firm.
+Also see: 10 Best Convertibles for Summer 2013
+Try it yourself. I am dead certain you'll agree that you -- and the average Web user -- really has little need for the next so-called must-have browser extension or, really, any new bit of software. Once you've gone through the tough getting that nightmare of a PC clean and sober, consumer just won't want to mess with installing new software.
+A leaner, meaner software market that Doggett very much approves of.
+He said that removing all this code by hand is a blunt way to do it. "We sell tools that make managing that software easier," Doggett explained. "But it works. We are well past the point where all these tools can be effectively protected. Less really is more."
+It turns out that it's best to treat one's apps like one's friends: Be very, very careful about which ones you let close to you.
+EXCLUSIVE OFFER: See inside Jim Cramer’s multi-million dollar charitable trust portfolio to see the stocks he thinks could be potentially HUGE winners. Click here to see his holdings for FREE.5 Worst Home Renovation ProjectsWhy Car Prices Vary From City To City7 Towns That Really Want Your Sports Team

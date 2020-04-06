@@ -1,0 +1,7 @@
+Average U.S. rates on fixed mortgages fell this week after three weeks of increases, edging closer to historically low levels.Here's a look at rates for fixed and adjustable mortgages this week and over the past year: Current avg. Last week 52-week high 52-week low
+30-year fixed 4.28 4.37 4.58 3.35
+15-year fixed 3.32 3.39 3.60 2.56
+5-year adjustable 3.03 3.05 3.28 2.56
+1-year adjustable 2.52 2.52 2.71 2.51
+All values in percentage points
+Source: Freddie Mac Primary Mortgage Market Survey

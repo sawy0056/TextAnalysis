@@ -1,0 +1,146 @@
+The Swiss Franc looks to updated SNB growth and inflation forecasts for direction. The Euro is unlikely to find volatility at the EU Leaders’ summit.Talking Points Yen Gains as Aussie, NZ Dollars Fall as Risk Aversion Strikes Markets
+Euro to Look Past Industrial Production Data, Eyeing Italian Bond Sale The Swiss National Bank (SNB) is set to deliver its monetary policy announcement. Expectations call for the bank to keep the benchmark interest rate in the 0.0-0.25 percent range as well as maintain the floor on the EUR/CHF exchange rate at 1.20. While SNB President Thomas Jordan is likely to brandish familiarly strong rhetoric in the statement accompanying the announcement – promising to show the utmost determination in defending its cap on Franc strength – such rhetoric is hardly surprising and ought not to prove market-moving in its own right. The updated set of Swiss growth and inflation forecasts may prove more interesting. CPI fell 0.4 percent year-on-year in February, matching a 16-month low in the pace of deflation recorded in January. Meanwhile, economic news-flow has increasingly improved relative to expectations over the past five weeks (according to data from Credit Suisse). Against this backdrop, an upgrade in the SNB’s inflation outlook may signal the central bank is growing more sanguine, fueling policy normalization chatter and offering the Franc a bit of a lift. The fireworks may wait until after President Jordan gives a speech on monetary policy in Aarau later in the day however, looking for the SNB chief to flesh out additional details before committing to a directional bias.Meanwhile, an EU Leaders’ Summit is due to begin in Brussels. On balance, the sit-down is unlikely to be profoundly eventful. The most significant near-term issue at hand remains political instability in Italy, and there is little that can be done on this matter at the EU level (at least publically). The Greece precedent suggests Italy will continue to vote until a “Troika”-friendly government emerges. That seems to be the direction that the Eurozone’s third-largest economy is heading as the key players (Bersani, Grillo, Berlusconi) talk down coalition possibilities. In the meantime, EU officials have little to do but wait, meaning the docket is likely to be preoccupied with lower-intensity concerns while the Italy situation gets little more besides the vague rhetoric treatment.Asia Session:
+GMT
+CCY
+EVENT
+ACT
+EXP
+PREV
+20:00
+NZD
+Reserve Bank of New Zealand Rate Decision
+2.50%
+2.50%
+2.50%
+0:00
+AUD
+Consumer Inflation Expectation (MAR)
+2.3%
+-
+2.2%
+0:30
+AUD
+Employment Change (FEB)
+71.5K
+10.0K
+13.1K (R+)
+0:30
+AUD
+Unemployment Rate (FEB)
+5.4%
+5.5%
+5.4%
+0:30
+AUD
+Full Time Employment Change (FEB)
+17.8K
+-
+-9.5K (R+)
+0:30
+AUD
+Part Time Employment Change (FEB)
+53.7K
+-
+22.5K (R+)
+0:30
+AUD
+Participation Rate (FEB)
+65.3%
+65.0%
+65.0%
+2:00
+NZD
+Non Resident Bond Holdings (FEB)
+66.7%
+-
+66.7%
+4:00
+JPY
+Tokyo Condominium Sales (YoY) (FEB)
+-10.9%
+-
+-5.4%
+4:30
+JPY
+Industrial Production (MoM) (JAN F)
+0.3%
+-
+1.0%
+4:30
+JPY
+Industrial Production (YoY) (JAN F)
+-5.8%
+-
+-5.1%
+4:30
+JPY
+Capacity Utilization (MoM) (JAN F)
+1.7%
+-
+2.9%
+6:00
+JPY
+Machine Tool Orders (YoY) (JAN F)
+-29.8%
+-
+-21.5%
+Euro Session:
+GMT
+CCY
+EVENT
+EXP
+PREV
+IMPACT
+-
+EUR
+EU Leaders Begin Two-Day Summit
+-
+-
+High
+8:30
+CHF
+Swiss National Bank Rate Decision
+0.0-0.25%
+0.0-0.25%
+High
+9:00
+EUR
+ECB Publishes Monthly Economic Report
+-
+-
+Medium
+9:30
+EUR
+Spain to Sell 2029, 2040, 2041 Bonds
+-
+-
+Medium
+10:00
+EUR
+Euro-Zone Employment (QoQ) (4Q)
+-
+-0.2%
+Low
+10:00
+EUR
+Euro-Zone Employment (YoY) (4Q)
+-
+-0.7%
+Low
+11:00
+CHF
+SNB’s Jordan Speaks on Monetary Policy
+-
+-
+Medium
+Critical Levels:
+CCY
+SUPPORT
+RESISTANCE
+EURUSD
+1.2902
+1.3043
+GBPUSD
+1.4883
+1.4972
+--- Written by Ilya Spivak, Currency Strategist for Dailyfx.comTo contact Ilya, e-mail ispivak@dailyfx.com. Follow Ilya on Twitter at @IlyaSpivakTo be added to Ilya's e-mail distribution list, please CLICK HEREDailyFX provides forex news and technical analysis on the trends that influence the global currency markets.Learn forex trading with a free practice account and trading charts from FXCM.

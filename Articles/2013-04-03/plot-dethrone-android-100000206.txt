@@ -1,0 +1,43 @@
+NEW YORK ( TheStreet) -- Call 911! Senior executives are meeting, right now, in a smoke-filled room, plotting to take down Android. I think they will ultimately fail, but not without perhaps inflicting some superficial wounds on their intended target.
+And guess what? The following companies aren't in the room: Apple , Microsoft
+and BlackBerry .
+What am I talking about? And who?
+To understand the scene at the 2013 version of "The Last Supper" you have to understand the logic and chronology of how the smartphone history developed over the last 15 years:
+In the early 1990s days, we had Nokia , which was eclipsed in the early 2000s by BlackBerry.
+The wireless operators were extremely happy with BlackBerry, partially because BlackBerry didn't pose a threat to them. It shared revenue, expanded the market into the lucrative enterprise sphere, and didn't divert existing operator services.
+Also see: Apple's Competitive Strategy in China >>
+BlackBerry co-CEO Jim Balsille described his relationship with the wireless operators as "constructive alignment" because he emphasized that BlackBerry was the chief ally of the operators -- not a threat. All parties -- BlackBerry as well as the operators -- loved this arrangement and wanted it to continue forever.
+Minor threats such as Palm were swatted off like flies. The years between 2003 and 2007 were all sweetness, light and jingles for the wireless operators and for BlackBerry.
+Then came the iPhone stink bomb. Steve Jobs was the opposite of Jim Balsille's "constructive alignment." It was Jobs' way or the highway. Any operator carrying the iPhone had to comply with every millimeter of Apple's wishes. No logo on the device, no crapware apps, no nothing. Great for the consumer; bad for the operators.
+Apple was confident that it had a product the operators wouldn't be able to ignore, even though they hated it. All Apple needed was a crack in the Hoover Dam of the operator wall. With AT&T
+hungry to take down Verizon Wireless from the U.S. market leadership position, Apple got its opening.
+Apple and AT&T milked this for all it was worth, and Verizon felt compelled to respond with desperate measures. Verizon went to BlackBerry for an all-touch version called Storm, which became a total disaster. It also licensed the "Droid" name from Lucas Films and agreed to promote Android heavily as its answer to the iPhone.
+Android was free and customizable, so the operators -- not only Verizon -- proceeded to promote it as their favored solution, trying to keep Apple away from total industry dominance.
+As it turns out, they succeeded beyond their wildest dreams. Android ended 2012 with almost 70% market share worldwide; slightly lower in the U.S. The wireless operators now realized they had created a monster.
+To counter this new menace, the operators first prodded Windows Phone in 2012, and now BlackBerry 10 in early 2013. The ultimate verdict on those operating systems is likely to take at least another few quarters, but so far their success is far from a foregone conclusion: Combined, Windows Phone and BlackBerry market share is no higher than approximately 10%, possibly even lower.
+Even if the operators manage to make Windows Phone or BlackBerry 10 a success, the victory may turn out to be temporary for the wireless operators. Why? Microsoft owns Skype and has ambitions for all forms of services, ranging from productivity to entertainment, colliding with operator monetization plans.
+In other words, if the wireless operators manage to promote Windows Phone into parity with the iPhone and Android, in the end Microsoft will care as much about the operators' success as Apple and Google
+-- which is to say not at all. Microsoft is the ultimate enemy of the operators, just like Apple and Google.
+Also see: Microsoft Should Not Buy Netflix >>
+What about BlackBerry, then? Certainly, in its current form, BlackBerry is the same darling of the operators as it was in Jim Balsille's "constructive alignment" heyday, 2002 to 2008. However, as I have pointed out before, BlackBerry is likely going to be acquired by Microsoft, Nokia (essentially Microsoft's smartphone hardware arm), Samsung, Amazon.com
+or HP .
+If you consider Nokia to be a de facto part of Microsoft, then the best the operators could hope for is that BlackBerry gets bought by HP. Amazon and Samsung are next after Google, Apple and Microsoft to step into the center of the operator enemies list for ecosystem monetization.
+So BlackBerry is unlikely to fulfill the role of operator-friendly entity in the long run, assuming it gets acquired. If you're the big operators today, what do you do then?
+The answer is at the core of today's smoke-filled room: Support yet another new and fully compliant operating system!
+What the operators want is an Android without a Google. It's true that Android can be forked, but there is still the lingering dependence on Google. What could possibly fit this bill?
+It looks to me like what the operators want to see is one of the new operating systems without ecosystem ambitions. They include Ubuntu and Mozilla's Firefox OS. They can run on hardware that's basically standard Android.
+Specifically, Firefox OS has, with the help of Qualcomm , partnered with numerous wireless operators around the world. On the handset side, LG and Alcatel
+have been announced. You should also expect higher-end handsets soon.
+The major wireless operators around the world will deploy Firefox OS because they hope to constrain Google's emerging dominance in the ecosystem wars and monetization. The operators want a bigger piece of the economic pie than Google is offering them. Google takes 30% of the revenue in the Google Play store; the content creator gets 70% and the operator gets nothing except his monthly $20 or $30 mostly flat data fee.
+Will the operators be successful in selling and monetizing Firefox OS? I am skeptical, but it will likely vary greatly from geography to geography. Google is on a major roll, with an epic onslaught of hardware, software and services slated for introduction between May and December 2013.
+For example, Google will likely launch an epic attack against at least the U.S. wireless operators by offering free voice over IP (VoIP), including free SMS (already available) thanks to the more competitive LTE offerings becoming widely available later in 2013. This will be a huge blow to profitability of the wireless operators, and it will be an outright declaration of war between the operators and Google.
+Also see: Smell-O-Vision Perfected. But, Why? >>
+Make no mistake about it: Major operators such as AT&T and Verizon know what's coming from Google, just as the Germans knew what would eventually come across the English Channel on June 1944. The operators don't know the exact day in 2013 either, but they're trying to come up with a counter-move.
+This counter-move the wireless operators are plotting seems to be to deploy Firefox OS. I do not yet see how this move will succeed in the end, but we have not yet seen the full picture of their technology and strategy.
+When you have almost 70% market share, and you have further ecosystem monetization ambitions on the scale of Google, you have to be prepared for the players around you plotting to take you down. In this case, the latest move by the operators to try to cut down to size a major ecosystem giant will be to promote Firefox OS at the expense of Google.
+My bottom line: It is way too early to call this game but, generally speaking, I would not bet against Google right now.
+Whether you're another smartphone maker, or a wireless operator, Google has a huge offensive planned for May-December 2013 that will be as epic in the industry as D-Day was to the outcome of the Second World War. If you think the last one to eight years were interesting, you just wait until you see what's coming in the next one to eight months.
+At the time of publication the author was long GOOG, AAPL, QCOM, NVDA, BRCM and INTC, and short MSFT and AMD
+Follow @antonwahlman
+This article was written by an independent contributor, separate from TheStreet's regular news coverage.
+It's Official: Action Alerts PLUS beats the S&P 500 with Dividends Reinvested! Cramer and Link were up 16.72% in 2012. Were you? See what they are trading for 14-days FREE.5 Top Cars at the New York Auto Show10 Ways to Cut the Cost of AirfareYour House Is For Sale, You Just Don't Know it Yet

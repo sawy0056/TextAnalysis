@@ -1,0 +1,32 @@
+Shentel Reports 2019 Strong Fourth Quarter and Year End Operating StatisticsHomeMailNewsFinanceSportsEntertainmentSearchMobileMore...YAHOO_FINANCESearchSign inMailSign in to view your mailFinance HomeWatchlistsMy PortfolioScreenersPremiumMarketsIndustriesPersonal FinanceVideosNewsTechU.S. Markets closedS&P 5002,978.76-137.63(-4.42%)Dow 3025,766.64-1,190.95(-4.42%)Nasdaq8,566.48-414.29(-4.61%)Shentel Reports 2019 Strong Fourth Quarter and Year End Operating StatisticsGlobeNewswireJanuary 7, 2020ReblogShareTweetShareEDINBURG, Va., Jan. 07, 2020 (GLOBE NEWSWIRE) -- Shenandoah Telecommunications Company (Shentel) (SHEN) announces preliminary operating statistics for the fourth quarter and year-end 2019.“We achieved our second consecutive quarter of record postpaid wireless gross and net postpaid additions in the fourth quarter 2019, driven in part by our network and distribution investments in the recently acquired Parkersburg expansion areas.  We grew postpaid gross and net additions in 2019 by 24% and 142%, respectively, giving us strong sales momentum in our Wireless business as we enter 2020,” said President and CEO Christopher French “Our Cable and Wireline focus on increasing broadband penetration, together with the acquisition of Big Sandy Broadband, produced 11.3% year-over-year growth in cable broadband RGUs with broadband penetration increasing to 40.7% as of December 31, 2019.  We continue to see the benefits of the recently completed DOCSIS 3.1 upgrades which have enabled 1 Gigabit download speeds across our footprint, while our new rate card and ongoing improvements in customer service and operations have significantly increased customer satisfaction and retention.” WIRELESS   December 31,2019   December 31,2018
+Retail PCS subscribers – postpaid   844,194   795,176
+Retail PCS subscribers – prepaid   274,012   258,704
+Total PCS subscribers   1,118,206   1,053,880
+Three Months Ended     Twelve Months Ended
+December 31,     December 31,
+WIRELESS   2019   2018     2019   2018
+Gross PCS subscriber additions – postpaid   71,830   54,517     235,953   190,334
+Net PCS subscriber additions – postpaid   20,777   9,639     49,018   20,236 (1)
+Gross PCS subscriber additions – prepaid   39,352   38,225     152,098   150,662
+Net PCS subscriber additions – prepaid   2,461   3,242     15,308   17,191 (1)
+PCS average monthly retail churn % – postpaid   2.05%   1.90%     1.92%   1.82%
+PCS average monthly retail churn % – prepaid   4.52%   4.55%     4.26%   4.45%      (1)  Results exclude 38,343 postpaid and 15,691 prepaid subscribers acquired on February 1, 2018 in the Richmond Expansion Area. CABLE AND WIRELINE   December 31, 2019 (2)     December 31, 2018
+Cable (3) Wireline Total     Cable Wireline Total
+Cable homes passed   189,762   16,500   206,262       185,119   16,500   201,619
+Video RGUs   48,613   5,024   53,637       53,086   5,586   58,672
+Penetration   25.6%   30.4%   26.0%       28.7%   33.9%   29.1%
+Broadband RGUs   77,227   6,689   83,916       70,183   5,206   75,389
+Penetration   40.7%   40.5%   40.7%       37.9%   31.6%   37.4%
+Voice RGUs   24,152   7,213   31,365       23,810   5,664   29,474
+Penetration   12.7%   43.7%   15.2%       12.9%   34.3%   14.6%
+Total Cable RGUs   149,992   18,926   168,918       147,079   16,456   163,535
+CABLE AND WIRELINE   December 31, 2019 (2)     December 31, 2018
+Cable Wireline Total     Cable Wireline Total
+Rural Local Exchange Carrier ("RLEC")
+RLEC homes passed   — 25,495   25,495       — 25,457   25,457
+RLEC RGUs
+Data RLEC   — 7,797   7,797       — 9,104   9,104
+Penetration   — 30.6%   30.6%       — 35.8%   35.8%
+Voice RLEC   — 14,332   14,332       — 15,698   15,698
+Penetration   — 56.2%   56.2%       — 61.7%   61.7%
+Total RLEC RGUs   — 22,129   22,129       — 24,802   24,802      (2)  Homes passed are as of September 30, 2019.   (3)  Excludes Glo Fiber results.About Shenandoah Telecommunications Shenandoah Telecommunications Company (Shentel) provides a broad range of diversified communications services through its high speed, state-of-the-art network to customers in the Mid-Atlantic United States. The Company’s services include: wireless voice and data; cable video, internet and digital voice; fiber network and services; and regulated local and long distance telephone. Shentel is the exclusive personal communications service (“PCS”) Affiliate of Sprint in a multi-state area covering large portions of central and western Virginia, south-central Pennsylvania, West Virginia, and portions of Maryland, North Carolina, Kentucky, and Ohio. For more information, please visit www.shentel.com.CONTACTS:Shenandoah Telecommunications, Inc.Jim VolkSenior Vice President, Finance and Chief Financial Officer540-984-5990Jim.Volk@emp.shentel.comOrJohn Nesbett/Jennifer BelodeauIMS Investor Relations203-972-9200jnesbett@institutionalms.comReblogShareTweetShareRecently ViewedYour list is empty.What to Read NextBiocontainment expert on coronavirus: There's no need for average people to panic yetYahoo FinanceA drug shortage due to the coronavirus is a 'considerable risk:' Fmr. FDA deputy commissionerYahoo Finance VideoStock market live updates: Dow drops 1190 points amid coronavirus fears, S&P 500 sees fastest correction in historyYahoo FinanceAmid coronavirus, bitcoin has fallen 6% this week to below $8,800Yahoo FinanceEl-Erian: The Fed will cut rates in March, if not beforeYahoo Finance Video'Stuck in no man’s land': A working mom details dealing with her sick child's student loan billYahoo FinanceMost face masks won’t protect you from the coronavirusYahoo FinanceRichard Branson’s Wealth Falls to Earth as Virgin Galactic SputtersBloombergCoronavirus-induced stock selloff means IPO market is 'on holiday': veteran IPO analystYahoo FinanceMarket Watcher: Over six months we will see the markets higher Yahoo Finance VideoDon’t buy the stock dip yet, says Goldman as it warns coronavirus will wipe out earnings growth this yearMarketWatchStock market live updates: Stock futures climb after historic rout; coronavirus fears persistYahoo FinanceQ4 e-commerce sales are what's 'saving Walmart': AnalystYahoo Finance VideoBeyond Meat beats on Q4 earnings, founder says 'we would be crazy not to invest in growth right now'Yahoo FinanceWhat to watch in the markets: Friday, February 28Yahoo Finance VideoHackers Breach Ring Home Security CamerasYahoo Finance Video

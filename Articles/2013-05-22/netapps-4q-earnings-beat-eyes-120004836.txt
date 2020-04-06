@@ -1,0 +1,27 @@
+NetApp Inc. (NTAP) reported fourth quarter fiscal 2013 adjusted earnings per share (EPS) of 55 cents, which inched past the Zacks Consensus Estimate of 54 cents. Adjusted EPS excludes amortization of intangible assets, acquisition-related expenses, non-cash interest expense as well as investments and tax gains but includes stock-based compensation expenses.
+Revenues
+NetApp reported fourth-quarter revenues of $1.72 billion, up 0.8% from $1.70 billion in the year-ago quarter. Revenues came at the lower end of the company’s guidance range of $1.70–$1.80 billion and below the Zacks Consensus Estimate of $1.75 billion. Year-over-year revenue growth was driven by growing demand for ONTAP suite, higher sales of flash storage devices (led by growing demand for smartphones and tablets) and double-digit growth in branded products, which was offset by lower spending from the U.S. military and intelligence agencies due to constrained budgeting.
+Product revenues were $1.14 billion in the quarter, down 2.3% year over year and accounted for about 66.3% of the total revenue. Growth in Branded revenues was offset by weak OEM revenues.
+Software Entitlement & Maintenance revenues were $227.0 million, up 6.8% from $212.5 million in the year-ago quarter. The segment’s revenues represented around 13.2% of the total revenue.
+Service revenues were $351.7 million, up 8.2% from $324.9 million reported in the year-ago quarter. The segment accounted for 20.5% of the total revenue.
+Operating Results
+NetApp reported gross profit of $1.03 billion, which increased 3.7% year over year. Gross margin grew 170 basis points (bps) year over year to 60.1%, mainly due to product mix.
+Total operating expenses increased 7.0% from the year-ago quarter to $827.8 million. Operating income decreased 7.7% from the year-ago quarter to $204.4 million. Operating margin was 11.9%, down from 13.0% in the year-ago quarter.
+Net income on a GAAP basis was $173.8 million or 47 cents per share compared with $180.7 million or 47 cents in the prior-year quarter. The quarter’s result was toward the higher end of the company’s guided range of 43–48 cents.
+Excluding the above-mentioned special items but including stock-based compensation, adjusted net income was 55 cents per share, flat year over year.
+Balance Sheet & Cash Flow
+NetApp exited the quarter with cash, cash equivalents and investments of $6.95 billion, up from $6.72 billion in the previous quarter. Receivables were $800.9 million, up from $633.8 million a quarter ago. Inventories decreased $33.4 million from the prior quarter to $139.5 million. The company bears a long-term debt balance of $994.6 million.
+Cash generated from operations was $455.6 million compared with $365.1 million generated in the prior quarter. Capital expenditure in the quarter was $63.6 million, down from $110.7 million in the prior quarter.
+Share Repurchase & Dividend
+The company plans to increase its current stock buyback authorization by an additional $1.6 billion. Currently, shares outstanding under the plan amount to $1.4 billion. NetApp will buyback roughly $2.0 billion of common stock within the next 12 months, of which roughly $1.0 billion will be bought back within the coming 120 days.
+During the fourth quarter, NetApp repurchased $180.0 million worth of shares.
+NetApp also initiated a dividend payout of 15 cents per share. The first quarterly dividend will be paid on Jul 23. The company stated that the rate of dividend will increase over time.
+Guidance
+For the first quarter of 2014, NetApp expects revenues in the range of $1.475 billion to $1.575 billion, representing roughly 11.2% sequential decline and 5.6% year-over-year growth. The sequential decline reflects seasonality, continued reduction in OEM revenues and a soft IT spending environment.
+Non-GAAP gross margin is expected to be roughly 61.0%, while non-GAAP operating margin is projected in the range of 13.5%–14.0%. GAAP EPS is expected to range between 13 cents and 18 cents, while non-GAAP EPS is expected between 45 cents and 50 cents. The company estimates shares outstanding to be approximately 367 million and a tax rate of 18.0%. The Zacks Consensus Estimate for the first quarter 2014 is 37 cents.
+NetApp also plans to reduce headcount by 900 positions. For this, the company will bear a pre-tax charge of roughly $50.0-$60.0 million for employee severance and other restructuring activities.
+Our Take
+The quarter’s results were mixed with the bottom line beating the Zacks Consensus Estimate and the top line missing it. Favorable product mix and cost optimization measures helped in margin expansion. Keeping in mind the ongoing macro uncertainty caused by the European debt crisis and federal budget cuts, management guided a cautious first quarter.
+We believe that the stock repurchase program and initiation of dividend reflects a good cash position and hence will be attractive for investors.
+Though new product refreshes, association with Cisco Systems Corp. (CSCO) and VMware Inc. (VMW), and ramp of ONTAP 8.1 are positives, we believe that uncertain IT spending patterns and growth prospects of its archrival EMC Corp. (EMC) may pose serious threats.
+NetApp currently carries a Zacks Rank #3 (Hold).Story continuesRead the Full Research Report on VMWRead the Full Research Report on CSCO Read the Full Research Report on EMC Read the Full Research Report on NTAP Zacks Investment Research More From Zacks.com Read article on zacks.com

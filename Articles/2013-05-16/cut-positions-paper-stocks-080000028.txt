@@ -1,0 +1,35 @@
+NEW YORK ( TheStreet) -- In the game "rock, scissors, paper," scissors cut paper, and that's what investors should do with the sell-rated names in the paper and paper products industry.
+The only undervalued sector among 16 sectors covered by ValuEngine is basic materials, undervalued by 7%. Unfortunately for investors, it is difficult to find value stocks within the sector. Out of 416 companies only 14 have buy ratings. There are 155 stocks rated sell and another 60 rated strong sell. With 51.7% of all stocks rated sell, I give the basic materials sector an underweight rating.
+When you drill down to the industries within the basic materials sector the valuations are quite divergent. The cheapest industry is gold mining, undervalued by 34%. The most overvalued industry is paper and paper products overvalued by 31%. There are 32 stocks in this industry and 23 have sell or strong sell ratings. With 71.9% of these stocks rated sell I give the industry an "avoid-source of funds" rating.
+>>Also see: The Steve Carell of Football Walks>>
+Today I provide my buy-and-trade parameter for nine paper and paper products stocks with the strategy to sell strength on these names, particularly for the five stocks rated sell. All but one of these stocks are overvalued and eight have gained between 18.4% and 73.2% over the last 12 months, which justifies profit-taking particularly with seven of these stocks projected to decline by 3.5% to 9.7% over the next 12 months. Eight of the nine stocks are above their 200-day simple moving averages (SMA), which reflects the risk of a reversion to the mean. Note also that five of the nine stocks missed earnings estimates.
+Reading the Table
+OV / UN Valued -- The stocks with a red number are undervalued by this percentage. Those with a black number are overvalued by that percentage, according to ValuEngine.
+VE Rating -- A "1-Engine" rating is a Strong Sell, a "2-Engine" rating is a Sell, a "3-Engine" rating is a Hold, a "4-Engine" rating is a Buy and a "5-Engine" rating is a Strong Buy.
+Last 12-Month Return (%) -- Stocks with a Red number declined by that percentage over the last twelve months. Stocks with a Black number increased by that percentage.
+Forecast 1-Year Return -- Stocks with a Red number are projected to decline by that percentage over the next 12 months. Stocks with a Black number in the Table are projected to move higher by that percentage over the next twelve months.
+Value Level: is the price at which to enter a GTC Limit Order to buy on weakness. The letters mean: W-Weekly, M-Monthly, Q-Quarterly, S-Semiannual and A- Annual.
+Pivot: A level between a value level and risky level that should be a magnet during the time frame noted.
+Risky Level: is the price at which to enter a GTC Limit Order to sell on strength.
+Clearwater Paper
+($46.83) missed EPS estimates by 51 cents, earning just 1 cent a share on April 24. The weekly chart profile stays negative on a close this week below the five-week modified moving average (MMA) at $47.62. The 200-day simple moving average (SMA) is $42.53 with a weekly pivot at $47.71 and monthly risky level at $50.77.
+Fibria Celulose
+($10.59) missed EPS estimates by 17 cents earning 2 cents on May 13. The weekly chart stays negative with the five-week MMA at $11.01 and the 200-week SMA at $13.19. The 200-day SMA is $10.34 with a weekly pivot at $11.08 and monthly risky level at $13.83.
+Glatfelter
+($24.82) beat EPS estimates by 6 cents, earning 40 cents on April 30. The weekly chart is positive but overbought with the five-week MMA at $23.25. My monthly value level is $22.80 with a weekly risky level at $25.14.
+International Paper
+($48.27) missed EPS estimates by 9 cents earning $0.65 on May 2. The weekly chart shifts to negative on a close this week below the five-week MMA at $46.31. My quarterly value level is $40.04 with a semiannual pivot at $45.93 and monthly risky level at $48.80.
+KapStone Paper
+($28.97) missed EPS estimates by 4 cents earning $0.39 on May 7. The weekly chart shifts to negative on a close this week below the five-week MMA at $28.05. My quarterly value level is $23.26 with a weekly pivot at $28.30 and monthly risky level at $30.21.
+Neenah Paper
+($31.20) beat EPS estimates by a nickel earning 74 cents on May 8. The weekly chart stays positive on a close this week above the five-week MMA at $29.78. My weekly value level is $28.51 with a quarterly pivot at $29.77 and semiannual risky level at $32.93.
+Resolute Forest
+($16.17) beat EPS estimates by a nine cents earning $0.23 on April 30. The weekly chart stays positive on a close this week above the five-week MMA at $15.33. My monthly value level is $14.77 with a weekly pivot at $15.82 and the 2013 high at $17.54.
+Schweitzer Mauduit
+($44.65) beat EPS estimates by eight cents earning $1.01 on May 8. The weekly chart stays positive on a close this week above the five-week MMA at $40.99. My weekly value level is $41.78 with a quarterly pivot at $43.10 and semiannual risky level at $46.76.
+Domtar
+($74.50) missed EPS estimates by 52 cents earning 95 cents on April 25. The weekly chart shifts to positive on a close this week above the five-week MMA at $73.66 and the 200-week SMA at $72.90. My quarterly value level is $70.88 with a monthly risky level at $82.25.
+At the time of publication the author had no position in any of the stocks mentioned.
+Follow @Suttmeier
+This article was written by an independent contributor, separate from TheStreet's regular news coverage.
+EXCLUSIVE OFFER: See inside Jim Cramer’s multi-million dollar charitable trust portfolio to see the stocks he thinks could be potentially HUGE winners. Click here to see his holdings for FREE.5 Worst Home Renovation ProjectsWhy Car Prices Vary From City To City7 Towns That Really Want Your Sports Team

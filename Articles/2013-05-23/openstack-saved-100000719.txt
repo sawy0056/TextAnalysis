@@ -1,0 +1,25 @@
+NEW YORK ( TheStreet) -- The cloud market has not evolved the way it was supposed to. While public clouds like Amazon.com's
+AWS were expected to grab a lot of business from start-ups and corporate marketing departments, it was assumed that mainstream information-technology people would be afraid to embrace it.
+The idea was that these folks would build their own private clouds, and then look to connect these clouds to compatible public clouds, creating hybrid clouds.
+OpenStack, an open-source cloud infrastructure, was developed around this idea. Rackspace , the original sponsor, is a Web host that now uses the technology in its public cloud. The bullish case for its stock is that it would gain traction in the public cloud market as companies built private clouds and attached them, creating compatible hybrids.
+Many big companies were attracted to the OpenStack idea, sponsoring the software, nurturing it, and eventually organizing an OpenStack Foundation around it. Red Hat , a Linux vendor with lots of big customers, committed to OpenStack. So did Hewlett-Packard
+. More important, so did IBM .
+So what happened? Amazon kept cutting prices, and kept gaining customers. Big corporations found they needed "big data," and insights from analyzing it, more than they realized.
+Also see: Your Investment Path to the Cloud >>
+Google
+saw this train leaving the station and matched Amazon's prices. Microsoft , whose Azure cloud platform was first sold as a more sophisticated, Windows-centric public cloud, chose to offer base infrastructure and matched Amazon's prices as well.
+The public cloud price war has hammered Rackspace's results, and stock price. It seems to have discouraged other OpenStack supporters, like Dell , which said this week it would resell partners' cloud services rather than create its own OpenStack cloud.
+You might say a cloud hangs over the OpenStack cloud. Without a price-competitive entrant in the hot part of the market - public cloud - it's hard to see how it will ever gain traction as a replacement for existing computing infrastructures.
+I suggested this represented a problem to IBM on another channel.
+The Twittersphere, or that part of it with a clue about cloud, erupted. Some asked why IBM would care about a "commodity market," others asked why I considered Rackspace "too big to fail."
+Marten Mickos, who runs Eucalyptus Systems, which enables Amazon-compatible private clouds, cheered me by suggesting that Red Hat will eventually become the dominant voice in the OpenStack Foundation, surpassing Rackspace.
+I own a few shares of Red Hat but, again, how does a private cloud technology get traction without a compatible public cloud player to connect with?
+The VAR Guy insisted, in a column, that OpenStack advocates really have nothing to worry about. OpenStack isn't a failure, it's a work in progress, use of the software continues to increase, and these are still early days in the cloud game.
+HP also seems committed to OpenStack, with Saar Gillai, named head of its cloud operations in January, telling Infoworld that Service Level Agreements and personal service will bring in the customers, and that OpenStack is just a kernel you build on, not a complete solution.
+Also see: IRS Issues New Home-Office Deduction >>
+The VAR Guy added that Dell hasn't abandoned OpenStack at all, just switched from being a public cloud provider to an arms dealer for those who want to build private clouds. But who wants to build something that's incompatible with what they can rent?
+That remains my question. Until OpenStack has a price-competitive offering in the public cloud market, it will remain my question, and I think it's one investors should take seriously, until it's answered.
+At the time of publication, the author was long Google, Red Hat and IBM.
+Follow @DanaBlankenhorn
+This article is commentary by an independent contributor, separate from TheStreet's regular news coverage.
+EXCLUSIVE OFFER: See inside Jim Cramer’s multi-million dollar charitable trust portfolio to see the stocks he thinks could be potentially HUGE winners. Click here to see his holdings for FREE.Why Car Prices Vary From City To City7 Towns That Really Want Your Sports Team10 Greenest Cars of 2013

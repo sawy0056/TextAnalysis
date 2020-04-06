@@ -1,0 +1,28 @@
+NEW YORK ( TheStreet) -- Doug Kass of Seabreeze Partners is known for his accurate stock market calls and keen insights into the economy, which he shares with RealMoney Pro readers in his daily trading diary. Among the posts this past week were entries about patience and REITs.
+Please click here for information about subscribing to RealMoney Pro.
+This One Demands Some Patience
+Originally published on Friday, June 21 at 4:54 p.m. EDT.
+By Tim Collins
+Consider the side of traders looking to enter or expand their positions -- folks seeking more upside, who are even willing to buy if the security falls further.
+For instance, let's return to Market Vectors Gold Miners ETF , which actually moved up into the closing bell, getting near $24.85. The $27 buyer may think the stock could be heading back higher, but would also be willing to buy more at a lower level. In this case, a trader could consider a risk reversal or risk reversal covered strategy. In this approach, the trader would look to finance a call spread, which would give them more upside potential. They would use a put sale to finance the call spread, as well as to possibly obtain a lower entry.
+Also see: Don't Overreact to the Gold Move >>
+For instance, the trader could look to buy the July $25.50-$27 call spread for around $0.49 and sell the July $23 put for $0.51. This is essentially a no-cost entry. If GDX runs back to $27, the trader will now be up $1.50 -- or less if it occurs before expiration -- and there will still be some time value in the short $27 call. Again, the stock isn't above the initial entry, but the trader is showing a profit.
+Of course, if it were that easy then everyone would do it. Unfortunately, the stock can go down, and this strategy offers little downside protection. Should the stock move below $23 by expiration, the trader will be the proud owner of an additional 100 shares, now making average cost $25. But the loss would still be the same -- between $27 and $23 -- since the trader owns 200 shares now rather than 100.
+Traders who own more shares will then often turn to the above-mentioned repair strategies. In this way, they can at least look at either further lowering their break-even point in exchange for a ceiling on some shares, or consider collaring the newly acquired shares just to maintain some additional downside risk management.
+Also see: Follow Buffett's Wisdom, Buy a Modular REIT >>
+When a trader uses this strategy, then proceeds to use the ratio call spread strategy, I actually don't see anything wrong with this if their thesis for the position remains valid. However, it does require patience, and often folks with a losing position lack this quality and become emotional. Generally, you need to have patience when you are applying a repair strategy or strategy of options to a position. Otherwise you are likely to abandon the trade within a few days of entry. Just be certain to understand the nuisances on any of these approaches before you jump in head-first.
+At the time of original publication, Collins had no position in the stock mentioned.
+Recent REITs
+Originally published on Friday, June 21 at 11:43 a.m. EDT.
+By Tim Collins
+REITs had a strong run up until mid-May. The wall was hit and since then most REITs have sacrificed their entire year-to-date gains, with some even being in the red.
+Still, there may be opportunity here.
+My focus is to look at more recent names to come into the REIT market. The following are six names that have been recently introduced or spun off. The list is actually diverse when I take into account there are only six names here. I don't have a favorite in the group, but understand there is risk, since these are newer issues or in a new model.
+The names are: Chambers Street Properties , American Residential Properties , New Residential Investment , Aviv REIT , Gladstone Land
+and Cole Real Estate Investments .
+I wrote about COLE yesterday and still want to give that one another few days of trading here, as it has been weak. I do know the company is looking to tender some shares in the $12.25-13 range. This one is worth a look. It operates in the single-tenant retail, office and industrial space.
+Also see: All About the Dividends: Stock Pick Whiz Kid >>
+Another diversified REIT that also just did a tender recently at $10.10 is CSG. This one sits a dollar less than that currently. In the new, single-family REIT space, companies acquiring single-family properties and renting them to individuals/families, there is ARPI and NRZ, a spinoff of NewCastle . Both of these should offer high dividends, plus a participation in any housing recovering and strengthening. If you are bullish on housing, then these are definitely worth a look.
+The last two help with the diversity, with LAND owning farmland and AVIV in the health care space. GLAD does have an outside manager, but one that comes with a lot of experience, while AVIV is in the senior care space, which is probably my favorite. There is a huge growing need and as the population ages we'll see an increasing need. I would anticipate about a 6-7% yield from this group over the next year based on the current prices. This is well above many more popular names we see out there. I am not implementing anything today, but will be looking to start building these next week.
+At the time of original publication, Collins had no positions in the stocks mentioned.
+EXCLUSIVE OFFER: See inside Jim Cramer’s multi-million dollar charitable trust portfolio to see the stocks he thinks could be potentially HUGE winners. Click here to see his holdings for FREE.5 Coolest 2013 Cars under $18,000Apple TV Gets a Major Upgrade (Update 1)5 Housing Markets Where You'll Break Even Fast When You Buy
